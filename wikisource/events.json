@@ -1,0 +1,71 @@
+{
+    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Events",
+    "kind": "Category",
+    "childs": [
+        {
+            "tagsource": "<a href=\"\/wiki\/Battle_of_Plunder_Island\" class=\"category-page__member-link\" title=\"Battle of Plunder Island\">Battle of Plunder Island<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Battle_of_Plunder_Island",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Battle_of_Plunder_Island",
+            "title": "Battle of Plunder Island",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Booty_Island_Spitting_Contest\" class=\"category-page__member-link\" title=\"Booty Island Spitting Contest\">Booty Island Spitting Contest<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Booty_Island_Spitting_Contest",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Booty_Island_Spitting_Contest",
+            "title": "Booty Island Spitting Contest",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Governor_Marley%27s_Mardi_Gras_Fish_Fry\" class=\"category-page__member-link\" title=\"Governor Marley&#039;s Mardi Gras Fish Fry\">Governor Marley&#039;s Mardi Gras Fish Fry<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Governor_Marley%27s_Mardi_Gras_Fish_Fry",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Governor_Marley%27s_Mardi_Gras_Fish_Fry",
+            "title": "Governor Marley&#039;s Mardi Gras Fish Fry",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Guybrush_Threepwood%27s_Proposal_to_Elaine_Marley\" class=\"category-page__member-link\" title=\"Guybrush Threepwood&#039;s Proposal to Elaine Marley\">Guybrush Threepwood&#039;s Proposal to Elaine Marley<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Guybrush_Threepwood%27s_Proposal_to_Elaine_Marley",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Guybrush_Threepwood%27s_Proposal_to_Elaine_Marley",
+            "title": "Guybrush Threepwood&#039;s Proposal to Elaine Marley",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Category:Shows\" class=\"category-page__member-link\" title=\"Category:Shows\">Category:Shows<\/a",
+            "kind": "Category",
+            "inner": "\/wiki\/Category:Shows",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Shows",
+            "title": "Shows",
+            "childs": [
+                {
+                    "tagsource": "<a href=\"\/wiki\/SPEARE!:_A_Theatrical_Medley\" class=\"category-page__member-link\" title=\"SPEARE!: A Theatrical Medley\">SPEARE!: A Theatrical Medley<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/SPEARE!:_A_Theatrical_Medley",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/SPEARE!:_A_Theatrical_Medley",
+                    "title": "SPEARE!: A Theatrical Medley",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Titus_Andronicus_on_Ice!\" class=\"category-page__member-link\" title=\"Titus Andronicus on Ice!\">Titus Andronicus on Ice!<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Titus_Andronicus_on_Ice!",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Titus_Andronicus_on_Ice!",
+                    "title": "Titus Andronicus on Ice!",
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/The_Siege_of_Spinner_Cay\" class=\"category-page__member-link\" title=\"The Siege of Spinner Cay\">The Siege of Spinner Cay<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/The_Siege_of_Spinner_Cay",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/The_Siege_of_Spinner_Cay",
+            "title": "The Siege of Spinner Cay",
+            "childs": []
+        }
+    ]
+}
