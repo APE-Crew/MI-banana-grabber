@@ -1,0 +1,369 @@
+{
+    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Animals",
+    "kind": "Category",
+    "childs": [
+        {
+            "tagsource": "<a href=\"\/wiki\/Bats\" class=\"category-page__member-link\" title=\"Bats\">Bats<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Bats",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Bats",
+            "title": "Bats",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Big_Fish\" class=\"category-page__member-link\" title=\"Big Fish\">Big Fish<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Big_Fish",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Big_Fish",
+            "title": "Big Fish",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Chicken\" class=\"category-page__member-link\" title=\"Chicken\">Chicken<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Chicken",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Chicken",
+            "title": "Chicken",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Category:Dogs\" class=\"category-page__member-link\" title=\"Category:Dogs\">Category:Dogs<\/a",
+            "kind": "Category",
+            "inner": "\/wiki\/Category:Dogs",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Dogs",
+            "title": "Dogs",
+            "childs": [
+                {
+                    "tagsource": "<a href=\"\/wiki\/Guybrush_Jr.\" class=\"category-page__member-link\" title=\"Guybrush Jr.\">Guybrush Jr.<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Guybrush_Jr.",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Guybrush_Jr.",
+                    "title": "Guybrush Jr.",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Old_Blind_Pew\" class=\"category-page__member-link\" title=\"Old Blind Pew\">Old Blind Pew<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Old_Blind_Pew",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Old_Blind_Pew",
+                    "title": "Old Blind Pew",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Pirahna_Poodles\" class=\"category-page__member-link\" title=\"Pirahna Poodles\">Pirahna Poodles<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Pirahna_Poodles",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Pirahna_Poodles",
+                    "title": "Pirahna Poodles",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Spiffy\" class=\"category-page__member-link\" title=\"Spiffy\">Spiffy<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Spiffy",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Spiffy",
+                    "title": "Spiffy",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Walt_the_Dog\" class=\"category-page__member-link\" title=\"Walt the Dog\">Walt the Dog<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Walt_the_Dog",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Walt_the_Dog",
+                    "title": "Walt the Dog",
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/El_Pollo_Diablo\" class=\"category-page__member-link\" title=\"El Pollo Diablo\">El Pollo Diablo<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/El_Pollo_Diablo",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/El_Pollo_Diablo",
+            "title": "El Pollo Diablo",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Category:Elaine_Marleys_Pets\" class=\"category-page__member-link\" title=\"Category:Elaine Marleys Pets\">Category:Elaine Marleys Pets<\/a",
+            "kind": "Category",
+            "inner": "\/wiki\/Category:Elaine_Marleys_Pets",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Elaine_Marleys_Pets",
+            "title": "Elaine Marleys Pets",
+            "childs": [
+                {
+                    "tagsource": "<a href=\"\/wiki\/Gopher_Horde\" class=\"category-page__member-link\" title=\"Gopher Horde\">Gopher Horde<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Gopher_Horde",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Gopher_Horde",
+                    "title": "Gopher Horde",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Guybrush_Jr.\" class=\"category-page__member-link\" title=\"Guybrush Jr.\">Guybrush Jr.<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Guybrush_Jr.",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Guybrush_Jr.",
+                    "title": "Guybrush Jr.",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Pirahna_Poodles\" class=\"category-page__member-link\" title=\"Pirahna Poodles\">Pirahna Poodles<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Pirahna_Poodles",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Pirahna_Poodles",
+                    "title": "Pirahna Poodles",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Quarrelsome_Rhinoceros\" class=\"category-page__member-link\" title=\"Quarrelsome Rhinoceros\">Quarrelsome Rhinoceros<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Quarrelsome_Rhinoceros",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Quarrelsome_Rhinoceros",
+                    "title": "Quarrelsome Rhinoceros",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Timmy\" class=\"category-page__member-link\" title=\"Timmy\">Timmy<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Timmy",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Timmy",
+                    "title": "Timmy",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Tremendous_Yak\" class=\"category-page__member-link\" title=\"Tremendous Yak\">Tremendous Yak<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Tremendous_Yak",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Tremendous_Yak",
+                    "title": "Tremendous Yak",
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Frogs\" class=\"category-page__member-link\" title=\"Frogs\">Frogs<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Frogs",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Frogs",
+            "title": "Frogs",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Gopher_Horde\" class=\"category-page__member-link\" title=\"Gopher Horde\">Gopher Horde<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Gopher_Horde",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Gopher_Horde",
+            "title": "Gopher Horde",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/LeChimp\" class=\"category-page__member-link\" title=\"LeChimp\">LeChimp<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/LeChimp",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/LeChimp",
+            "title": "LeChimp",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Legendary_Sea_Creatures\" class=\"category-page__member-link\" title=\"Legendary Sea Creatures\">Legendary Sea Creatures<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Legendary_Sea_Creatures",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Legendary_Sea_Creatures",
+            "title": "Legendary Sea Creatures",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Lice\" class=\"category-page__member-link\" title=\"Lice\">Lice<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Lice",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Lice",
+            "title": "Lice",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Man-Eating_Snake\" class=\"category-page__member-link\" title=\"Man-Eating Snake\">Man-Eating Snake<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Man-Eating_Snake",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Man-Eating_Snake",
+            "title": "Man-Eating Snake",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Monkey\" class=\"category-page__member-link\" title=\"Monkey\">Monkey<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Monkey",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Monkey",
+            "title": "Monkey",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Category:Monkeys\" class=\"category-page__member-link\" title=\"Category:Monkeys\">Category:Monkeys<\/a",
+            "kind": "Category",
+            "inner": "\/wiki\/Category:Monkeys",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Category:Monkeys",
+            "title": "Monkeys",
+            "childs": [
+                {
+                    "tagsource": "<a href=\"\/wiki\/Floppo_the_Bouncer_Monkey\" class=\"category-page__member-link\" title=\"Floppo the Bouncer Monkey\">Floppo the Bouncer Monkey<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Floppo_the_Bouncer_Monkey",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Floppo_the_Bouncer_Monkey",
+                    "title": "Floppo the Bouncer Monkey",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Jojo\" class=\"category-page__member-link\" title=\"Jojo\">Jojo<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Jojo",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Jojo",
+                    "title": "Jojo",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Jojo_Jr.\" class=\"category-page__member-link\" title=\"Jojo Jr.\">Jojo Jr.<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Jojo_Jr.",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Jojo_Jr.",
+                    "title": "Jojo Jr.",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Jojo_Sr.\" class=\"category-page__member-link\" title=\"Jojo Sr.\">Jojo Sr.<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Jojo_Sr.",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Jojo_Sr.",
+                    "title": "Jojo Sr.",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Monkey\" class=\"category-page__member-link\" title=\"Monkey\">Monkey<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Monkey",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Monkey",
+                    "title": "Monkey",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Monkeys_of_Montevideo\" class=\"category-page__member-link\" title=\"Monkeys of Montevideo\">Monkeys of Montevideo<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Monkeys_of_Montevideo",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Monkeys_of_Montevideo",
+                    "title": "Monkeys of Montevideo",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Pirates_of_Danjer_Cove\" class=\"category-page__member-link\" title=\"Pirates of Danjer Cove\">Pirates of Danjer Cove<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Pirates_of_Danjer_Cove",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Pirates_of_Danjer_Cove",
+                    "title": "Pirates of Danjer Cove",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Pongo\" class=\"category-page__member-link\" title=\"Pongo\">Pongo<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Pongo",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Pongo",
+                    "title": "Pongo",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Three_Headed_Monkey\" class=\"category-page__member-link\" title=\"Three Headed Monkey\">Three Headed Monkey<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Three_Headed_Monkey",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Three_Headed_Monkey",
+                    "title": "Three Headed Monkey",
+                    "childs": []
+                },
+                {
+                    "tagsource": "<a href=\"\/wiki\/Timmy\" class=\"category-page__member-link\" title=\"Timmy\">Timmy<\/a",
+                    "kind": "Wiki",
+                    "inner": "\/wiki\/Timmy",
+                    "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Timmy",
+                    "title": "Timmy",
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Mr._Polly\" class=\"category-page__member-link\" title=\"Mr. Polly\">Mr. Polly<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Mr._Polly",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Mr._Polly",
+            "title": "Mr. Polly",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Mr._Willy_Gorilla\" class=\"category-page__member-link\" title=\"Mr. Willy Gorilla\">Mr. Willy Gorilla<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Mr._Willy_Gorilla",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Mr._Willy_Gorilla",
+            "title": "Mr. Willy Gorilla",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Muenster_Monster\" class=\"category-page__member-link\" title=\"Muenster Monster\">Muenster Monster<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Muenster_Monster",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Muenster_Monster",
+            "title": "Muenster Monster",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Murderous_Winged_Devil\" class=\"category-page__member-link\" title=\"Murderous Winged Devil\">Murderous Winged Devil<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Murderous_Winged_Devil",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Murderous_Winged_Devil",
+            "title": "Murderous Winged Devil",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Parrot\" class=\"category-page__member-link\" title=\"Parrot\">Parrot<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Parrot",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Parrot",
+            "title": "Parrot",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Pegbiter\" class=\"category-page__member-link\" title=\"Pegbiter\">Pegbiter<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Pegbiter",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Pegbiter",
+            "title": "Pegbiter",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Quarrelsome_Rhinoceros\" class=\"category-page__member-link\" title=\"Quarrelsome Rhinoceros\">Quarrelsome Rhinoceros<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Quarrelsome_Rhinoceros",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Quarrelsome_Rhinoceros",
+            "title": "Quarrelsome Rhinoceros",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Red_Herring\" class=\"category-page__member-link\" title=\"Red Herring\">Red Herring<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Red_Herring",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Red_Herring",
+            "title": "Red Herring",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Seagull\" class=\"category-page__member-link\" title=\"Seagull\">Seagull<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Seagull",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Seagull",
+            "title": "Seagull",
+            "childs": []
+        },
+        {
+            "tagsource": "<a href=\"\/wiki\/Tremendous_Yak\" class=\"category-page__member-link\" title=\"Tremendous Yak\">Tremendous Yak<\/a",
+            "kind": "Wiki",
+            "inner": "\/wiki\/Tremendous_Yak",
+            "fullurl": "https:\/\/monkeyisland.fandom.com\/wiki\/Tremendous_Yak",
+            "title": "Tremendous Yak",
+            "childs": []
+        }
+    ]
+}
