@@ -2,7 +2,11 @@
 
 ## Installation
 
-` npm instal`
+` npm install`
+
+## Run Script
+
+` node index.js`
 
 ## Todo
 
@@ -75,4 +79,3 @@ Application parameter exchange
 API parameter exchange
 
 Application Programm E[...]
-
