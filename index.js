@@ -3,18 +3,53 @@ const fs = require("fs");
 const sourceFilePath = "wikisource/FULLuniverse.json";
 const destinationFile = "ape_MASTERFILE.json";
 
-fs.readFile(sourceFilePath, "utf8", (err, data) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  // console.log(data);
-  // const result = getCategoryTree(JSON.parse(data));
-  // console.log(result);
-  // const x = getTrackInfo(data);
-  // console.log(JSON.stringify(x));
-  writeFile(JSON.stringify(result), destinationFile);
-});
+// MEMO
+// fs.readFile("./allWikipages.json", "utf-8", (err, jsonString) => {
+//   const data = JSON.parse(jsonString);
+//   console.log(data);
+// });
+// fs.readFile(sourceFilePath, "utf8", (err, data) => {
+//   if (err) {
+//     console.error(err);
+//     return;
+//   }
+//   // console.log(data);
+//   // const result = getCategoryTree(JSON.parse(data));
+//   // console.log(result);
+//   // const x = getTrackInfo(data);
+//   // console.log(JSON.stringify(x));
+//   writeFile(JSON.stringify(result), destinationFile);
+// });
+
+// ----------------------------------------------------
+// split & analyse cats
+// fs.readFile("./allCategories.txt", "utf-8", (err, data) => {
+//   fs.readFile("./allWikipages.json", "utf-8", (err, json) => {
+//     let entity = JSON.parse(json);
+//     // let entityKeys = Object.keys(entity);
+
+//     const lines = data.split("\n");
+
+//     lines.forEach((line) => {
+//       const segement = line.split("|");
+//       const last = segement.pop();
+//       const cats = segement.join("|");
+//       // const last = segement[segement.length - 1];
+
+//       if (entity.hasOwnProperty(last)) {
+//         if (typeof entity[last]["categories"] == "undefined") {
+//           entity[last]["categories"] = [];
+//         }
+//         entity[last]["categories"].push(cats);
+//       }
+//     });
+
+//     // console.log(entity);
+//     writeFile(JSON.stringify(entity), "allWikipagesNEW.json");
+//     // console.log(lines);
+//   });
+// });
+
 // ---------------------------------------------
 function getCategoryTree(dataItem, path = "") {
   // console.log(path);
