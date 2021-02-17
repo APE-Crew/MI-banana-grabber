@@ -1,0 +1,1940 @@
+
+Animals|Bats
+Animals|Dogs|Guybrush Jr.
+Animals|Chicken
+Animals|Dogs|Old Blind Pew
+Animals|Dogs|Pirahna Poodles
+Animals|Dogs|Spiffy
+Animals|Dogs|Walt the Dog
+Animals|El Pollo Diablo
+Animals|Elaine Marleys Pets|Gopher Horde
+Animals|Elaine Marleys Pets
+Animals|Elaine Marleys Pets|Guybrush Jr.
+Animals|Elaine Marleys Pets|Pirahna Poodles
+Animals|Elaine Marleys Pets|Quarrelsome Rhinoceros
+Animals|Elaine Marleys Pets|Timmy
+Animals|Elaine Marleys Pets|Tremendous Yak
+Animals|Frogs
+Animals|Gopher Horde
+Animals|LeChimp
+Animals|Legendary Sea Creatures
+Animals|Lice
+Animals|Man-Eating Snake
+Animals|Monkeys
+Animals|Monkey
+Animals|Monkeys|Floppo the Bouncer Monkey
+Animals|Monkeys|Jojo
+Animals|Monkeys|Jojo Jr.
+Animals|Monkeys|Jojo Sr.
+Animals|Monkeys|Monkey
+Animals|Monkeys|Monkeys of Montevideo
+Animals|Monkeys|Pirates of Danjer Cove
+Animals|Monkeys|Pongo
+Animals|Monkeys|Three Headed Monkey
+Animals|Monkeys|Timmy
+Animals|Mr. Polly
+Animals|Muenster Monster
+Animals|Mr. Willy Gorilla
+Animals|Murderous Winged Devil
+Animals|Pegbiter
+Animals|Quarrelsome Rhinoceros
+Animals|Red Herring
+Animals|Parrot
+Animals|Seagull
+Animals|Tremendous Yak
+Characters
+Characters|Characters By Game
+Characters|Characters By Game|CoMI Characters
+Characters|Characters By Game|CoMI Characters|Baron C. Lambert Chowder-Goodsoup
+Characters|Characters By Game|CoMI Characters|Baron Salmon Bisque de Goodsoup
+Characters|Characters By Game|CoMI Characters|Blondebeard
+Characters|Characters By Game|CoMI Characters|Brothchild family
+Characters|Characters By Game|CoMI Characters|Cabaña Boy
+Characters|Characters By Game|CoMI Characters|Charles DeGoulash
+Characters|Characters By Game|CoMI Characters|Cruff
+Characters|Characters By Game|CoMI Characters|Cutthroat Bill
+Characters|Characters By Game|CoMI Characters|Edward Van Helgen
+Characters|Characters By Game|CoMI Characters|Effete LaFoot
+Characters|Characters By Game|CoMI Characters|El Pollo Diablo
+Characters|Characters By Game|CoMI Characters|Elaine Marley
+Characters|Characters By Game|CoMI Characters|Father Pirate
+Characters|Characters By Game|CoMI Characters|Fergus McMutton
+Characters|Characters By Game|CoMI Characters|Food-related Deities
+Characters|Characters By Game|CoMI Characters|Griswold Goodsoup
+Characters|Characters By Game|CoMI Characters|Guybrush Threepwood
+Characters|Characters By Game|CoMI Characters|Haggis McMutton
+Characters|Characters By Game|CoMI Characters|Ignatius Skullduggery
+Characters|Characters By Game|CoMI Characters|Kenny Falmouth
+Characters|Characters By Game|CoMI Characters|King André
+Characters|Characters By Game|CoMI Characters|LeChimp
+Characters|Characters By Game|CoMI Characters|LeChuck
+Characters|Characters By Game|CoMI Characters|Lemonhead
+Characters|Characters By Game|CoMI Characters|Madame Xima
+Characters|Characters By Game|CoMI Characters|Matchstick McGee
+Characters|Characters By Game|CoMI Characters|McManus McMutton
+Characters|Characters By Game|CoMI Characters|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Characters By Game|CoMI Characters|Monty Meringue
+Characters|Characters By Game|CoMI Characters|Mort
+Characters|Characters By Game|CoMI Characters|Mr. Fossey
+Characters|Characters By Game|CoMI Characters|Mrs. Brinestoop
+Characters|Characters By Game|CoMI Characters|Muffy Rackham
+Characters|Characters By Game|CoMI Characters|Murray
+Characters|Characters By Game|CoMI Characters|Mrs. Falmouth
+Characters|Characters By Game|CoMI Characters|Palido Domingo
+Characters|Characters By Game|CoMI Characters|Pirates of Danjer Cove
+Characters|Characters By Game|CoMI Characters|Plunder Island Soldier
+Characters|Characters By Game|CoMI Characters|Rampaging Rucksack Newton
+Characters|Characters By Game|CoMI Characters|Rapp Scallion
+Characters|Characters By Game|CoMI Characters|Rum Rogers Sr.
+Characters|Characters By Game|CoMI Characters|Sherman
+Characters|Characters By Game|CoMI Characters|Skip Rackham
+Characters|Characters By Game|CoMI Characters|Skully
+Characters|Characters By Game|CoMI Characters|Slappy Cromwell
+Characters|Characters By Game|CoMI Characters|Stan S. Stanman
+Characters|Characters By Game|CoMI Characters|Stu Boyle
+Characters|Characters By Game|CoMI Characters|The Flying Welshman
+Characters|Characters By Game|CoMI Characters|Thin Pirate
+Characters|Characters By Game|CoMI Characters|VanSalad family
+Characters|Characters By Game|CoMI Characters|Voodoo Kids
+Characters|Characters By Game|CoMI Characters|Voodoo Lady
+Characters|Characters By Game|CoMI Characters|Wharf Rat
+Characters|Characters By Game|EfMI Characters
+Characters|Characters By Game|EfMI Characters|Allegro Rasputin
+Characters|Characters By Game|EfMI Characters|Brittany
+Characters|Characters By Game|EfMI Characters|Canard
+Characters|Characters By Game|EfMI Characters|Carla
+Characters|Characters By Game|EfMI Characters|Carla the Sword Master
+Characters|Characters By Game|EfMI Characters|Castaneda
+Characters|Characters By Game|EfMI Characters|Charles L. Charles
+Characters|Characters By Game|EfMI Characters|Deadeye Dave
+Characters|Characters By Game|EfMI Characters|Elaine Marley
+Characters|Characters By Game|EfMI Characters|Elaine Marleys Crew
+Characters|Characters By Game|EfMI Characters|Guybrush Threepwood
+Characters|Characters By Game|EfMI Characters|Estaban
+Characters|Characters By Game|EfMI Characters|Hellbeard the Unrepentant
+Characters|Characters By Game|EfMI Characters|Horatio Torquemada Marley
+Characters|Characters By Game|EfMI Characters|Hugo
+Characters|Characters By Game|EfMI Characters|Ignatius Cheese
+Characters|Characters By Game|EfMI Characters|Jojo Jr.
+Characters|Characters By Game|EfMI Characters|Kristopher Kilometer
+Characters|Characters By Game|EfMI Characters|LeChuck
+Characters|Characters By Game|EfMI Characters|Lua Bar Chef
+Characters|Characters By Game|EfMI Characters|Marco de Pollo
+Characters|Characters By Game|EfMI Characters|Meathook
+Characters|Characters By Game|EfMI Characters|Miss Rivers
+Characters|Characters By Game|EfMI Characters|Mister Santiago
+Characters|Characters By Game|EfMI Characters|Mungle
+Characters|Characters By Game|EfMI Characters|Murray
+Characters|Characters By Game|EfMI Characters|Otis
+Characters|Characters By Game|EfMI Characters|Ozzie Mandrill
+Characters|Characters By Game|EfMI Characters|Pegnose Pete
+Characters|Characters By Game|EfMI Characters|Pongo
+Characters|Characters By Game|EfMI Characters|Ricardo Luigi Pierre M’Benga Chang Nehru O’Hara Casaba the Third
+Characters|Characters By Game|EfMI Characters|Ron
+Characters|Characters By Game|EfMI Characters|Salty the pirate
+Characters|Characters By Game|EfMI Characters|Second Bank of Lucre Manager
+Characters|Characters By Game|EfMI Characters|Simkins
+Characters|Characters By Game|EfMI Characters|Stan S. Stanman
+Characters|Characters By Game|EfMI Characters|Timmy
+Characters|Characters By Game|EfMI Characters|Tony DiBoulda
+Characters|Characters By Game|EfMI Characters|Voodoo Lady
+Characters|Characters By Game|EfMI Characters|Yangja
+Characters|Characters By Game|MI2 Characters
+Characters|Characters By Game|MI2 Characters|Antiques Dealer
+Characters|Characters By Game|MI2 Characters|Augustus DeWaat
+Characters|Characters By Game|MI2 Characters|Barkeeper
+Characters|Characters By Game|MI2 Characters|Bart
+Characters|Characters By Game|MI2 Characters|Bernard
+Characters|Characters By Game|MI2 Characters|Booty Island Guard
+Characters|Characters By Game|MI2 Characters|Bruno
+Characters|Characters By Game|MI2 Characters|Buzzsaw Girl
+Characters|Characters By Game|MI2 Characters|Chester
+Characters|Characters By Game|MI2 Characters|Chuckie
+Characters|Characters By Game|MI2 Characters|Dealer
+Characters|Characters By Game|MI2 Characters|Dread
+Characters|Characters By Game|MI2 Characters|Elaine Marley
+Characters|Characters By Game|MI2 Characters|Filbert
+Characters|Characters By Game|MI2 Characters|Fin
+Characters|Characters By Game|MI2 Characters|Fink
+Characters|Characters By Game|MI2 Characters|Frank
+Characters|Characters By Game|MI2 Characters|Fred
+Characters|Characters By Game|MI2 Characters|Governor Phatt&#039;s Cook
+Characters|Characters By Game|MI2 Characters|Greenbeard
+Characters|Characters By Game|MI2 Characters|Guybrush Jr.
+Characters|Characters By Game|MI2 Characters|Guybrush Threepwood
+Characters|Characters By Game|MI2 Characters|Guybrush&#039;s Parents
+Characters|Characters By Game|MI2 Characters|Horatio Torquemada Marley
+Characters|Characters By Game|MI2 Characters|Innkeeper
+Characters|Characters By Game|MI2 Characters|Jojo
+Characters|Characters By Game|MI2 Characters|Kate Capsize
+Characters|Characters By Game|MI2 Characters|L. Phatt
+Characters|Characters By Game|MI2 Characters|LeChuck
+Characters|Characters By Game|MI2 Characters|Librarian
+Characters|Characters By Game|MI2 Characters|Mad Marty
+Characters|Characters By Game|MI2 Characters|Marco Largo LaGrande
+Characters|Characters By Game|MI2 Characters|Men of Low Moral Fiber
+Characters|Characters By Game|MI2 Characters|Mr. Polly
+Characters|Characters By Game|MI2 Characters|Mr. Willy Gorilla
+Characters|Characters By Game|MI2 Characters|Muenster Monster
+Characters|Characters By Game|MI2 Characters|Parrot Chow
+Characters|Characters By Game|MI2 Characters|Party Guests
+Characters|Characters By Game|MI2 Characters|Pegbiter
+Characters|Characters By Game|MI2 Characters|Phatt Island Guard
+Characters|Characters By Game|MI2 Characters|Pierre LePoisson
+Characters|Characters By Game|MI2 Characters|Ralphie
+Characters|Characters By Game|MI2 Characters|Rapp Scallion
+Characters|Characters By Game|MI2 Characters|Reginald Blackbeard
+Characters|Characters By Game|MI2 Characters|Rum Rogers Jr.
+Characters|Characters By Game|MI2 Characters|Rum Rogers Sr.
+Characters|Characters By Game|MI2 Characters|Stan S. Stanman
+Characters|Characters By Game|MI2 Characters|The Blowfish
+Characters|Characters By Game|MI2 Characters|The Spitmaster
+Characters|Characters By Game|MI2 Characters|Voodoo Lady
+Characters|Characters By Game|MI2 Characters|Voodoo Priest
+Characters|Characters By Game|MI2 Characters|Walt the Dog
+Characters|Characters By Game|MI2 Characters|Woody
+Characters|Characters By Game|SoMI Characters
+Characters|Characters By Game|SoMI Characters|Alfredo Fettucini
+Characters|Characters By Game|SoMI Characters|Bill Fettucini
+Characters|Characters By Game|SoMI Characters|Bob
+Characters|Characters By Game|SoMI Characters|Captain of The Sea Monkey
+Characters|Characters By Game|SoMI Characters|Carla
+Animals|Big Fish
+Characters|Characters By Game|SoMI Characters|Citizen of Mêlée
+Characters|Characters By Game|SoMI Characters|Cobb
+Characters|Characters By Game|SoMI Characters|Elaine Marley
+Characters|Characters By Game|SoMI Characters|Estevan
+Characters|Characters By Game|SoMI Characters|Fester Shinetop
+Characters|Characters By Game|SoMI Characters|Fettucini Brothers
+Characters|Characters By Game|SoMI Characters|Fin
+Characters|Characters By Game|SoMI Characters|Frank
+Characters|Characters By Game|SoMI Characters|Fred
+Characters|Characters By Game|SoMI Characters|Funny Little Man
+Characters|Characters By Game|SoMI Characters|George Lucas
+Characters|Characters By Game|SoMI Characters|Ghost Pirate Crew
+Characters|Characters By Game|SoMI Characters|Gopher Horde
+Characters|Characters By Game|SoMI Characters|Guybrush Threepwood
+Characters|Characters By Game|SoMI Characters|Head of the Navigator
+Characters|Characters By Game|SoMI Characters|Heavily Armed Clown
+Characters|Characters By Game|SoMI Characters|Horatio Torquemada Marley
+Characters|Characters By Game|SoMI Characters|Jojo Sr.
+Characters|Characters By Game|SoMI Characters|LeChuck
+Characters|Characters By Game|SoMI Characters|Lemonhead
+Characters|Characters By Game|SoMI Characters|Lookout
+Characters|Characters By Game|SoMI Characters|Mancomb Seepgood
+Characters|Characters By Game|SoMI Characters|Meathook
+Characters|Characters By Game|SoMI Characters|Men of Low Moral Fiber
+Characters|Characters By Game|SoMI Characters|Murderous Winged Devil
+Characters|Characters By Game|SoMI Characters|Nick
+Characters|Characters By Game|SoMI Characters|Otis
+Characters|Characters By Game|SoMI Characters|Pirahna Poodles
+Characters|Characters By Game|SoMI Characters|Pirate Leaders
+Characters|Characters By Game|SoMI Characters|Red Skull
+Characters|Characters By Game|SoMI Characters|Scumm Bar Chef
+Characters|Characters By Game|SoMI Characters|Sharptooth
+Characters|Characters By Game|SoMI Characters|Smirk
+Characters|Characters By Game|SoMI Characters|Spiffy
+Characters|Characters By Game|SoMI Characters|Stan S. Stanman
+Characters|Characters By Game|SoMI Characters|Store Keeper
+Characters|Characters By Game|SoMI Characters|Tillie
+Characters|Characters By Game|SoMI Characters|Tremendous Yak
+Characters|Characters By Game|SoMI Characters|Troll
+Characters|Characters By Game|SoMI Characters|Voodoo Lady
+Characters|Characters By Game|ToMI Characters
+Characters|Characters By Game|ToMI Characters|Anemone
+Characters|Characters By Game|ToMI Characters|Bill (Swordsman)
+Characters|Characters By Game|ToMI Characters|Bosun Krebbs
+Characters|Characters By Game|ToMI Characters|Club 41 Doorman
+Characters|Characters By Game|ToMI Characters|Coronado De Cava
+Characters|Characters By Game|ToMI Characters|Davey J. Nipperkin
+Characters|Characters By Game|ToMI Characters|Elaine Marley
+Characters|Characters By Game|ToMI Characters|Guybrush Q. Threepwood
+Characters|Characters By Game|ToMI Characters|Guybrush Threepwood
+Characters|Characters By Game|ToMI Characters|Hemlock McGee
+Characters|Characters By Game|ToMI Characters|Killick Hardtack
+Characters|Characters By Game|ToMI Characters|Lazy Crewmen
+Characters|Characters By Game|ToMI Characters|LeChuck
+Characters|Characters By Game|ToMI Characters|Legendary Sea Creatures
+Characters|Characters By Game|ToMI Characters|Marquis De Singe
+Characters|Characters By Game|ToMI Characters|McGillicutty
+Characters|Characters By Game|ToMI Characters|Monkeys of Montevideo
+Characters|Characters By Game|ToMI Characters|Morgan LeFlay
+Characters|Characters By Game|ToMI Characters|Murkel Trenchfoot
+Characters|Characters By Game|ToMI Characters|Murray
+Characters|Characters By Game|ToMI Characters|Reginald Van Winslow
+Characters|Characters By Game|ToMI Characters|Stan S. Stanman
+Characters|Characters By Game|ToMI Characters|The Spoon Isle Trio
+Characters|Characters By Game|ToMI Characters|Vaycaylians
+Characters|Characters By Game|ToMI Characters|Voodoo Lady
+Characters|Characters with a Disability
+Characters|Characters with a Disability|Blind Characters
+Characters|Characters with a Disability|Blind Characters|Deadeye Dave
+Characters|Characters with a Disability|Blind Characters|Lookout
+Characters|Characters with a Disability|Blind Characters|Mad Marty
+Characters|Characters with a Disability|Blind Characters|Old Blind Pew
+Characters|Characters with a Disability|Blind Characters|Wally B. Feed
+Characters|Characters with a Disability|Bosun Krebbs
+Characters|Characters with a Disability|Characters with a Pegleg
+Characters|Characters with a Disability|Characters with a Pegleg|Bob
+Characters|Characters with a Disability|Characters with a Pegleg|Effete LaFoot
+Characters|Characters with a Disability|Characters with a Pegleg|Frank
+Characters|Characters with a Disability|Characters with a Pegleg|Ignatius Cheese
+Characters|Characters with a Disability|Characters with a Pegleg|Innkeeper
+Characters|Characters with a Disability|Characters with Difficulty Walking
+Characters|Characters with a Disability|Characters with Difficulty Walking|Head of the Navigator
+Characters|Characters with a Disability|Characters with Difficulty Walking|Hemlock McGee
+Characters|Characters with a Disability|Characters with Difficulty Walking|L. Phatt
+Characters|Characters with a Disability|Characters with Difficulty Walking|Store Keeper
+Characters|Characters with a Disability|Characters with One Good Eye
+Characters|Characters with a Disability|Characters with One Good Eye|Edward Van Helgen
+Characters|Characters with a Disability|Characters with One Good Eye|Estevan
+Characters|Characters with a Disability|Characters with One Good Eye|Fink
+Characters|Characters with a Disability|Deaf Characters
+Characters|Characters with a Disability|Deaf Characters|Augustus DeWaat
+Characters|Characters with a Disability|Deaf Characters|Mad Marty
+Characters|Characters with a Disability|Hook Handed Characters
+Characters|Characters with a Disability|Hook Handed Characters|Blondebeard
+Characters|Characters with a Disability|Hook Handed Characters|Guybrush Threepwood
+Characters|Characters with a Disability|Hook Handed Characters|Meathook
+Characters|Characters with a Disability|Insane Characters
+Characters|Deceased
+Characters|Deceased|Baron C. Lambert Chowder-Goodsoup
+Characters|Deceased|Bill (Swordsman)
+Characters|Deceased|Captain of The Sea Monkey
+Characters|Deceased|Charles DeGoulash
+Characters|Deceased|Charles L. Charles
+Characters|Deceased|Duchess Cream of Goodsoup
+Characters|Deceased|Gazpacho Goodsoup
+Characters|Deceased|Guybrush&#039;s Parents
+Characters|Deceased|M.M. Goodsoup
+Characters|Deceased|Marco Largo LaGrande
+Characters|Deceased|Marquess Victoria Soise-Goodsoup
+Characters|Deceased|McGillicutty
+Characters|Deceased|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Deceased|Mr. Willy Gorilla
+Characters|Deceased|Ozzie Mandrill
+Characters|Deceased|Rapp Scallion
+Characters|Deceased|Rum Rogers Sr.
+Characters|Deceased|The Spoon Isle Trio
+Characters|Deceased|Undead
+Characters|Deceased|Undead|Army of the Undead
+Characters|Deceased|Undead|Bob
+Characters|Deceased|Undead|Ghosts
+Characters|Deceased|Undead|Ghosts|Allegro Rasputin
+Characters|Deceased|Undead|Ghosts|Bob
+Characters|Deceased|Undead|Ghosts|Ghost Pirate Crew
+Characters|Deceased|Undead|Ghosts|LeChuck
+Characters|Deceased|Undead|Ghosts|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Deceased|Undead|Ghosts|Morgan LeFlay
+Characters|Deceased|Undead|Guybrush Threepwood
+Characters|Deceased|Undead|Head of the Navigator
+Characters|Deceased|Undead|LeChuck
+Characters|Deceased|Undead|Morgan LeFlay
+Characters|Deceased|Undead|Murray
+Characters|Deceased|Undead|Murray&#039;s Arm
+Characters|Deceased|Undead|Rapp Scallion
+Characters|Deceased|Undead|Skully
+Characters|Deceased|Undead|Thin Pirate
+Characters|Deceased|Young Lindy
+Characters|Families
+Characters|Families|Brothchild family
+Characters|Families|Goodsoup Family
+Characters|Families|Goodsoup Family|Baron C. Lambert Chowder-Goodsoup
+Characters|Families|Goodsoup Family|Baron Salmon Bisque de Goodsoup
+Characters|Families|Goodsoup Family|Duchess Cream of Goodsoup
+Characters|Families|Goodsoup Family|Gazpacho Goodsoup
+Characters|Families|Goodsoup Family|Griswold Goodsoup
+Characters|Families|Goodsoup Family|M.M. Goodsoup
+Characters|Families|Goodsoup Family|Marquess Victoria Soise-Goodsoup
+Characters|Families|Goodsoup Family|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Families|Marley Family
+Characters|Families|Marley Family|Elaine Marley
+Characters|Families|Marley Family|Horatio Torquemada Marley
+Animals|Dogs
+Characters|Families|Rogers Family|Rum Rogers Jr.
+Characters|Families|Rogers Family|Rum Rogers Sr.
+Characters|Families|The Clan McMutton
+Characters|Families|The Clan McMutton|Fergus McMutton
+Characters|Families|The Clan McMutton|Haggis McMutton
+Characters|Families|The Clan McMutton|McManus McMutton
+Characters|Families|Threepwood Family
+Characters|Families|Threepwood Family|Guybrush Threepwood
+Characters|Families|Threepwood Family|Elaine Marley
+Characters|Families|Threepwood Family|Guybrush&#039;s Parents
+Characters|Families|Threepwood Family|Timmy
+Characters|Families|VanSalad family
+Characters|Females
+Characters|Females|Booty Island Guard
+Characters|Females|Bosun Krebbs
+Characters|Females|Brittany
+Characters|Females|Buzzsaw Girl
+Characters|Females|Carla
+Characters|Females|Carla the Sword Master
+Characters|Females|Duchess Cream of Goodsoup
+Characters|Females|Elaine Marley
+Characters|Females|Fergus McMutton
+Characters|Females|Kate Capsize
+Characters|Females|Madame Xima
+Characters|Females|Librarian
+Characters|Females|Marquess Victoria Soise-Goodsoup
+Characters|Females|Miss Rivers
+Characters|Females|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Females|Morgan LeFlay
+Characters|Females|Mrs. Falmouth
+Characters|Females|Muffy Rackham
+Characters|Females|Tillie
+Characters|Females|Voodoo Lady
+Characters|Females|Willimina
+Characters|Females|Yangja
+Characters|Gods
+Characters|Gods|Food-related Deities
+Characters|Gods|Nor Treblig
+Characters|Gods|Sherman
+Characters|Gods|Volcano god
+Characters|Males
+Characters|Males|Alfredo Fettucini
+Characters|Males|Allegro Rasputin
+Characters|Males|Angus McFulcrum
+Characters|Males|Antiques Dealer
+Characters|Males|Augustus DeWaat
+Characters|Males|Barkeeper
+Characters|Males|Baron C. Lambert Chowder-Goodsoup
+Characters|Males|Baron Salmon Bisque de Goodsoup
+Characters|Males|Bart
+Characters|Males|Bernard
+Characters|Males|Bill (Swordsman)
+Characters|Males|Bill Fettucini
+Characters|Males|Bob
+Characters|Males|Bruno
+Characters|Males|Cabaña Boy
+Characters|Males|Canard
+Characters|Males|Captain of The Sea Monkey
+Characters|Males|Castaneda
+Characters|Males|Charles DeGoulash
+Characters|Males|Charles L. Charles
+Characters|Males|Chester
+Characters|Males|Chuckie
+Characters|Males|Citizen of Mêlée
+Characters|Males|Club 41 Doorman
+Characters|Males|Cobb
+Characters|Males|Coronado De Cava
+Characters|Males|Coronado DeCava
+Characters|Males|Cruff
+Characters|Males|Cutthroat Bill
+Characters|Males|Davey J. Nipperkin
+Characters|Males|Deadeye Dave
+Characters|Males|Dealer
+Characters|Males|Dinghy Dog
+Characters|Males|Dominique
+Characters|Males|Dread
+Characters|Males|Edward Van Helgen
+Characters|Males|Effete LaFoot
+Characters|Males|Estevan
+Characters|Males|Estaban
+Characters|Males|Fester Shinetop
+Characters|Males|Father Pirate
+Characters|Males|Fettucini Brothers
+Characters|Males|Filbert
+Characters|Males|Fin
+Characters|Males|Fink
+Characters|Males|Frank
+Characters|Males|Fred
+Characters|Males|Funny Little Man
+Characters|Males|Gazpacho Goodsoup
+Characters|Males|Greenbeard
+Characters|Males|Guy Friday
+Characters|Males|Griswold Goodsoup
+Characters|Males|Guybrush Q. Threepwood
+Characters|Males|Guybrush Jr.
+Characters|Males|Guybrush Threepwood
+Characters|Males|Head of the Navigator
+Characters|Males|Haggis McMutton
+Characters|Males|Horatio Torquemada Marley
+Characters|Males|Hellbeard the Unrepentant
+Characters|Males|Hugo
+Characters|Males|Ignatius Skullduggery
+Characters|Males|Innkeeper
+Characters|Males|Ignatius Cheese
+Characters|Males|Killick Hardtack
+Characters|Males|Kenny Falmouth
+Characters|Males|King André
+Characters|Males|Kristopher Kilometer
+Characters|Males|L. Phatt
+Characters|Males|L. Ron Gilbert
+Characters|Males|Largo LaGrande
+Characters|Males|LeChuck
+Characters|Males|Lazy Crewmen
+Characters|Males|Lemonhead
+Characters|Males|Lookout
+Characters|Males|Mad Marty
+Characters|Males|Lua Bar Chef
+Characters|Males|Mancomb Seepgood
+Characters|Males|Marco de Pollo
+Characters|Males|Marquis De Singe
+Characters|Males|McGillicutty
+Characters|Males|McManus McMutton
+Characters|Males|Meathook
+Characters|Males|Men of Low Moral Fiber
+Characters|Males|Mister Santiago
+Characters|Males|Monty Meringue
+Characters|Males|Mort
+Characters|Males|Mr. Fossey
+Characters|Males|Mr. Willy Gorilla
+Characters|Males|Mungle
+Characters|Males|Murkel Trenchfoot
+Characters|Males|Murray
+Characters|Males|Nick
+Characters|Males|Otis
+Characters|Males|Ozzie Mandrill
+Characters|Males|Palido Domingo
+Characters|Males|Pegnose Pete
+Characters|Males|Phatt Island Guard
+Characters|Males|Pierre LePoisson
+Characters|Males|Pirate Leaders
+Characters|Males|Quetzalcoatl
+Characters|Males|Ralphie
+Characters|Males|Red Skull
+Characters|Males|Reginald Blackbeard
+Characters|Males|Reginald Van Winslow
+Characters|Males|Ricardo Luigi Pierre M’Benga Chang Nehru O’Hara Casaba the Third
+Characters|Males|Ron
+Characters|Males|Rum Rogers Jr.
+Characters|Males|Rum Rogers Sr.
+Characters|Males|Salty the pirate
+Characters|Males|Scumm Bar Chef
+Characters|Males|Second Bank of Lucre Manager
+Characters|Males|Sharptooth
+Characters|Males|Sherman
+Characters|Males|Simkins
+Characters|Males|Simon Finkleberth
+Characters|Males|Skip Rackham
+Characters|Males|Skully
+Characters|Males|Smirk
+Characters|Males|Stan S. Stanman
+Characters|Males|Store Keeper
+Characters|Males|Stu Boyle
+Characters|Males|The Blowfish
+Characters|Males|The Flying Welshman
+Characters|Males|The Spitmaster
+Characters|Males|The Spoon Isle Trio
+Characters|Males|Thin Pirate
+Characters|Males|Timmy
+Characters|Males|Tony DiBoulda
+Characters|Males|Troll
+Characters|Males|Voodoo Priest
+Characters|Males|Wally B. Feed
+Characters|Males|Wharf Rat
+Characters|Males|Woody
+Characters|Males|Young Lindy
+Characters|Mentioned only characters
+Characters|Mentioned only characters|Baron C. Lambert Chowder-Goodsoup
+Characters|Mentioned only characters|Baron Salmon Bisque de Goodsoup
+Characters|Mentioned only characters|Big Jake McJuggernaut
+Characters|Families|Rogers Family
+Characters|Mentioned only characters|Buzzsaw Girl
+Characters|Mentioned only characters|Dominique
+Characters|Mentioned only characters|Duchess Cream of Goodsoup
+Characters|Mentioned only characters|El Pollo Diablo
+Characters|Mentioned only characters|Fergus McMutton
+Characters|Mentioned only characters|Gazpacho Goodsoup
+Characters|Mentioned only characters|Governor Phatt&#039;s Cook
+Characters|Mentioned only characters|Guy Friday
+Characters|Mentioned only characters|Guybrush Q. Threepwood
+Characters|Mentioned only characters|Ignatius Skullduggery
+Characters|Mentioned only characters|L. Ron Gilbert
+Characters|Mentioned only characters|M.M. Goodsoup
+Characters|Mentioned only characters|Marco Largo LaGrande
+Characters|Mentioned only characters|Marquess Victoria Soise-Goodsoup
+Characters|Mentioned only characters|McManus McMutton
+Characters|Mentioned only characters|Mrs. Brinestoop
+Characters|Mentioned only characters|Mrs. Falmouth
+Characters|Mentioned only characters|Muffy Rackham
+Characters|Mentioned only characters|Nor Treblig
+Characters|Mentioned only characters|Quetzalcoatl
+Characters|Mentioned only characters|Rampaging Rucksack Newton
+Characters|Mentioned only characters|Brothchild family
+Characters|Mentioned only characters|Reginald Blackbeard
+Characters|Mentioned only characters|Ron
+Characters|Mentioned only characters|Simon Finkleberth
+Characters|Mentioned only characters|Skip Rackham
+Characters|Mentioned only characters|Tillie
+Characters|Mentioned only characters|VanSalad family
+Characters|Mentioned only characters|Voodoo Kids
+Characters|Mentioned only characters|Willimina
+Characters|Nationalities
+Characters|Nationalities|Australians
+Characters|Nationalities|Dinky Island Residents
+Characters|Characters By Game|SoMI Characters|Carla the Sword Master
+Characters|Nationalities|Frenchmen|Marquis De Singe
+Characters|Nationalities|Frenchmen|Pierre LePoisson
+Characters|Nationalities|Frenchmen|René Rottingham
+Characters|Nationalities|Jamaicans
+Characters|Nationalities|Monkey Island Residents
+Animals
+Characters|Nationalities|Monkey Island Residents|Bob
+Characters|Nationalities|Monkey Island Residents|Dinghy Dog
+Characters|Nationalities|Monkey Island Residents|Ghost Pirate Crew
+Characters|Nationalities|Monkey Island Residents|Head of the Navigator
+Characters|Nationalities|Monkey Island Residents|Horatio Torquemada Marley
+Characters|Nationalities|Monkey Island Residents|Jojo Jr.
+Characters|Nationalities|Monkey Island Residents|Jojo Sr.
+Characters|Nationalities|Monkey Island Residents|LeChuck
+Characters|Nationalities|Monkey Island Residents|Lemonhead
+Characters|Nationalities|Monkey Island Residents|Monty Meringue
+Characters|Nationalities|Monkey Island Residents|Red Skull
+Characters|Nationalities|Monkey Island Residents|Sharptooth
+Characters|Nationalities|Monkey Island Residents|Three Headed Monkey
+Characters|Nationalities|Residents of the Tri-Island Area
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Baron C. Lambert Chowder-Goodsoup
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Baron Salmon Bisque de Goodsoup
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Charles DeGoulash
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Griswold Goodsoup
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Lemonhead
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Madame Xima
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Minnie &quot;Stroni&quot; Goodsoup
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Mort
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Old Blind Pew
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Stan S. Stanman
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Tex Venture
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|The Flying Welshman
+Characters|Nationalities|Residents of the Tri-Island Area|Blood Island Residents|Willimina
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Antiques Dealer
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Augustus DeWaat
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Booty Island Guard
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Elaine Marley
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Filbert
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Guybrush Jr.
+Characters|Nationalities|Frenchmen|Lua Bar Chef
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Mr. Polly
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Pierre LePoisson
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Stan S. Stanman
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|The Spitmaster
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents|Bosun Krebbs
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents|Club 41 Doorman
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents|Davey J. Nipperkin
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents|Hemlock McGee
+Characters|Nationalities|Residents of the Tri-Island Area|Flotsam Island Residents|Voodoo Lady
+Characters|Nationalities|Residents of the Tri-Island Area|Jambalaya Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Jambalaya Island Residents|Kristopher Kilometer
+Characters|Nationalities|Residents of the Tri-Island Area|Jambalaya Island Residents|Marco de Pollo
+Characters|Nationalities|Residents of the Tri-Island Area|Jambalaya Island Residents|Stan S. Stanman
+Characters|Nationalities|Residents of the Tri-Island Area|Knuttin Atoll Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Knuttin Atoll Residents|Hellbeard the Unrepentant
+Characters|Nationalities|Residents of the Tri-Island Area|Knuttin Atoll Residents|Jumbeaux Lafeet
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Brittany
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Canard
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Castaneda
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Deadeye Dave
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Hugo
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Mister Santiago
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Ozzie Mandrill
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Pegnose Pete
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Salty the pirate
+Characters|Nationalities|Residents of the Tri-Island Area|Lucre Island Residents|Second Bank of Lucre Manager
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Alfredo Fettucini
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Bill Fettucini
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Captain of The Sea Monkey
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Carla the Sword Master
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Charles L. Charles
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Citizen of Mêlée
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Cobb
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Elaine Marley
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Elaine Marleys Crew
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Estaban
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Estevan
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Fester Shinetop
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Fin
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Frank
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Fred
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Funny Little Man
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|George Lucas
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Gopher Horde
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Heavily Armed Clown
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Horatio Torquemada Marley
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Ignatius Cheese
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Lookout
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Lua Bar Chef
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Mancomb Seepgood
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Meathook
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Men of Low Moral Fiber
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Murderous Winged Devil
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Nick
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Otis
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Pirahna Poodles
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Pirate Leaders
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Quarrelsome Rhinoceros
+Characters|Nationalities|Monkey Island Residents|Allegro Rasputin
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Scumm Bar Chef
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Smirk
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Spiffy
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Stan S. Stanman
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Store Keeper
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Timmy
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Tony DiBoulda
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Tremendous Yak
+Characters|Nationalities|Frenchmen
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Voodoo Lady
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Bruno
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Dealer
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Governor Phatt&#039;s Cook
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Guy Friday
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|L. Phatt
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Mr. Willy Gorilla
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Librarian
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Phatt Island Guard
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Ralphie
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Rum Rogers Jr.
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Rum Rogers Sr.
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|The Blowfish
+Characters|Nationalities|Residents of the Tri-Island Area|Phatt Island Residents|Walt the Dog
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Blondebeard
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Cabaña Boy
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Cutthroat Bill
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Edward Van Helgen
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Elaine Marley
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|El Pollo Diablo
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Haggis McMutton
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Troll
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|LeChimp
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Kenny Falmouth
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Man-Eating Snake
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Mrs. Brinestoop
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Mrs. Falmouth
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Muffy Rackham
+Characters|Nationalities|Residents of the Tri-Island Area|Booty Island Residents|Kate Capsize
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Palido Domingo
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Pirates of Danjer Cove
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Plunder Island Soldier
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Mr. Fossey
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Stu Boyle
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Voodoo Kids
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Voodoo Lady
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Barkeeper
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Baron Salmon Bisque de Goodsoup
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Bart
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Bernard
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Dread
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Fin
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Fink
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Frank
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Fred
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Innkeeper
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Jojo
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Largo LaGrande
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Skip Rackham
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Marco Largo LaGrande
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Men of Low Moral Fiber
+Characters|Nationalities|Residents of the Tri-Island Area|Mêlée Island Residents|Ron
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Pegbiter
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Rapp Scallion
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|The Flying Welshman
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|VanSalad family
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Voodoo Lady
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Woody
+Characters|Nationalities|Residents of the Tri-Island Area|Skull Island Residents
+Characters|Nationalities|Residents of the Tri-Island Area|Skull Island Residents|Cruff
+Characters|Nationalities|Residents of the Tri-Island Area|Skull Island Residents|Effete LaFoot
+Characters|Nationalities|Residents of the Tri-Island Area|Skull Island Residents|King André
+Characters|Nationalities|Scotsmen
+Characters|Nationalities|Scotsmen|Angus McFulcrum
+Characters|Nationalities|Scotsmen|Big Jake McJuggernaut
+Characters|Nationalities|Scotsmen|Fergus McMutton
+Characters|Nationalities|Scotsmen|Haggis McMutton
+Characters|Nationalities|Scotsmen|McManus McMutton
+Characters|Nationalities|Welshmen
+Characters|Nor Treblig
+Characters|Organisations
+Characters|Organisations|Blood Island Tourism Council
+Characters|Organisations|Brimstone Beach Country Club and Smorgy
+Characters|Organisations|Cannibal
+Characters|Organisations|Cannibal
+Characters|Organisations|Cannibal|Cannibal
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Muenster Monster
+Characters|Organisations|Cannibal|Red Skull
+Characters|Organisations|Cannibal|Sharptooth
+Characters|Organisations|Capsize Charters
+Characters|Organisations|Central Caribbean School for Governors
+Characters|Organisations|Keelhauler Gazette
+Characters|Organisations|Plunder Island Naturalist Society
+Characters|Organisations|Silver&#039;s Long Johns
+Characters|Organisations|Stan&#039;s Businesses
+Characters|Organisations|Stan&#039;s Businesses|Mutual of Stan
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Courtroom Souvenir Emporium
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Kozy Krypts
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Previously Owned Coffins
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Previously Owned Restaurant Supplies
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Previously Owned Vessels
+Characters|Organisations|Stan&#039;s Businesses|Stan&#039;s Timeshare Emporium
+Characters|Organisations|Stan&#039;s Businesses|StanTech
+Characters|Organisations|The Fantastic Flying Fettucini Brothers Circus
+Characters|Organisations|The Flotsam Times
+Characters|Organisations|The Gambler&#039;s Club
+Characters|Organisations|The Sacking Lunch
+Characters|Pirates
+Characters|Pirates|Angus McFulcrum
+Characters|Pirates|Army of the Undead
+Characters|Pirates|Bart
+Characters|Pirates|Bill (Swordsman)
+Characters|Pirates|Bob
+Characters|Pirates|Bosun Krebbs
+Characters|Pirates|Carla
+Characters|Pirates|Carla the Sword Master
+Characters|Pirates|Cobb
+Characters|Pirates|Cutthroat Bill
+Characters|Pirates|Dread
+Characters|Pirates|Edward Van Helgen
+Characters|Pirates|Elaine Marley
+Characters|Pirates|Estevan
+Characters|Pirates|Fin
+Characters|Pirates|Fink
+Characters|Pirates|Frank
+Characters|Pirates|Fred
+Characters|Pirates|Ghost Pirate Crew
+Characters|Pirates|Greenbeard
+Characters|Pirates|Guybrush Q. Threepwood
+Characters|Pirates|Guybrush Threepwood
+Characters|Pirates|Head of the Navigator
+Characters|Pirates|Hellbeard the Unrepentant
+Characters|Pirates|Hemlock McGee
+Characters|Pirates|Horatio Torquemada Marley
+Characters|Pirates|Kate Capsize
+Characters|Pirates|Killick Hardtack
+Characters|Pirates|Largo LaGrande
+Characters|Pirates|Lazy Crewmen
+Characters|Pirates|LeChimp
+Characters|Pirates|LeChuck
+Characters|Pirates|Mancomb Seepgood
+Characters|Pirates|Marco Largo LaGrande
+Characters|Pirates|McGillicutty
+Characters|Pirates|Meathook
+Characters|Pirates|Men of Low Moral Fiber
+Characters|Pirates|Mr. Fossey
+Characters|Pirates|Mungle
+Characters|Pirates|Murkel Trenchfoot
+Characters|Nationalities|Residents of the Tri-Island Area|Plunder Island Residents|Slappy Cromwell
+Characters|Pirates|Nick
+Characters|Pirates|Otis
+Characters|Pirates|Pegnose Pete
+Characters|Pirates|Pirate
+Characters|Pirates|Pirate Leaders
+Characters|Pirates|Pirates of Danjer Cove
+Characters|Pirates|Rapp Scallion
+Characters|Pirates|Reginald Blackbeard
+Characters|Pirates|Reginald Van Winslow
+Characters|Pirates|René Rottingham
+Characters|Pirates|Rum Rogers Jr.
+Characters|Pirates|Rum Rogers Sr.
+Characters|Pirates|Salty the pirate
+Characters|Pirates|Smirk
+Characters|Pirates|Smugglers
+Characters|Pirates|Smugglers|Cruff
+Characters|Pirates|Smugglers|King André
+Characters|Pirates|Stu Boyle
+Characters|Pirates|The Spoon Isle Trio
+Characters|Pirates|Thin Pirate
+Characters|Pirates|Wally B. Feed
+Characters|Pirates|Yangja
+Characters|Nationalities|Residents of the Tri-Island Area|Scabb Island Residents|Mad Marty
+Characters|Vaycaylians
+Characters|Villains
+Characters|Villains|Aliases of LeChuck
+Characters|Villains|Aliases of LeChuck|Charles L. Charles
+Characters|Pirates|Murray
+Characters|Villains|Aliases of LeChuck|Fester Shinetop
+Characters|Villains|Charles L. Charles
+Characters|Villains|Chuckie
+Characters|Villains|Cruff
+Characters|Villains|Dinghy Dog
+Characters|Villains|Fester Shinetop
+Characters|Villains|King André
+Characters|Villains|L. Phatt
+Characters|Villains|Largo LaGrande
+Characters|Villains|LeChuck
+Characters|Organisations|Cannibal|Lemonhead
+Characters|Villains|McGillicutty
+Characters|Villains|Ozzie Mandrill
+Characters|Villains|Pegnose Pete
+Characters|Villains|René Rottingham
+Characters|Villains|Tony DiBoulda
+Characters|Volcano god
+Events
+Events|Battle of Plunder Island
+Events|Booty Island Spitting Contest
+Events|Governor Marley&#039;s Mardi Gras Fish Fry
+Characters|Villains|Aliases of LeChuck|Chuckie
+Events|Shows
+Events|Shows|SPEARE!: A Theatrical Medley
+Events|Shows|Titus Andronicus on Ice!
+Events|The Siege of Spinner Cay
+Items|Anchor
+Items
+Items|Banjo
+Items|Beverages
+Items|Beverages|Grog
+Items|Beverages|Banang
+Items|Beverages|Jug o&#039; Grog
+Items|Beverages|Lemonade
+Items|Beverages|Monkey Spring Water
+Items|Beverages|Near-Grog
+Items|Beverages|Phlegm and Tonic
+Items|Beverages|Root Beer
+Characters|Pirates|Young Lindy
+Items|Beverages|The Bloody Stump
+Items|Beverages|The Blue Whale
+Items|Beverages|Yellow Beard&#039;s Baby
+Items|Books
+Items|Books|Big Whoop: Unclaimed Bonanza or Myth?
+Items|Books|Collectable Toy Trucks
+Items|Beverages|Rum
+Items|Books|Kleptomania
+Items|Books|Famous Pirate Quotations
+Items|Books|Manual of Style
+Items|Books|Never Trade Lunches with a Corpse
+Items|Books|Pirate Potables
+Items|Books|Masque of the Red Mud
+Items|Books|The A-mfggh-C&#039;s of Ventriloquism
+Items|Books|The Goodsoups: A Life in Pictures
+Items|Books|The Joy of Hex
+Items|Books|The Memoirs of Guybrush Threepwood
+Items|Books|The Spork of Madness
+Items|Cheese Grater?
+Items|Clothing
+Items|Clothing|100% Cotton T-shirt
+Characters|Villains|Marquis De Singe
+Items|Clothing|Fake hook
+Events|Guybrush Threepwood&#039;s Proposal to Elaine Marley
+Items|Clothing|Largo&#039;s Toupee
+Items|Clothing|Monocle
+Items|Clothing|Largo&#039;s Brassiere
+Items|Clothing|T-Shirt
+Items|Clothing|Silver&#039;s Long Johns
+Items|Clothing|Top Hat
+Items|Clothing|Wax Lips
+Items|CoMI Inventory Items|Bag of Wooden Nickels
+Items|Clothing|White Glove
+Items|CoMI Inventory Items|Bottomless mug
+Items|Clothing|Pirate Hat
+Items|CoMI Inventory Items|Cap&#039;n Nick&#039;s Shaving Soap
+Items|CoMI Inventory Items|Biscuit Cutter
+Items|CoMI Inventory Items|Chicken Grease
+Items|Clothing|Fine Pink Dress
+Items|CoMI Inventory Items|Coffin nails
+Items|CoMI Inventory Items|Brimstone Beach Club Card
+Items|CoMI Inventory Items|Compass
+Items|CoMI Inventory Items
+Items|CoMI Inventory Items|Cooking Oil
+Items|CoMI Inventory Items|Crowbar
+Items|CoMI Inventory Items|Cursed Diamond Ring
+Items|CoMI Inventory Items|Destructomatic T-47
+Items|CoMI Inventory Items|Fabergé Egg
+Items|CoMI Inventory Items|Fake hook
+Items|CoMI Inventory Items|Gaff
+Items|CoMI Inventory Items|Glowing Ember
+Items|CoMI Inventory Items|Gold Tooth
+Items|CoMI Inventory Items|Goodsoup Family Diamond
+Items|CoMI Inventory Items|Chisel
+Items|CoMI Inventory Items|Hollow Reeds
+Items|CoMI Inventory Items|Ipecac Flower
+Items|CoMI Inventory Items|Jar
+Items|CoMI Inventory Items|Jawbreaker
+Items|CoMI Inventory Items|LeChimp&#039;s Map
+Items|CoMI Inventory Items|Lice
+Items|CoMI Inventory Items|Magic Wand
+Items|CoMI Inventory Items|Map to Blood Island
+Items|CoMI Inventory Items|Lots-o-stuff
+Items|CoMI Inventory Items|Mug
+Items|CoMI Inventory Items|Murray
+Items|CoMI Inventory Items|Murray&#039;s Arm
+Items|CoMI Inventory Items|Chicken Shoppe Reservation Slip
+Items|CoMI Inventory Items|Pancake Syrup
+Items|CoMI Inventory Items|Paperweight
+Items|CoMI Inventory Items|Pea-Shooter
+Items|CoMI Inventory Items|Pie Pan
+Items|CoMI Inventory Items|Pieces o&#039; Eight
+Items|CoMI Inventory Items|Pirate Potables
+Items|CoMI Inventory Items|Pack of Gum
+Items|CoMI Inventory Items|Pitcher
+Items|CoMI Inventory Items|Portrait
+Items|CoMI Inventory Items|Pin
+Items|CoMI Inventory Items|Ramrod
+Items|CoMI Inventory Items|Refrigerator magnet
+Items|CoMI Inventory Items|Helium Balloon
+Items|CoMI Inventory Items|Scissors
+Items|CoMI Inventory Items|Serrated Bread Knife
+Items|CoMI Inventory Items|Shovel
+Items|CoMI Inventory Items|Sword
+Items|CoMI Inventory Items|Syrup of Ipecac
+Items|CoMI Inventory Items|The A-mfggh-C&#039;s of Ventriloquism
+Items|CoMI Inventory Items|The Goodsoups: A Life in Pictures
+Items|CoMI Inventory Items|Thorn
+Items|CoMI Inventory Items|Top-Secret Plans
+Items|CoMI Inventory Items|Towel
+Items|CoMI Inventory Items|Umbrella
+Items|CoMI Inventory Items|Voodoo &#039;n&#039; Things Flyer
+Items|CoMI Inventory Items|Vacuum Cleaner Attachments
+Items|CoMI Inventory Items|White Glove
+Items|Crate
+Items|Currency
+Items|Currency|Bag of Wooden Nickels
+Items|Currency|Pieces o&#039; Eight
+Items|Currency|Riches
+Items|Currency|Storekeeper&#039;s Note
+Items|Devices
+Items|Cursed Diamond Ring
+Items|Devices|Banana Picker
+Items|Devices|Cannon
+Items|Devices|The Machine
+Items|EfMI Inventory Items
+Items|EfMI Inventory Items|Little Guybrush and Little LeChuck
+Items|EfMI Inventory Items|Rubber Chicken With A Pulley In The Middle
+Items|EfMI Inventory Items|Pieces o&#039; Eight
+Items|EfMI Inventory Items|Sword
+Items|EfMI Inventory Items|The Mêlée Island Gubernatorial Symbol
+Items|EfMI Inventory Items|The Ultimate Insult
+Items|Figurehead
+Items|Floatation Device
+Items|Food
+Items|Food|Banana
+Items|Food|Breath Mint
+Items|Food|Breathmaster Mints
+Items|Food|Carrot cake
+Items|Food|Cheese
+Items|Food|Cheese Squigglies
+Items|Food|Chicken Grease
+Items|Food|Cinnamon Sticks
+Items|Food|Cooking Oil
+Items|Food|Cracker
+Items|Food|Fizzy Phil&#039;s Breath Mints
+Items|Food|Jawbreaker
+Items|Food|Meat
+Items|Food|Meat with Condiment
+Items|Food|Pack of Gum
+Items|Food|Pancake Syrup
+Items|Food|Parrot Chow
+Items|Food|Syrup of Ipecac
+Items|Food|Vichyssoise
+Items|Grog Machine
+Items|Guybrush Threepwood&#039;s Wanted Poster
+Items|Important Artifact
+Items|Important Artifact|Giant Monkey Robot
+Items|Important Artifact|La Esponja Grande
+Items|Important Artifact|Map to Big Whoop
+Items|Important Artifact|The Ultimate Insult
+Items|LeChuck&#039;s Beard
+Items|LeChuck&#039;s Voodoo Throne
+Items|Marley Family Heirlooms
+Items|MI2 Inventory Items
+Items|MI2 Inventory Items|&#039;Beware of Parrot&#039; Sign
+Items|MI2 Inventory Items|Ash-2-Life
+Items|MI2 Inventory Items|Banana
+Items|MI2 Inventory Items|Big Fish
+Items|MI2 Inventory Items|Big Whoop: Unclaimed Bonanza or Myth?
+Items|MI2 Inventory Items|Bone
+Items|MI2 Inventory Items|Box o&#039; Cracker Mix
+Items|MI2 Inventory Items|Broken Oar
+Items|MI2 Inventory Items|Bucket
+Items|MI2 Inventory Items|Captain Marley&#039;s Big Whoop Map Piece
+Items|MI2 Inventory Items|Cheese Squigglies
+Items|MI2 Inventory Items|Cracker
+Items|MI2 Inventory Items|Crazy Straw
+Items|MI2 Inventory Items|Crowbar
+Items|MI2 Inventory Items|Crypt Key
+Items|MI2 Inventory Items|Empty Glass
+Items|MI2 Inventory Items|E Ticket
+Items|MI2 Inventory Items|Famous Pirate Quotations
+Items|MI2 Inventory Items|Feather Pen
+Items|MI2 Inventory Items|Fine Pink Dress
+Items|MI2 Inventory Items|Glass Bottle
+Items|MI2 Inventory Items|Fishing rod
+Items|MI2 Inventory Items|Gorilla Envelope
+Items|MI2 Inventory Items|Guybrush Jr.
+Items|MI2 Inventory Items|Hubcap
+Items|MI2 Inventory Items|Invitation to Governor Marleys Mardi Gras Party
+Items|MI2 Inventory Items|Jojo
+Items|MI2 Inventory Items|Great Shipwrecks Of Our Century
+Items|MI2 Inventory Items|Juju Bag
+Items|MI2 Inventory Items|LaGrande&#039;s Bone
+Items|MI2 Inventory Items|Largo&#039;s Brassiere
+Items|MI2 Inventory Items|Largo&#039;s Spit
+Items|MI2 Inventory Items|Largo&#039;s Toupee
+Items|MI2 Inventory Items|Laundry Claim Ticket
+Items|MI2 Inventory Items|Leaflet
+Items|MI2 Inventory Items|LeChuck&#039;s Beard
+Items|MI2 Inventory Items|Love Bomb
+Items|MI2 Inventory Items|Mad Monkey Figurehead
+Items|MI2 Inventory Items|Manila Envelope
+Items|MI2 Inventory Items|Martini Glass
+Items|MI2 Inventory Items|Matches
+Items|MI2 Inventory Items|Mirror
+Items|MI2 Inventory Items|Model Lighthouse Lens
+Items|MI2 Inventory Items|Monocle
+Items|MI2 Inventory Items|Muenster Monster
+Items|MI2 Inventory Items|Nails
+Items|MI2 Inventory Items|Near-Grog
+Items|MI2 Inventory Items|Oar
+Items|MI2 Inventory Items|Organ
+Items|MI2 Inventory Items|Paper
+Items|MI2 Inventory Items|Phlegm and Tonic
+Items|MI2 Inventory Items|Pieces o&#039; Eight
+Items|MI2 Inventory Items|Pirate Hat
+Items|MI2 Inventory Items|Plank
+Items|MI2 Inventory Items|Rapp Scallion&#039;s Ashes
+Items|MI2 Inventory Items|Rapp Scallion&#039;s Big Whoop Map Piece
+Items|MI2 Inventory Items|Reinforced Oar
+Items|MI2 Inventory Items|Riches
+Items|MI2 Inventory Items|Rock and Roll Collector&#039;s Plate
+Items|MI2 Inventory Items|Root Beer
+Items|MI2 Inventory Items|Rum Rogers&#039; Big Whoop Map Piece
+Items|MI2 Inventory Items|Ship&#039;s Horn
+Items|MI2 Inventory Items|Shovel
+Items|MI2 Inventory Items|Small Key
+Items|MI2 Inventory Items|Spit Encrusted Paper
+Items|MI2 Inventory Items|Spit Plaque
+Items|MI2 Inventory Items|Spyglass
+Items|MI2 Inventory Items|Stan&#039;s Complimentary Hankie
+Items|MI2 Inventory Items|Steamin&#039; Weenie Hut Key
+Items|MI2 Inventory Items|Stick (Phatt)
+Items|MI2 Inventory Items|Stick (Scabb)
+Items|MI2 Inventory Items|String
+Items|MI2 Inventory Items|Temporary Library Card
+Items|MI2 Inventory Items|The Bloody Stump
+Items|MI2 Inventory Items|The Blue Whale
+Items|MI2 Inventory Items|Vanilla Envelope
+Items|MI2 Inventory Items|Voodoo Doll
+Items|MI2 Inventory Items|Weekend Getaway at Hook Island
+Items|MI2 Inventory Items|Well-Polished Old Saw
+Items|MI2 Inventory Items|Woodsmith&#039;s Hammer
+Items|MI2 Inventory Items|Wreath
+Items|MI2 Inventory Items|Yellow Beard&#039;s Baby
+Items|MI2 Inventory Items|Young Lindy&#039;s Big Whoop Map Piece
+Items|Midas Diamond
+Items|Model Lighthouse
+Items|Pappapisshu Bush
+Items|Pegleg
+Items|Pieces o&#039; Eight
+Items|Plants
+Items|Plants|Caniche Endormi Flower
+Items|Plants|Chuck the Plant
+Items|Plants|Ipecac Flower
+Items|Plants|Pappapisshu Bush
+Items|Plants|Rubber Tree
+Items|Porcelain
+Items|Primitive Art
+Items|Red Button
+Items|Rubber Chicken With A Pulley In The Middle
+Items|Sailing Medallion
+Items|Screaming Chair
+Items|Sextant
+Items|Snake-Away
+Items|SoMI Inventory Items
+Items|SoMI Inventory Items|100% Cotton T-shirt
+Items|SoMI Inventory Items|Banana
+Items|SoMI Inventory Items|Breathmaster Mints
+Items|SoMI Inventory Items|Caniche Endormi Flower
+Items|SoMI Inventory Items|Carrot cake
+Items|SoMI Inventory Items|Cinnamon Sticks
+Items|SoMI Inventory Items|Extra Strong Magnetic Compass
+Items|CoMI Inventory Items|Rubber Plug
+Items|SoMI Inventory Items|File
+Items|SoMI Inventory Items|Ghost Feather
+Items|SoMI Inventory Items|Ghost Tools
+Items|SoMI Inventory Items|Gopher Repellent
+Items|SoMI Inventory Items|How to Arm Yourself in Sea Battle
+Items|SoMI Inventory Items|Head of the Navigator
+Items|SoMI Inventory Items|How to Get a Leg Up in Treasure Hunting
+Items|SoMI Inventory Items|How to Get Ahead in Navigating
+Items|SoMI Inventory Items|Idol of Many Hands
+Items|SoMI Inventory Items|Ink
+Items|SoMI Inventory Items|Jug o&#039; Grog
+Items|SoMI Inventory Items|LeChuck&#039;s Kidnap Note
+Items|SoMI Inventory Items|List of items in The Secret of Monkey Island
+Items|SoMI Inventory Items|Manual of Style
+Items|SoMI Inventory Items|Meat
+Items|SoMI Inventory Items|Meat with Condiment
+Items|SoMI Inventory Items|Ming Vase
+Items|SoMI Inventory Items|Monkey Head Key
+Items|SoMI Inventory Items|Mug
+Items|SoMI Inventory Items|Mêlée Island Treasure Map
+Items|SoMI Inventory Items|Navigator&#039;s Necklace
+Items|SoMI Inventory Items|Pieces o&#039; Eight
+Items|SoMI Inventory Items|Pot
+Items|SoMI Inventory Items|Red Herring
+Items|SoMI Inventory Items|Root Beer
+Items|SoMI Inventory Items|Rubber Chicken With A Pulley In The Middle
+Items|SoMI Inventory Items|Shovel
+Items|SoMI Inventory Items|Spyglass
+Items|SoMI Inventory Items|Stan&#039;s Business Card
+Items|SoMI Inventory Items|Staple Remover
+Items|SoMI Inventory Items|Storekeeper&#039;s Note
+Items|SoMI Inventory Items|Stylish Confetti
+Items|SoMI Inventory Items|Sword
+Items|SoMI Inventory Items|T-Shirt
+Items|SoMI Inventory Items|Wax Lips
+Items|Stan&#039;s Casual Crosses
+Items|ToMI Inventory Items
+Items|ToMI Inventory Items|Chuck&#039;s Roots
+Items|CoMI Inventory Items|Pistol
+Items|ToMI Inventory Items|La Esponja Grande
+Items|ToMI Inventory Items|Monkey Casket of Kauai
+Items|ToMI Inventory Items|Murray
+Items|ToMI Inventory Items|Fizzy Phil&#039;s Breath Mints
+Items|ToMI Inventory Items|Shovel
+Items|ToMI Inventory Items|Sword
+Items|Toys
+Items|Toys|LeChuckie
+Items|Toys|Pea-Shooter
+Items|Treasure
+Items|Treasure|Bag of Wooden Nickels
+Items|Treasure|Big Whoop
+Items|Treasure|Cursed Diamond Ring
+Items|Treasure|E Ticket
+Items|Treasure|Fabergé Egg
+Items|Treasure|Gold Tooth
+Items|Treasure|Goodsoup Family Diamond
+Items|SoMI Inventory Items|Feather Pen
+Items|Treasure|Idol of Many Hands
+Items|Treasure|Mad Monkey Figurehead
+Items|Treasure|Marley Family Heirlooms
+Items|Treasure|Midas Diamond
+Items|Treasure|Ming Vase
+Items|Treasure|Riches
+Items|Treasure|Rock and Roll Collector&#039;s Plate
+Items|Books|Great Shipwrecks Of Our Century
+Items|Treasure|T-Shirt
+Items|Treasure|The Legendary Lost Treasure of Mêlée Island
+Items|Voodoo Key to Jail
+Items|Voodoo root
+Items|ToMI Inventory Items|Root Beer
+Items|Weapons|Cursed Cutlass of Kaflu
+Items|Weapons|Destructomatic T-47
+Items|Weapons|Flaming Ghost Sword
+Items|Weapons|Hand Cannon
+Items|Weapons|Old Ironsides
+Items|Weapons|Pea-Shooter
+Items|Weapons
+Items|Weapons|Red Button
+Items|Weapons|Root Beer
+Items|Weapons|Serrated Bread Knife
+Items|Weapons|Sword
+Items|Weapons|Voodoo Cannonball
+Items|Weapons|Voodoo Doll
+Laws
+Laws|Largo Embargo
+Laws|The Three Trials
+Legends
+Legends|Big Whoop
+Legends|Big Whoop
+Legends|Big Whoop|Big Whoop
+Legends|Big Whoop|Big Whoop Decoy Islands
+Legends|Big Whoop|Captain Marley&#039;s Big Whoop Map Piece
+Legends|Big Whoop|Dinky Island
+Legends|Big Whoop|Map to Big Whoop
+Items|Weapons|Pistol
+Legends|Big Whoop|Marleys Crew|Captain Marley&#039;s Crew
+Legends|Big Whoop|Marleys Crew|Horatio Torquemada Marley
+Legends|Big Whoop|Marleys Crew|Rapp Scallion
+Legends|Big Whoop|Marleys Crew|Rum Rogers Sr.
+Legends|Big Whoop|Marleys Crew|Young Lindy
+Legends|Big Whoop|Monkey Mountain Rollercoaster
+Legends|Big Whoop|Rapp Scallion
+Legends|Big Whoop|Rapp Scallion&#039;s Big Whoop Map Piece
+Legends|Big Whoop|Rum Rogers&#039; Big Whoop Map Piece
+Legends|Big Whoop|Young Lindy&#039;s Big Whoop Map Piece
+Legends|Big Whoop Decoy Islands
+Legends|Dinky Island
+Legends|El Pollo Diablo
+Legends|Eye of the Monkey
+Legends|La Esponja Grande
+Legends|Legendary Sea Creatures
+Legends|Monkey Casket of Kauai
+Legends|Monkey Island
+Legends|Monkeys of Montevideo
+Legends|The Mad Monkey
+Legends|The Secret
+Legends|Three Headed Monkey
+Locations
+Locations|Buildings
+Locations|Buildings|Bait Shoppe
+Locations|Buildings|Bars
+Locations|Buildings|Bars|Club 41
+Locations|Buildings|Bars|Micro-Groggery
+Locations|Buildings|Bars|Scumm Bar
+Locations|Buildings|Bars|The Bloody Lip Bar and Grill
+Locations|Buildings|Blondebeard&#039;s Chicken Shoppe
+Locations|Buildings|Captain Smirk&#039;s House
+Locations|Buildings|Cartographer&#039;s Hut
+Locations|Buildings|Flotsam Island Courthouse
+Locations|Buildings|Governor&#039;s mansion
+Locations|Buildings|Hall of Justice
+Locations|Buildings|Hotels
+Locations|Buildings|Hotels|Swamp Rot Inn
+Locations|Buildings|Hotels|The Goodsoup Plantation Resort Hotel and Casino
+Locations|Buildings|House of Sticks
+Locations|Buildings|LeChuck&#039;s Fortress
+Locations|Buildings|Mansions
+Locations|Buildings|Mansions|Booty Island Mansion
+Locations|Buildings|Mansions|Governor Phatt&#039;s mansion
+Locations|Buildings|Mansions|Governor&#039;s mansion
+Locations|Buildings|Mansions|Ozzie Mandrill&#039;s Mansion
+Locations|Buildings|Mêlée Island Church
+Locations|Buildings|Mêlée Island Store
+Locations|Buildings|Ozzie Mandrill&#039;s Mansion
+Locations|Buildings|Palace of Prostheses
+Locations|Buildings|Phatt City Library
+Locations|Buildings|Phatt Island Jail
+Locations|Buildings|Planet Threepwood
+Locations|Buildings|Plunder Island Fort
+Locations|Buildings|Restaurants
+Locations|Buildings|Restaurants|Blondebeard&#039;s Chicken Shoppe
+Locations|Buildings|Restaurants|Planet Threepwood
+Locations|Buildings|Restaurants|Steamin&#039; Weenie Hut
+Locations|Buildings|Restaurants|The Sacking Lunch
+Locations|Buildings|Rum Roger&#039;s Cottage
+Locations|Buildings|Stan&#039;s Previously Owned Coffins
+Locations|Buildings|Stan&#039;s Timeshare Emporium
+Locations|Buildings|StarBuccaneers Coffee
+Locations|Buildings|Swamp Rot Inn
+Locations|Buildings|Swordmaster&#039;s house
+Locations|Buildings|The Barbery Coast
+Locations|Buildings|The Booty Boutique
+Locations|Buildings|The First Church of LeChuck
+Locations|Buildings|The Flotsam Keelhauler Gazette
+Locations|Buildings|The International House of Mojo
+Locations|Buildings|The Second Bank of Lucre
+Locations|Buildings|Voodoo &#039;n&#039; Things
+Locations|Buildings|Woodtick Woodshop
+Locations|Cities
+Locations|Cities|Phatt City
+Locations|Cities|Puerto Pollo
+Locations|CoMI Locations
+Locations|CoMI Locations|Blood Island
+Locations|CoMI Locations|Monkey Island
+Locations|CoMI Locations|Plunder Island
+Locations|CoMI Locations|Skull Island
+Locations|Dead Man&#039;s Drop
+Locations|EfMI Locations
+Locations|EfMI Locations|Jambalaya Island
+Locations|EfMI Locations|Knuttin Atoll
+Locations|EfMI Locations|Lucre Island
+Locations|EfMI Locations|Monkey Island
+Locations|EfMI Locations|Mêlée Island
+Locations|Islands
+Locations|Islands|Big Whoop Decoy Islands
+Locations|Islands|Blood Island
+Locations|Islands|Blood Island Locations
+Locations|Islands|Blood Island Locations|Blood Island beach
+Locations|Islands|Blood Island Locations|Blood Island Cemetery
+Locations|Islands|Blood Island Locations|Cannibal Village (Blood Island)
+Items|Treasure|Guybrush Threepwood&#039;s Proposal to Elaine Marley
+Locations|Islands|Blood Island Locations|Goodsoup Family Crypt
+Locations|Islands|Blood Island Locations|Lighthouse (Blood Island)
+Locations|Islands|Blood Island Locations|Mt. Acidophilus
+Locations|Islands|Blood Island Locations|Shipwreck
+Locations|Islands|Blood Island Locations|The Goodsoup Plantation Resort Hotel and Casino
+Locations|Islands|Blood Island Locations|Windmill
+Locations|Islands|Booty Island
+Locations|Islands|Booty Island Locations
+Locations|Islands|Booty Island Locations|Big Tree
+Locations|Islands|Booty Island Locations|Booty Island Mansion
+Locations|Islands|Booty Island Locations|Cliff (Booty Island)
+Locations|Islands|Booty Island Locations|Costume Shop
+Locations|Islands|Booty Island Locations|Stan&#039;s Previously Owned Coffins
+Locations|Islands|Booty Island Locations|The Booty Boutique
+Locations|Islands|Booty Island Locations|Ville de la Booty
+Locations|Islands|Boulder Beach
+Locations|Islands|Brillig Island
+Locations|Islands|Dinky Island
+Locations|Islands|Dinky Island Locations
+Locations|Islands|Flotsam Island
+Locations|Islands|Flotsam Island Locations
+Locations|Islands|Flotsam Island Locations|Club 41
+Locations|Islands|Flotsam Island Locations|Flotsam Island Courthouse
+Locations|Islands|Flotsam Island Locations|Stan&#039;s Courtroom Souvenir Emporium
+Locations|Islands|Flotsam Island Locations|The Flotsam Keelhauler Gazette
+Locations|Islands|Hook Isle
+Locations|Islands|Isle of Ewe
+Locations|Islands|Jambalaya Island
+Locations|Islands|Jambalaya Island Locations
+Locations|Islands|Jambalaya Island Locations|Micro-Groggery
+Locations|Islands|Jambalaya Island Locations|Planet Threepwood
+Locations|Islands|Jambalaya Island Locations|Stan&#039;s Timeshare Emporium
+Locations|Islands|Blood Island Locations|Clearing (Blood Island)
+Locations|Islands|Jambalaya Island Locations|StarBuccaneers Coffee
+Locations|Islands|Knuttin Atoll
+Locations|Islands|LeChuck&#039;s Fortress
+Locations|Islands|Lucre Island
+Locations|Islands|Lucre Island Locations|Bait Shoppe
+Locations|Islands|Lucre Island Locations
+Locations|Islands|Lucre Island Locations|Hall of Justice
+Locations|Islands|Lucre Island Locations|House of Sticks
+Locations|Islands|Lucre Island Locations|Lucre Town
+Locations|Islands|Lucre Island Locations|Mysts o&#039;Tyme Marshe
+Locations|Islands|Lucre Island Locations|Ozzie Mandrill&#039;s Mansion
+Locations|Islands|Lucre Island Locations|Palace of Prostheses
+Locations|Islands|Lucre Island Locations|Secret Lagoon
+Locations|Islands|Lucre Island Locations|The Second Bank of Lucre
+Locations|Islands|Monkey Island
+Locations|Islands|Monkey Island Locations
+Locations|Islands|Monkey Island Locations|Cannibal Village
+Locations|Islands|Monkey Island Locations|Carnival of the Damned
+Locations|Islands|Monkey Island Locations|Giant Monkey Head
+Locations|Islands|Monkey Island Locations|Monkey Mountain Rollercoaster
+Locations|Islands|Monkey Island Locations|The First Church of LeChuck
+Locations|Islands|Monkey Island Locations|Underground Maze
+Locations|Islands|Mêlée Island
+Locations|Islands|Mêlée Island Locations
+Locations|Islands|Mêlée Island Locations|Captain Smirk&#039;s House
+Locations|Islands|Mêlée Island Locations|Clearing
+Locations|Islands|Mêlée Island Locations|Fork
+Locations|Islands|Mêlée Island Locations|Hook Isle
+Locations|Islands|Mêlée Island Locations|Governor&#039;s mansion
+Locations|Islands|Mêlée Island Locations|Lookout Point
+Locations|Islands|Mêlée Island Locations|Mêlée Docks
+Locations|Islands|Mêlée Island Locations|Mêlée Island Church
+Locations|Islands|Mêlée Island Locations|Mêlée Island Forest
+Locations|Islands|Mêlée Island Locations|Mêlée Island Prison
+Locations|Islands|Mêlée Island Locations|Mêlée Island Store
+Locations|Islands|Mêlée Island Locations|Mêlée Town
+Locations|Islands|Mêlée Island Locations|Scumm Bar
+Locations|Islands|Mêlée Island Locations|Stan&#039;s Previously Owned Vessels
+Locations|Islands|Mêlée Island Locations|Swordmaster&#039;s house
+Locations|Islands|Mêlée Island Locations|The Fantastic Flying Fettucini Brothers Circus
+Locations|Islands|Mêlée Island Locations|The International House of Mojo
+Locations|Islands|Mêlée Island Locations|The Legendary Lost Treasure of Mêlée Island
+Locations|Islands|Mêlée Island Locations|Troll Toll Bridge
+Locations|Islands|Phatt Island
+Locations|Islands|Phatt Island Locations
+Locations|Islands|Phatt Island Locations|Governor Phatt&#039;s mansion
+Locations|Islands|Phatt Island Locations|Phatt City
+Locations|Islands|Phatt Island Locations|Phatt City Library
+Locations|Islands|Phatt Island Locations|Phatt Island Jail
+Locations|Islands|Phatt Island Locations|Rum Roger&#039;s Cottage
+Locations|Islands|Phatt Island Locations|Waterfall
+Locations|Islands|Phatt Island Locations|Wheel of Fortune
+Locations|Islands|Pinchpenny Island
+Locations|Islands|Plunder Island
+Locations|Islands|Plunder Island Locations
+Locations|Islands|Plunder Island Locations|Blondebeard&#039;s Chicken Shoppe
+Locations|Islands|Plunder Island Locations|Brimstone Beach Country Club and Smorgy
+Locations|Islands|Plunder Island Locations|Danjer Cove
+Locations|Islands|Plunder Island Locations|Field of Honor
+Locations|Islands|Plunder Island Locations|Plunder Island Fort
+Locations|Islands|Plunder Island Locations|Puerto Pollo
+Locations|Islands|Plunder Island Locations|Quicksand Pit
+Locations|Islands|Plunder Island Locations|Snake X-ing
+Locations|Islands|Plunder Island Locations|The Barbery Coast
+Locations|Islands|Plunder Island Locations|The Long John Silver Center for the Performing Arts
+Locations|Islands|Plunder Island Locations|Voodoo &#039;n&#039; Things
+Locations|Islands|Rock of Gelato
+Locations|Islands|Roe Island
+Locations|Islands|Scabb Island
+Locations|Islands|Scabb Island Locations
+Locations|Islands|Scabb Island Locations|Cartographer&#039;s Hut
+Locations|Islands|Scabb Island Locations|Peninsula
+Locations|Islands|Scabb Island Locations|Scabb Island beach
+Locations|Islands|Scabb Island Locations|Scabb Island Internment Park
+Locations|Islands|Scabb Island Locations|Scabb Island Swamp
+Items|Treasure|Spit Plaque
+Legends|Big Whoop|Marleys Crew
+Locations|Islands|Scabb Island Locations|The Bloody Lip Bar and Grill
+Locations|Islands|Scabb Island Locations|The International House of Mojo
+Locations|Islands|Scabb Island Locations|Woodtick
+Locations|Islands|Scabb Island Locations|Woodtick Laundry
+Locations|Islands|Scabb Island Locations|Woodtick Woodshop
+Locations|Islands|Skull Island
+Locations|Islands|Spinner Cay
+Locations|Islands|Scabb Island Locations|Steamin&#039; Weenie Hut
+Locations|Islands|Spoon Isle
+Locations|MI2 Locations
+Locations|MI2 Locations|Booty Island
+Locations|MI2 Locations|Dinky Island
+Locations|MI2 Locations|Monkey Island
+Locations|MI2 Locations|Mêlée Island
+Locations|MI2 Locations|Phatt Island
+Locations|MI2 Locations|Scabb Island
+Locations|Phatt Island Locations
+Locations|Phatt Island Locations|Governor Phatt&#039;s mansion
+Locations|Phatt Island Locations|Phatt City
+Locations|Islands|Spittle Island
+Locations|Phatt Island Locations|Phatt Island Jail
+Locations|Phatt Island Locations|Rum Roger&#039;s Cottage
+Locations|Phatt Island Locations|Waterfall
+Locations|Phatt Island Locations|Wheel of Fortune
+Locations|SoMI Locations
+Locations|SoMI Locations|Monkey Island
+Locations|SoMI Locations|Mêlée Island
+Locations|The Caribbean
+Locations|The Caribbean|Caribbean
+Locations|The Caribbean|Forbidden Bodies of Water
+Locations|The Caribbean|Gulf of Melange
+Locations|The Caribbean|Gulf of Melange|Boulder Beach
+Locations|The Caribbean|Gulf of Melange|Brillig Island
+Locations|The Caribbean|Gulf of Melange|Flotsam Island
+Locations|The Caribbean|Gulf of Melange|Isle of Ewe
+Locations|The Caribbean|Gulf of Melange|Jerkbait Islands
+Locations|The Caribbean|Gulf of Melange|Jerkbait Islands
+Locations|The Caribbean|Gulf of Melange|Jerkbait Islands|Roe Island
+Locations|The Caribbean|Gulf of Melange|Jerkbait Islands|Spinner Cay
+Locations|The Caribbean|Gulf of Melange|Jerkbait Islands|Spoon Isle
+Locations|The Caribbean|Gulf of Melange|Rock of Gelato
+Locations|The Caribbean|Gulf of Melange|Roe Island
+Locations|The Caribbean|Gulf of Melange|Spinner Cay
+Locations|The Caribbean|Gulf of Melange|Spoon Isle
+Locations|The Caribbean|Islands
+Locations|The Caribbean|Islands|Big Whoop Decoy Islands
+Locations|The Caribbean|Islands|Blood Island
+Locations|The Caribbean|Islands|Blood Island Locations
+Locations|The Caribbean|Islands|Blood Island Locations|Blood Island beach
+Locations|Phatt Island Locations|Phatt City Library
+Locations|The Caribbean|Islands|Blood Island Locations|Cannibal Village (Blood Island)
+Locations|The Caribbean|Islands|Blood Island Locations|Clearing (Blood Island)
+Locations|The Caribbean|Islands|Blood Island Locations|Goodsoup Family Crypt
+Locations|The Caribbean|Islands|Blood Island Locations|Lighthouse (Blood Island)
+Locations|The Caribbean|Islands|Blood Island Locations|Mt. Acidophilus
+Locations|The Caribbean|Islands|Blood Island Locations|Shipwreck
+Locations|The Caribbean|Islands|Blood Island Locations|The Goodsoup Plantation Resort Hotel and Casino
+Locations|The Caribbean|Islands|Blood Island Locations|Windmill
+Locations|The Caribbean|Islands|Booty Island
+Locations|The Caribbean|Islands|Booty Island Locations
+Locations|The Caribbean|Islands|Booty Island Locations|Big Tree
+Locations|The Caribbean|Islands|Booty Island Locations|Booty Island Mansion
+Locations|The Caribbean|Islands|Booty Island Locations|Cliff (Booty Island)
+Locations|The Caribbean|Islands|Booty Island Locations|Costume Shop
+Locations|The Caribbean|Islands|Booty Island Locations|Stan&#039;s Previously Owned Coffins
+Locations|The Caribbean|Islands|Booty Island Locations|The Booty Boutique
+Locations|The Caribbean|Islands|Booty Island Locations|Ville de la Booty
+Locations|The Caribbean|Islands|Boulder Beach
+Locations|The Caribbean|Islands|Brillig Island
+Locations|The Caribbean|Islands|Dinky Island
+Locations|The Caribbean|Islands|Dinky Island Locations
+Locations|The Caribbean|Islands|Flotsam Island
+Locations|The Caribbean|Islands|Flotsam Island Locations
+Locations|The Caribbean|Islands|Flotsam Island Locations|Club 41
+Locations|The Caribbean|Islands|Flotsam Island Locations|Flotsam Island Courthouse
+Locations|The Caribbean|Islands|Flotsam Island Locations|Stan&#039;s Courtroom Souvenir Emporium
+Locations|The Caribbean|Islands|Flotsam Island Locations|The Flotsam Keelhauler Gazette
+Locations|Islands|Scabb Island Locations|Swamp Rot Inn
+Locations|The Caribbean|Islands|Isle of Ewe
+Locations|The Caribbean|Islands|Jambalaya Island
+Locations|The Caribbean|Islands|Jambalaya Island Locations
+Locations|The Caribbean|Islands|Jambalaya Island Locations|Micro-Groggery
+Locations|The Caribbean|Islands|Jambalaya Island Locations|Planet Threepwood
+Locations|The Caribbean|Islands|Jambalaya Island Locations|Stan&#039;s Timeshare Emporium
+Locations|The Caribbean|Islands|Jambalaya Island Locations|StarBuccaneers Coffee
+Locations|The Caribbean|Islands|Jerkbait Islands
+Locations|The Caribbean|Islands|Knuttin Atoll
+Locations|The Caribbean|Islands|LeChuck&#039;s Fortress
+Locations|The Caribbean|Islands|Lucre Island
+Locations|The Caribbean|Islands|Lucre Island Locations
+Locations|The Caribbean|Islands|Lucre Island Locations|Bait Shoppe
+Locations|The Caribbean|Islands|Lucre Island Locations|Hall of Justice
+Locations|The Caribbean|Islands|Lucre Island Locations|House of Sticks
+Locations|The Caribbean|Islands|Lucre Island Locations|Lucre Town
+Locations|The Caribbean|Islands|Lucre Island Locations|Mysts o&#039;Tyme Marshe
+Locations|The Caribbean|Islands|Lucre Island Locations|Ozzie Mandrill&#039;s Mansion
+Locations|The Caribbean|Islands|Lucre Island Locations|Palace of Prostheses
+Locations|The Caribbean|Islands|Lucre Island Locations|Secret Lagoon
+Locations|The Caribbean|Islands|Lucre Island Locations|The Second Bank of Lucre
+Locations|The Caribbean|Islands|Monkey Island
+Locations|The Caribbean|Islands|Monkey Island Locations
+Locations|The Caribbean|Islands|Monkey Island Locations|Cannibal Village
+Locations|The Caribbean|Islands|Monkey Island Locations|Carnival of the Damned
+Locations|The Caribbean|Islands|Monkey Island Locations|Giant Monkey Head
+Locations|The Caribbean|Islands|Monkey Island Locations|Monkey Mountain Rollercoaster
+Locations|The Caribbean|Islands|Monkey Island Locations|The First Church of LeChuck
+Locations|The Caribbean|Islands|Monkey Island Locations|Underground Maze
+Locations|The Caribbean|Islands|Mêlée Island
+Locations|The Caribbean|Islands|Mêlée Island Locations
+Locations|The Caribbean|Islands|Mêlée Island Locations|Captain Smirk&#039;s House
+Locations|The Caribbean|Islands|Mêlée Island Locations|Clearing
+Locations|The Caribbean|Islands|Mêlée Island Locations|Fork
+Locations|The Caribbean|Islands|Mêlée Island Locations|Governor&#039;s mansion
+Locations|The Caribbean|Islands|Mêlée Island Locations|Hook Isle
+Locations|The Caribbean|Islands|Mêlée Island Locations|Lookout Point
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Docks
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Island Church
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Island Forest
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Island Prison
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Island Store
+Locations|The Caribbean|Islands|Mêlée Island Locations|Mêlée Town
+Locations|The Caribbean|Islands|Mêlée Island Locations|Scumm Bar
+Locations|The Caribbean|Islands|Mêlée Island Locations|Stan&#039;s Previously Owned Vessels
+Locations|The Caribbean|Islands|Mêlée Island Locations|Swordmaster&#039;s house
+Locations|The Caribbean|Islands|Mêlée Island Locations|The Fantastic Flying Fettucini Brothers Circus
+Locations|The Caribbean|Islands|Mêlée Island Locations|The International House of Mojo
+Locations|The Caribbean|Islands|Phatt Island
+Locations|The Caribbean|Islands|Mêlée Island Locations|The Legendary Lost Treasure of Mêlée Island
+Locations|The Caribbean|Islands|Phatt Island Locations
+Locations|The Caribbean|Islands|Phatt Island Locations|Governor Phatt&#039;s mansion
+Locations|The Caribbean|Islands|Mêlée Island Locations|Troll Toll Bridge
+Locations|The Caribbean|Islands|Phatt Island Locations|Phatt City Library
+Locations|Islands|Jerkbait Islands
+Locations|The Caribbean|Islands|Phatt Island Locations|Phatt City
+Locations|The Caribbean|Islands|Phatt Island Locations|Waterfall
+Locations|The Caribbean|Islands|Hook Isle
+Locations|The Caribbean|Islands|Phatt Island Locations|Rum Roger&#039;s Cottage
+Locations|The Caribbean|Islands|Plunder Island
+Locations|The Caribbean|Islands|Pinchpenny Island
+Locations|The Caribbean|Islands|Plunder Island Locations
+Locations|The Caribbean|Islands|Plunder Island Locations|Blondebeard&#039;s Chicken Shoppe
+Locations|The Caribbean|Islands|Plunder Island Locations|Brimstone Beach Country Club and Smorgy
+Locations|The Caribbean|Islands|Plunder Island Locations|Danjer Cove
+Locations|The Caribbean|Islands|Plunder Island Locations|Field of Honor
+Locations|The Caribbean|Islands|Plunder Island Locations|Plunder Island Fort
+Locations|The Caribbean|Islands|Plunder Island Locations|Puerto Pollo
+Locations|The Caribbean|Islands|Plunder Island Locations|Quicksand Pit
+Locations|The Caribbean|Islands|Plunder Island Locations|Snake X-ing
+Locations|The Caribbean|Islands|Plunder Island Locations|The Barbery Coast
+Locations|The Caribbean|Islands|Blood Island Locations|Blood Island Cemetery
+Locations|The Caribbean|Islands|Plunder Island Locations|Voodoo &#039;n&#039; Things
+Locations|The Caribbean|Islands|Rock of Gelato
+Locations|The Caribbean|Islands|Roe Island
+Locations|The Caribbean|Islands|Scabb Island
+Locations|The Caribbean|Islands|Scabb Island Locations
+Locations|The Caribbean|Islands|Scabb Island Locations|Cartographer&#039;s Hut
+Locations|The Caribbean|Islands|Scabb Island Locations|Peninsula
+Locations|The Caribbean|Islands|Scabb Island Locations|Scabb Island beach
+Locations|The Caribbean|Islands|Scabb Island Locations|Scabb Island Internment Park
+Locations|The Caribbean|Islands|Scabb Island Locations|Scabb Island Swamp
+Locations|The Caribbean|Islands|Scabb Island Locations|Steamin&#039; Weenie Hut
+Locations|The Caribbean|Islands|Scabb Island Locations|Swamp Rot Inn
+Locations|The Caribbean|Islands|Scabb Island Locations|The Bloody Lip Bar and Grill
+Locations|The Caribbean|Islands|Scabb Island Locations|The International House of Mojo
+Locations|The Caribbean|Islands|Scabb Island Locations|Woodtick
+Locations|The Caribbean|Islands|Scabb Island Locations|Woodtick Laundry
+Locations|The Caribbean|Islands|Scabb Island Locations|Woodtick Woodshop
+Locations|The Caribbean|Islands|Skull Island
+Locations|The Caribbean|Islands|Spinner Cay
+Locations|The Caribbean|Islands|Spittle Island
+Locations|The Caribbean|Islands|Spoon Isle
+Locations|The Caribbean|The Golfo de Pollo
+Locations|The Caribbean|Tri-Island Area
+Locations|The Caribbean|The Gulf of Melange
+Locations|The Seven Seas
+Locations|ToMI Locations
+Locations|The Caribbean|Islands|Plunder Island Locations|The Long John Silver Center for the Performing Arts
+Locations|Towns|Lucre Town
+Locations|Towns|Mêlée Town
+Locations|Towns|Ville de la Booty
+Locations|Towns|Woodtick
+Locations|Tri-Island Area
+Locations|Villages
+Locations|The Caribbean|Islands|Phatt Island Locations|Wheel of Fortune
+Locations|Villages|Cannibal Village (Blood Island)
+Professions
+Professions|Actors
+Professions|Actors|Fin
+Professions|Actors|Frank
+Professions|Actors|Men of Low Moral Fiber
+Professions|Actors|Slappy Cromwell
+Professions|Actors|Stu Boyle
+Professions|Artists
+Professions|Artists|Kristopher Kilometer
+Professions|Artists|Meathook
+Professions|Artists|Wally B. Feed
+Professions|Authors
+Professions|Authors|Elaine Marley
+Professions|Authors|Guybrush Threepwood
+Professions|Authors|Horatio Torquemada Marley
+Professions|Authors|L. Phatt
+Professions|Authors|L. Ron Gilbert
+Professions|Authors|Meathook
+Professions|Authors|Mort
+Professions|Authors|Simon Finkleberth
+Professions|Authors|Slappy Cromwell
+Professions|Barkeepers
+Professions|Barkeepers|Barkeeper
+Locations|The Caribbean|Islands|Phatt Island Locations|Phatt Island Jail
+Professions|Barkeepers|Ignatius Cheese
+Professions|Barkeepers|Scumm Bar Chef
+Professions|Captains
+Professions|Captains|Big Jake McJuggernaut
+Professions|Captains|Blondebeard
+Professions|Captains|Bob
+Professions|Captains|Captain
+Professions|Captains|Captain of The Sea Monkey
+Professions|Captains|Dread
+Professions|Captains|Elaine Marley
+Professions|Captains|Guybrush Threepwood
+Professions|Captains|Hellbeard the Unrepentant
+Professions|Captains|Horatio Torquemada Marley
+Professions|Captains|Kate Capsize
+Professions|Captains|LeChimp
+Professions|Captains|LeChuck
+Professions|Captains|McGillicutty
+Professions|Captains|Pirate Leaders
+Professions|Captains|Reginald Van Winslow
+Professions|Captains|René Rottingham
+Professions|Captains|Ricardo Luigi Pierre M’Benga Chang Nehru O’Hara Casaba the Third
+Professions|Captains|Smirk
+Professions|Cartographers
+Professions|Chefs
+Professions|Chefs|Bernard
+Professions|Chefs|Blondebeard
+Professions|Chefs|Fin
+Professions|Chefs|Frank
+Professions|Chefs|Governor Phatt&#039;s Cook
+Professions|Chefs|Guybrush Threepwood
+Professions|Chefs|Killick Hardtack
+Professions|Chefs|Lua Bar Chef
+Professions|Chefs|Meathook
+Professions|Chefs|Men of Low Moral Fiber
+Professions|Chefs|Pierre LePoisson
+Professions|Chefs|Rapp Scallion
+Professions|Chefs|Scumm Bar Chef
+Professions|Chefs|The Flying Welshman
+Professions|Circus Performers
+Professions|Circus Performers|Alfredo Fettucini
+Professions|Circus Performers|Bill Fettucini
+Professions|Circus Performers|Fettucini Brothers
+Professions|Circus Performers|Fin
+Professions|Circus Performers|Frank
+Professions|Circus Performers|Guybrush Threepwood
+Professions|Circus Performers|Heavily Armed Clown
+Professions|Circus Performers|Men of Low Moral Fiber
+Professions|Circus Performers|Monty Meringue
+Professions|Circus Performers|Young Lindy
+Professions|Crews
+Professions|Crews|Captain Marley&#039;s Crew
+Professions|Crews|Crew
+Professions|Crews|Elaine Marleys Crew
+Professions|Crews|First Mate
+Professions|Crews|LeChucks Crew
+Professions|Crews|LeChucks Crew|Allegro Rasputin
+Professions|Crews|LeChucks Crew|Army of the Undead
+Professions|Crews|LeChucks Crew|Bob
+Professions|Crews|LeChucks Crew|Dinghy Dog
+Professions|Crews|LeChucks Crew|Ghost Pirate Crew
+Professions|Crews|LeChucks Crew|Largo LaGrande
+Professions|Crews|LeChucks Crew|Monty Meringue
+Professions|Crews|LeChucks Crew|Murray
+Professions|Crews|LeChucks Crew|Skully
+Professions|Crews|LeChucks Crew|Thin Pirate
+Professions|Crews|LeChucks Crew|Voodoo Priest
+Professions|Crews|LeChucks Crew|Wally B. Feed
+Professions|Crews|LeChucks Crew|Wharf Rat
+Professions|Crews|Marleys Crew
+Professions|Crews|Marleys Crew|Captain Marley&#039;s Crew
+Professions|Crews|Marleys Crew|Horatio Torquemada Marley
+Professions|Crews|Marleys Crew|Rapp Scallion
+Professions|Crews|Marleys Crew|Rum Rogers Sr.
+Professions|Crews|Marleys Crew|Young Lindy
+Professions|Crews|McGillicutty&#039;s Crew
+Professions|Crews|McGillicutty&#039;s Crew|Bill (Swordsman)
+Professions|Crews|McGillicutty&#039;s Crew|Killick Hardtack
+Professions|Crews|McGillicutty&#039;s Crew|Murkel Trenchfoot
+Professions|Crews|Pirates of Danjer Cove
+Professions|Crews|Threepwoods Crew
+Professions|Crews|Threepwoods Crew|Carla the Sword Master
+Professions|Crews|Threepwoods Crew|Cutthroat Bill
+Professions|Crews|Threepwoods Crew|Edward Van Helgen
+Professions|Crews|Threepwoods Crew|Elaine Marley
+Professions|Crews|Threepwoods Crew|Haggis McMutton
+Professions|Crews|Threepwoods Crew|Ignatius Cheese
+Professions|Crews|Threepwoods Crew|Lazy Crewmen
+Professions|Crews|Threepwoods Crew|Meathook
+Professions|Crews|Threepwoods Crew|Morgan LeFlay
+Professions|Crews|Threepwoods Crew|Otis
+Professions|Elaine Marleys Staff
+Professions|Elaine Marleys Staff|Booty Island Guard
+Professions|Elaine Marleys Staff|Elaine Marleys Crew
+Professions|Elaine Marleys Staff|Estaban
+Professions|Elaine Marleys Staff|Fester Shinetop
+Professions|Elaine Marleys Staff|Filbert
+Professions|Elaine Marleys Staff|Funny Little Man
+Professions|Elaine Marleys Staff|Heavily Armed Clown
+Professions|Elaine Marleys Staff|Lookout
+Locations|Towns
+Professions|Elaine Marleys Staff|Plunder Island Soldier
+Professions|Barkeepers|Griswold Goodsoup
+Professions|First Mates|Bob
+Professions|First Mates|Horatio Torquemada Marley
+Professions|First Mates|Ignatius Cheese
+Professions|First Mates|Kate Capsize
+Professions|First Mates|Largo LaGrande
+Professions|First Mates|Mr. Fossey
+Professions|First Mates|Reginald Van Winslow
+Professions|First Mates|Rum Rogers Sr.
+Professions|Gardeners
+Professions|Governors
+Professions|Governors|Augustus DeWaat
+Professions|Governors|Elaine Marley
+Professions|Governors|Governor
+Professions|Governors|Horatio Torquemada Marley
+Professions|Governors|L. Phatt
+Professions|Governors|LeChuck
+Professions|Hoteliers
+Professions|Hoteliers|Griswold Goodsoup
+Professions|Hoteliers|Innkeeper
+Professions|Hoteliers|Meathook
+Professions|Law Enforcers
+Professions|Law Enforcers|Canard
+Professions|Law Enforcers|Fester Shinetop
+Professions|Law Enforcers|Phatt Island Guard
+Professions|Law Enforcers|Ricardo Luigi Pierre M’Benga Chang Nehru O’Hara Casaba the Third
+Professions|Law Enforcers|Simkins
+Professions|Lookouts
+Professions|Lookouts|Augustus DeWaat
+Professions|Lookouts|Lookout
+Professions|Musicians
+Professions|Musicians|Bart
+Professions|Musicians|Bob
+Professions|Musicians|Brittany
+Professions|Musicians|Dominique
+Professions|Musicians|Edward Van Helgen
+Professions|Musicians|Fink
+Professions|Musicians|Ghost Pirate Crew
+Professions|Musicians|Haggis McMutton
+Professions|First Mates
+Professions|Musicians|Mr. Willy Gorilla
+Professions|Musicians|The Barbery Coast Barber Shop Quartet
+Professions|Navigators
+Professions|Navigators|Head of the Navigator
+Professions|Navigators|Ignatius Cheese
+Professions|Navigators|Reginald Van Winslow
+Professions|Pirates
+Professions|Pirates|Angus McFulcrum
+Professions|Pirates|Army of the Undead
+Professions|Pirates|Bart
+Professions|Pirates|Bill (Swordsman)
+Professions|Pirates|Bob
+Professions|Pirates|Bosun Krebbs
+Professions|Pirates|Carla
+Professions|Pirates|Carla the Sword Master
+Professions|Pirates|Cobb
+Professions|Pirates|Cutthroat Bill
+Professions|Pirates|Dread
+Professions|Pirates|Edward Van Helgen
+Professions|Pirates|Elaine Marley
+Professions|Pirates|Estevan
+Professions|Pirates|Fin
+Professions|Pirates|Fink
+Professions|Pirates|Frank
+Professions|Pirates|Fred
+Professions|Pirates|Ghost Pirate Crew
+Professions|Pirates|Greenbeard
+Professions|Pirates|Guybrush Q. Threepwood
+Professions|Pirates|Guybrush Threepwood
+Professions|Pirates|Head of the Navigator
+Professions|Pirates|Hellbeard the Unrepentant
+Professions|Pirates|Hemlock McGee
+Professions|Pirates|Horatio Torquemada Marley
+Professions|Pirates|Kate Capsize
+Professions|Pirates|Killick Hardtack
+Professions|Pirates|Largo LaGrande
+Professions|Pirates|Lazy Crewmen
+Professions|Pirates|LeChimp
+Professions|Pirates|LeChuck
+Professions|Pirates|Mancomb Seepgood
+Professions|Pirates|Marco Largo LaGrande
+Professions|Pirates|McGillicutty
+Professions|Pirates|Meathook
+Professions|Pirates|Men of Low Moral Fiber
+Professions|Pirates|Mr. Fossey
+Professions|Pirates|Mungle
+Professions|Pirates|Murkel Trenchfoot
+Professions|Pirates|Murray
+Professions|Pirates|Nick
+Professions|Pirates|Otis
+Professions|Pirates|Pegnose Pete
+Professions|Pirates|Pirate
+Professions|Pirates|Pirate Leaders
+Professions|Pirates|Pirates of Danjer Cove
+Professions|Pirates|Rapp Scallion
+Professions|Pirates|Reginald Blackbeard
+Professions|Pirates|Reginald Van Winslow
+Professions|Pirates|René Rottingham
+Professions|Pirates|Rum Rogers Jr.
+Professions|Pirates|Rum Rogers Sr.
+Professions|Pirates|Salty the pirate
+Professions|Pirates|Smirk
+Professions|Pirates|Smugglers
+Professions|Pirates|Smugglers|Cruff
+Professions|Pirates|Smugglers|King André
+Professions|Pirates|Stu Boyle
+Professions|Pirates|The Spoon Isle Trio
+Professions|Pirates|Thin Pirate
+Professions|Pirates|Wally B. Feed
+Professions|Pirates|Yangja
+Locations|Villages|Cannibal Village
+Professions|Ship Charters
+Professions|Ship Charters|Dread
+Professions|Ship Charters|Kate Capsize
+Professions|Ship Charters|The Flying Welshman
+Professions|Smugglers
+Professions|Smugglers|Cruff
+Professions|Smugglers|King André
+Professions|Storekeepers
+Professions|Storekeepers|Antiques Dealer
+Professions|Storekeepers|Blondebeard
+Professions|Storekeepers|Cabaña Boy
+Professions|Storekeepers|Deadeye Dave
+Professions|Storekeepers|Hugo
+Professions|Storekeepers|Ignatius Cheese
+Professions|Storekeepers|Kenny Falmouth
+Professions|Storekeepers|Librarian
+Professions|Storekeepers|Mad Marty
+Professions|Storekeepers|Ron
+Professions|Storekeepers|Salty the pirate
+Professions|Storekeepers|Stan S. Stanman
+Professions|Storekeepers|Store Keeper
+Professions|Storekeepers|Woody
+Professions|Voodoo Practitioners
+Professions|Voodoo Practitioners|Guybrush Threepwood
+Professions|Voodoo Practitioners|LeChuck
+Professions|Voodoo Practitioners|Voodoo Lady
+Professions|Voodoo Practitioners|Voodoo Priest
+Songs
+Songs|99 Bottles of Beer On The Wall
+Songs|A Pirate I Was Meant To Be
+Songs|Dirty Songs About Governor Marley
+Songs|I&#039;ve Got a Friend in the Ocean
+Songs|Monkey In My Pocket
+Songs|Plunder on my Mind
+Songs|Polly the Squawker Lives In Davy Jones&#039; Locker
+Songs|Silver&#039;s Long Johns Jingle
+Songs|Song About Scabb Island
+Songs|The Bones Song
+Songs|Wooden Leg, Restless Heart
+Titles
+Transportation
+Transportation|Rowboat
+Transportation|Ships
+Transportation|Ships|Captain Capsize&#039;s Glass-Bottomed Boat
+Transportation|Ships|H.M.S. Anathema
+Transportation|Ships|LeChuck&#039;s Ghost Ship
+Transportation|Ships|Mail Boat
+Transportation|Ships|Sea Monkey
+Transportation|Ships|Ship
+Transportation|Ships|Ship Interiors
+Transportation|Ships|Ship Interiors|Captain&#039;s Cabin (Sea Monkey)
+Transportation|Ships|Ship Interiors|Crew Quarters (Sea Monkey)
+Transportation|Ships|Ship Interiors|Crow&#039;s Nest (Sea Monkey)
+Transportation|Ships|Ship Interiors|Kitchen (Sea Monkey)
+Transportation|Ships|Ship Interiors|Ship&#039;s Hold (Sea Monkey)
+Transportation|Ships|The Dainty Lady
+Transportation|Ships|The Death Starfish
+Transportation|Ships|The Elaine
+Transportation|Ships|The Galley of Gravy
+Transportation|Ships|The Howler Monkey
+Transportation|Ships|The Jolly Rasta
+Transportation|Ships|The Limping Limpet
+Transportation|Ships|The Mad Monkey
+Transportation|Ships|The Obsessivo-Compulsivo
+Transportation|Ships|The Raging Tightwad
+Transportation|Ships|The Rattling Phlegm
+Transportation|Ships|The Screaming Narwhal
+Transportation|Ships|The Sea Cucumber
+Transportation|Ships|The Weeping Iguana
+Transportation|Ships|Threepwood&#039;s Ship
+Professions|Pirates|Young Lindy
+Professions|Musicians|Jojo
+Professions|Elaine Marleys Staff|Pierre LePoisson
