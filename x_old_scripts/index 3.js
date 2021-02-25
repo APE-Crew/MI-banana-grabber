@@ -1,64 +1,7 @@
 const fs = require("fs");
 
-const sourceFilePath =
-  "./sources/allWikipages.json"; /* allWikipages.json contain all category infomations  */
-const destinationFile = "json_files/ape_MASTERFILE.json";
-
-const changeData = (data) => {
-  data = ObjectToArray(data);
-  data = setNewAttributeInAllData(data);
-  // console.log(data);
-  return data;
-};
-
-function ObjectToArray(data) {
-  let dataNew = [];
-  Object.keys(data).map((key) => dataNew.push(data[key]));
-  return dataNew;
-}
-
-//-----------------------------------
-// Test und Versuche
-//
-const arr = [8, 7, 6, 5, 4, 3, 2, 1];
-// const arrobj = [{ k: 6 },{ k: 5 }, { k: 4 }, { k: 3 }, { k: 2 }, { k: 1 }];
-
-console.log(arr);
-
-//
-/*
-filter:
-element - Das aktuell zu testende Element aus dem Array.
-index Optional - Der Index des aktuell zu testenden Elements aus dem Array.
-array Optional - Das Array auf welchem filter aufgerufen wurde.
-thisArg Optional - Wert, der als this innerhalb der Funktion genutzt wird.
-*/
-//-----------------------------------
-
-//-----------------------------------
-
-const setNewAttributeInDataset = (dataset, attr, value) =>
-  (dataset[attr] = value);
-
-function changeKeyNames(data, changeData) {}
-
-function setNewAttributeInAllData(data) {
-  return data.map((value, index) => {
-    return value;
-    // dataNew.push(data[key]);
-  });
-}
-
-// ------------------------------------------------------------------------------
-fs.readFile(sourceFilePath, "utf-8", (err, jsonString) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  const data = changeData(JSON.parse(jsonString));
-  writeFile(JSON.stringify(data), destinationFile);
-  // writeFile(JSON.stringify(result), data.stringify());
-});
+const sourceFilePath = "wikisource/FULLuniverse.json";
+const destinationFile = "ape_MASTERFILE.json";
 
 // MEMO
 // fs.readFile("./allWikipages.json", "utf-8", (err, jsonString) => {
