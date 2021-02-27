@@ -42,7 +42,7 @@ const changeData = (data) => {
   data = data.ObjectToArray();
   // data = setNewAttributeInAllData(data);
   data = deleteByKeyNames(data, ["childs", "inner", "kind"]);
-  data = changeKeyNames(data, {fullurl: "url", tagsource: "source"});
+  data = changeKeyNames(data, { fullurl: "url", tagsource: "source" });
   data = splitCats(data);
   // console.log(data);
   return data;
@@ -92,7 +92,8 @@ function splitCats(data) {
         dataObject.individual = "animal";
       }
       if (e[1] === "Nationalities") {
-        if (typeof dataObject.nationalities === "undefined") dataObject.nationalities = [];
+        if (typeof dataObject.nationalities === "undefined")
+          dataObject.nationalities = [];
         dataObject.nationalities.push(e.last());
       }
       if (e[0] === "Professions") {
@@ -162,7 +163,11 @@ function fileKind(fileArray, string) {
 // ----------------------------------------------------------------------------------
 function gender(a, b) {
   const e = b.split("|");
-  const strResult = e.includes("Males") ? "male" : e.includes("Females") ? "female" : "unknown";
+  const strResult = e.includes("Males")
+    ? "male"
+    : e.includes("Females")
+    ? "female"
+    : "unknown";
 
   switch (a) {
     case "male":
@@ -176,11 +181,35 @@ function gender(a, b) {
   }
 }
 // ----------------------------------------------------------------------------------
+// zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
+console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
+console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
+console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
+console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
+console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
+
 function deadOrAlive(a, b) {
-  return "unknown";
+  // const splitted = b.split("|");
+  const complead = a + "|" + b;
+  const lowes = complead.toLowerCase();
+  const renamed = lowes.replace("undead", "nichtamleben");
+  const ghost =
+    renamed.includes("Ghosts") || renamed.includes("ghost") ? "Ghost" : renamed;
+  const dead = ghost.includes("dead") ? "Dead" : ghost;
+  const undead = dead.includes("nichtamleben") ? "Undead" : dead;
+  const reallydead = undead.includes("deceased") ? "Dead" : undead;
+  const alive = reallydead.includes("alive") ? "Alive" : reallydead;
+  const reallyAlive = a === "" ? "Alive" : alive;
+
+  return reallyAlive;
 }
 // ----------------------------------------------------------------------------------
-const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
+const setNewAttributeInDataset = (dataset, attr, value) =>
+  (dataset[attr] = value);
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
   return data.map((item) => {
@@ -352,7 +381,9 @@ function dataRequested(data) {
   const objectCount = Object.keys(newObject).length;
 
   console.log(
-    `${objectCount} Datensätze insgesamt, ${dataCount - objectCount} doppelte Datensätze entfernt`
+    `${objectCount} Datensätze insgesamt, ${
+      dataCount - objectCount
+    } doppelte Datensätze entfernt`
   );
 
   writeFile(JSON.stringify(newObject), destinationFile);
