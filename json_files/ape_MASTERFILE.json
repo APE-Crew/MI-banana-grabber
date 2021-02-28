@@ -9,7 +9,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -25,7 +25,7 @@
       "animals",
       "items"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -39,7 +39,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -60,7 +60,7 @@
       "characters",
       "items"
     ],
-    "livestatus": "undefined|animals|dogs|animals|elaine marleys pets|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "individual": "animal",
     "appear": [
@@ -83,7 +83,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|dogs|characters|characters with a disability|blind characters|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "nationalities": [
@@ -104,7 +104,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|dogs|animals|elaine marleys pets|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -127,7 +127,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|dogs|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -150,7 +150,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|dogs|characters|characters by game|mi2 characters|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -176,7 +176,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|comi characters|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -200,7 +200,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|elaine marleys pets|animals|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -223,7 +223,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|elaine marleys pets|animals|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "nationalities": [
@@ -246,7 +246,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|elaine marleys pets|animals|monkeys|characters|characters by game|efmi characters|characters|families|threepwood family|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "individual": "animal",
     "appear": [
@@ -270,7 +270,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|elaine marleys pets|animals|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -290,7 +290,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -311,7 +311,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|comi characters|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -340,7 +340,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|tomi characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -359,7 +359,7 @@
       "animals",
       "items"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -375,7 +375,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "nationalities": [
@@ -393,7 +393,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals|animals|monkeys",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -407,7 +407,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals|monkeys",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -428,7 +428,7 @@
       "items",
       "unknown"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|mi2 characters|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -454,7 +454,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|efmi characters|characters|nationalities|monkey island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -477,7 +477,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|somi characters|characters|nationalities|monkey island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -501,7 +501,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|tomi characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -525,7 +525,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|comi characters|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -552,7 +552,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|characters by game|efmi characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -573,7 +573,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|animals|monkeys|characters|nationalities|monkey island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "nationalities": [
@@ -593,7 +593,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|mi2 characters|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -648,7 +648,7 @@
       "characters",
       "items"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|mi2 characters|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -671,7 +671,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -691,7 +691,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -708,7 +708,7 @@
       "animals",
       "characters"
     ],
-    "livestatus": "undefined|animals|characters|characters by game|mi2 characters|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal",
     "appear": [
@@ -730,7 +730,7 @@
       "animals",
       "items"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -744,7 +744,7 @@
     "filekind": [
       "animals"
     ],
-    "livestatus": "undefined|animals",
+    "livestatus": "Alive",
     "gender": "unknown",
     "individual": "animal"
   },
@@ -787,7 +787,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|goodsoup family|characters|males|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|blood island residents|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -813,7 +813,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters with a disability|hook handed characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -839,7 +839,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -859,7 +859,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -910,7 +910,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|skull island residents|characters|pirates|smugglers|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -940,7 +940,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -972,7 +972,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters with a disability|characters with one good eye|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1000,7 +1000,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters with a disability|characters with a pegleg|characters|males|characters|nationalities|residents of the tri-island area|skull island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1036,7 +1036,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters by game|efmi characters|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|characters by game|tomi characters|characters|families|marley family|characters|families|threepwood family|characters|females|characters|nationalities|residents of the tri-island area|booty island residents|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters",
@@ -1070,7 +1070,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1090,7 +1090,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|the clan mcmutton|characters|females|characters|mentioned only characters|characters|nationalities|scotsmen",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters"
@@ -1110,7 +1110,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|gods",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1132,7 +1132,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|goodsoup family|characters|males|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1207,7 +1207,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|the clan mcmutton|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents|characters|nationalities|scotsmen",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1233,7 +1233,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1253,7 +1253,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1282,7 +1282,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|skull island residents|characters|pirates|smugglers|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1356,7 +1356,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters by game|somi characters|characters|males|characters|nationalities|monkey island residents|characters|nationalities|residents of the tri-island area|blood island residents|characters|organisations|cannibal",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters",
@@ -1379,7 +1379,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|females|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters"
@@ -1398,7 +1398,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1418,7 +1418,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|the clan mcmutton|characters|males|characters|mentioned only characters|characters|nationalities|scotsmen",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1466,7 +1466,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|monkey island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1493,7 +1493,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1521,7 +1521,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1547,7 +1547,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1569,7 +1569,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|females|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters"
@@ -1591,7 +1591,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|females|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters"
@@ -1646,7 +1646,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1668,7 +1668,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1691,7 +1691,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1718,7 +1718,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "Dead",
+    "livestatus": "Undead",
     "gender": "unknown",
     "appear": [
       "CoMI Characters",
@@ -1783,7 +1783,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|gods|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1802,7 +1802,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1848,7 +1848,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -1882,7 +1882,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters by game|efmi characters|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|characters by game|tomi characters|characters|males|characters|nationalities|residents of the tri-island area|blood island residents|characters|nationalities|residents of the tri-island area|booty island residents|characters|nationalities|residents of the tri-island area|jambalaya island residents|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters",
@@ -1917,7 +1917,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|plunder island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -1947,7 +1947,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males|characters|nationalities|residents of the tri-island area|blood island residents|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -2001,7 +2001,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|families|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -2022,7 +2022,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|plunder island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "CoMI Characters"
@@ -2052,7 +2052,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|characters by game|efmi characters|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|characters by game|tomi characters|characters|females|characters|nationalities|residents of the tri-island area|flotsam island residents|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|plunder island residents|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "CoMI Characters",
@@ -2084,7 +2084,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|comi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "CoMI Characters"
@@ -2134,7 +2134,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|females|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "EfMI Characters"
@@ -2160,7 +2160,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2187,7 +2187,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters by game|somi characters|characters|females|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "EfMI Characters",
@@ -2215,7 +2215,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|females|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "EfMI Characters",
@@ -2242,7 +2242,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2290,7 +2290,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters with a disability|blind characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2316,7 +2316,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "EfMI Characters"
@@ -2343,7 +2343,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2371,7 +2371,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|knuttin atoll residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2410,7 +2410,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|families|marley family|characters|males|characters|nationalities|monkey island residents|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters",
@@ -2445,7 +2445,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2476,7 +2476,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters with a disability|characters with a pegleg|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2506,7 +2506,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|jambalaya island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2533,7 +2533,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|frenchmen|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2558,7 +2558,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|jambalaya island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2589,7 +2589,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters by game|somi characters|characters|characters with a disability|hook handed characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters",
@@ -2619,7 +2619,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|females",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "EfMI Characters"
@@ -2637,7 +2637,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2660,7 +2660,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2687,7 +2687,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters",
@@ -2741,7 +2741,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents|characters|pirates|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2768,7 +2768,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2793,7 +2793,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2821,7 +2821,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2847,7 +2847,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|lucre island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2869,7 +2869,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2891,7 +2891,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "EfMI Characters"
@@ -2914,7 +2914,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|efmi characters|characters|females|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "EfMI Characters"
@@ -2938,7 +2938,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -2966,7 +2966,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters with a disability|deaf characters|characters|males|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -2993,7 +2993,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3021,7 +3021,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3049,7 +3049,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3075,7 +3075,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|females|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "MI2 Characters"
@@ -3099,7 +3099,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3120,7 +3120,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|females|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "MI2 Characters"
@@ -3137,7 +3137,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3156,7 +3156,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|villains|characters|villains|aliases of lechuck",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3174,7 +3174,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3200,7 +3200,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3229,7 +3229,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3261,7 +3261,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters",
@@ -3296,7 +3296,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters with a disability|characters with one good eye|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3331,7 +3331,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|characters with a disability|characters with a pegleg|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters",
@@ -3366,7 +3366,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters",
@@ -3395,7 +3395,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "MI2 Characters"
@@ -3421,7 +3421,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3464,7 +3464,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters with a disability|characters with a pegleg|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3494,7 +3494,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|females|characters|nationalities|residents of the tri-island area|booty island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "MI2 Characters"
@@ -3527,7 +3527,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters with a disability|characters with difficulty walking|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3554,7 +3554,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|females|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "MI2 Characters"
@@ -3582,7 +3582,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters with a disability|blind characters|characters|characters with a disability|deaf characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3643,7 +3643,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters",
@@ -3673,7 +3673,7 @@
       "characters",
       "items"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "MI2 Characters"
@@ -3689,7 +3689,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "MI2 Characters"
@@ -3709,7 +3709,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3737,7 +3737,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|frenchmen|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3763,7 +3763,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3787,7 +3787,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|mentioned only characters|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3813,7 +3813,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|families|rogers family|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3838,7 +3838,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3859,7 +3859,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|booty island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3882,7 +3882,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3906,7 +3906,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|mi2 characters|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "MI2 Characters"
@@ -3932,7 +3932,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -3958,7 +3958,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4048,7 +4048,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4072,7 +4072,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4101,7 +4101,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|characters with a disability|characters with one good eye|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4131,7 +4131,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|villains|aliases of lechuck|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4157,7 +4157,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4180,7 +4180,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4203,7 +4203,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "SoMI Characters"
@@ -4292,7 +4292,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "SoMI Characters"
@@ -4321,7 +4321,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|characters with a disability|blind characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4349,7 +4349,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4377,7 +4377,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4406,7 +4406,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4433,7 +4433,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|monkey island residents|characters|organisations|cannibal",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4457,7 +4457,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4483,7 +4483,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|monkey island residents|characters|organisations|cannibal",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4508,7 +4508,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4537,7 +4537,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|characters with a disability|characters with difficulty walking|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4561,7 +4561,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|females|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "SoMI Characters"
@@ -4579,7 +4579,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|somi characters|characters|males|characters|nationalities|residents of the tri-island area|mêlée island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "SoMI Characters"
@@ -4598,7 +4598,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "ToMI Characters"
@@ -4647,7 +4647,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|characters with a disability|characters|females|characters|nationalities|residents of the tri-island area|flotsam island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "female",
     "appear": [
       "ToMI Characters"
@@ -4672,7 +4672,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|nationalities|residents of the tri-island area|flotsam island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4692,7 +4692,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4710,7 +4710,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|nationalities|residents of the tri-island area|flotsam island residents",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4734,7 +4734,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|mentioned only characters|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4759,7 +4759,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|characters with a disability|characters with difficulty walking|characters|nationalities|residents of the tri-island area|flotsam island residents|characters|pirates",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "ToMI Characters"
@@ -4788,7 +4788,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4815,7 +4815,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4839,7 +4839,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|nationalities|frenchmen|characters|villains",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4915,7 +4915,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4943,7 +4943,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "appear": [
       "ToMI Characters"
@@ -4992,7 +4992,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|characters by game|tomi characters|characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "appear": [
       "ToMI Characters"
@@ -5014,7 +5014,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|characters with a disability|blind characters|characters|males|characters|pirates",
+    "livestatus": "Alive",
     "gender": "male",
     "professions": [
       "Pirates",
@@ -5161,7 +5161,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|females|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Blood Island Residents"
@@ -5179,7 +5179,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|gods|characters|mentioned only characters|characters",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5193,7 +5193,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|gods|characters",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5210,7 +5210,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|nationalities|scotsmen|characters|pirates",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Scotsmen"
@@ -5230,7 +5230,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|males",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5247,7 +5247,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|nationalities|monkey island residents|characters|villains",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Monkey Island Residents"
@@ -5269,7 +5269,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "professions": [
       "Musicians"
@@ -5287,7 +5287,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|males|characters|mentioned only characters|characters|nationalities|residents of the tri-island area|phatt island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Phatt Island Residents"
@@ -5306,7 +5306,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "professions": [
       "Authors"
@@ -5329,7 +5329,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|nationalities|residents of the tri-island area|scabb island residents|characters|pirates|characters|villains",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Scabb Island Residents"
@@ -5352,7 +5352,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|males|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5368,7 +5368,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|males|characters|mentioned only characters",
+    "livestatus": "Alive",
     "gender": "unknown",
     "professions": [
       "Authors"
@@ -5387,7 +5387,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|mentioned only characters|characters|nationalities|scotsmen",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Scotsmen"
@@ -5411,7 +5411,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|nationalities|frenchmen|characters|pirates|characters|villains",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Frenchmen"
@@ -5432,7 +5432,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|nationalities|residents of the tri-island area|blood island residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Blood Island Residents"
@@ -5448,7 +5448,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|nationalities|residents of the tri-island area|knuttin atoll residents",
+    "livestatus": "Alive",
     "gender": "unknown",
     "nationalities": [
       "Knuttin Atoll Residents"
@@ -5464,7 +5464,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5480,7 +5480,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5495,7 +5495,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations|characters|organisations|characters|organisations|cannibal",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5508,7 +5508,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5521,7 +5521,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5534,7 +5534,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5547,7 +5547,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5562,7 +5562,7 @@
       "characters",
       "items"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5575,7 +5575,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5591,7 +5591,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5604,7 +5604,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5621,7 +5621,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5634,7 +5634,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5650,7 +5650,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5667,7 +5667,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5680,7 +5680,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations|stan&#039;s businesses",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5696,7 +5696,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5709,7 +5709,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5722,7 +5722,7 @@
     "filekind": [
       "characters"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5737,7 +5737,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|organisations",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5752,7 +5752,7 @@
       "characters",
       "unknown"
     ],
-    "livestatus": "undefined|characters|pirates",
+    "livestatus": "Alive",
     "gender": "unknown",
     "professions": [
       "Pirates",
