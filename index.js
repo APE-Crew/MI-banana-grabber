@@ -30,6 +30,13 @@ if (!Array.prototype.uniqueValues) {
   };
 }
 // ----------------------------------------------------------------------------------
+if (!Array.prototype.intersect) {
+  Array.prototype.intersect = function (arr) {
+    return this.filter((value) => arr.includes(value));
+  };
+}
+// const filteredArray = array1.filter(value => array2.includes(value));
+// ----------------------------------------------------------------------------------
 
 const fs = require("fs");
 const { stringify } = require("querystring");
@@ -38,6 +45,14 @@ const { stringify } = require("querystring");
 const sourceFilePath = "./sources/allWikipages.json";
 /* The Result json */
 const destinationFile = "json_files/ape_MASTERFILE.json";
+
+const gameNames = {
+  SoMI: "The Secret of Monkey Island",
+  MI2: "Monkey Island 2: LeChuck's Revenge",
+  CoMI: "The Curse of Monkey Island",
+  EfMI: "Escape from Monkey Island",
+  ToMI: "Tales of Monkey Island",
+};
 
 const changeData = (data) => {
   data = data.ObjectToArray();
@@ -65,78 +80,87 @@ function splitCats(data) {
   const dn = data.map((dataObject) => {
     const categoryStrings = dataObject.categories;
 
-    // dataObject.filekind = fileKind([], "");
-
     categoryStrings.map((cstr) => {
       // console.log(cstr);
       const e = cstr.split("|");
-      //
 
-      // dataObject.filekind = fileKind(dataObject.filekind, cstr);
-      // dataObject.filekind = [...new Set(fileKind(dataObject.filekind, cstr))];
       dataObject.filekind = fileKind(dataObject.filekind, cstr).uniqueValues();
+      dataObject.professions = getProfessions(
+        dataObject.professions,
+        cstr
+      ).uniqueValues();
+      dataObject.nationalities = getNationalities(
+        dataObject.nationalities,
+        cstr
+      ).uniqueValues();
+      // if (dataObject.nationalities.length > 1) console.log(dataObject.nationalities);
+      dataObject.aperance = getAperance(
+        dataObject.aperance,
+        cstr
+      ).uniqueValues();
+      dataObject.crew = getCrew(dataObject.crew, cstr).uniqueValues();
+      // if (dataObject.crew.length > 1) console.log(dataObject.crew);
 
       if (e[0] === "Characters" || e[0] === "Animals") {
         dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
         dataObject.gender = gender(dataObject.gender, cstr);
       }
 
-      if (e[0] === "Characters") {
-        if (e[1] === "Pirates") {
-          if (typeof dataObject.professions === "undefined") {
-            dataObject.professions = [];
-          }
-          dataObject.professions.push(e[1]);
-        }
-      }
+      // dataObject.individual = getIndividual(dataObject.individual,cstr);
+
       if (e[0] === "Animals") {
         dataObject.individual = "animal";
       }
-      if (e[1] === "Nationalities") {
-        if (typeof dataObject.nationalities === "undefined")
-          dataObject.nationalities = [];
-        dataObject.nationalities.push(e.last());
-      }
-      if (e[0] === "Professions") {
-        if (typeof dataObject.professions === "undefined") {
-          dataObject.professions = [];
-        }
-        dataObject.professions.push(e.last());
-      }
-      if (e[1] === "Characters By Game") {
-        if (typeof dataObject.appear === "undefined") {
-          dataObject.appear = [];
-        }
-        dataObject.appear.push(e.last());
-      }
-
-      // if (typeof dataObject.filekind === "undefined") {
-      //   dataObject.filekind = [];
-      // }
-
-      // if (e[0] === "Items") {
-      //   dataObject.filekind.push("items");
-      // }
-      // if (e[0] === "Characters") {
-      //   dataObject.filekind.push("characters");
-      // }
-      // if (e[0] === "Ships") {
-      //   dataObject.filekind.push("ships");
-      // }
     });
     // Lifestatus: alive | dead | undead | ghost
-    // // Ghost: true false
-    // // Deceased: true | false
-    // aperance: CoMI | EfMI | ToMI | SoMI | MI2
-    // Individual: animal human
-    // nationality
-    // profession: pirates
 
     return dataObject;
   });
   return dn;
 }
 
+// ----------------------------------------------------------------------------------
+function getCrew(arr, string) {
+  if (typeof arr === "undefined") arr = [];
+  const e = string.split("|");
+  if (e[1] === "Crews") {
+    if (typeof e[2] !== "undefined") arr.push(e[2]);
+  }
+  return arr;
+}
+// ----------------------------------------------------------------------------------
+function getAperance(arr, string) {
+  if (typeof arr === "undefined") arr = [];
+  const e = string.split("|");
+  const intersection = Object.keys(gameNames).intersect(e.last().split(" "));
+
+  if (e[1] === "Characters By Game") {
+    arr = [...arr, ...intersection];
+  }
+  return arr;
+}
+// ----------------------------------------------------------------------------------
+function getNationalities(arr, string) {
+  if (typeof arr === "undefined") arr = [];
+  const e = string.split("|");
+  if (e[1] === "Nationalities") {
+    arr.push(e[e.length - 1].replace(" Residents", ""));
+  }
+  //Nationalities
+  return arr;
+}
+// ----------------------------------------------------------------------------------
+function getProfessions(arr, string) {
+  if (typeof arr === "undefined") arr = [];
+  const e = string.split("|");
+  if (e[0] === "Professions") {
+    arr.push(e[1]);
+  }
+  if (e[1] === "Pirates") {
+    arr.push(e[1]);
+  }
+  return arr;
+}
 // ----------------------------------------------------------------------------------
 function fileKind(fileArray, string) {
   if (typeof fileArray === "undefined") fileArray = [];
@@ -152,15 +176,16 @@ function fileKind(fileArray, string) {
     case "Items":
       fileArray.push("items");
       break;
-    // case "Transportations":
-    //   fileArray.push("ships");
-    //   break;
+    case "Transportations":
+      fileArray.push(e[1]);
+      break;
     default:
       fileArray.push("unknown");
   }
 
   return fileArray;
 }
+
 // ----------------------------------------------------------------------------------
 function gender(a, b) {
   const e = b.split("|");
@@ -183,23 +208,22 @@ function gender(a, b) {
 }
 // ----------------------------------------------------------------------------------
 // zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
-console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
-console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
-console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
-console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
+// console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+// console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+// console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
+// console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
+// console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
+// console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
+// console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
+// console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
+// console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
+// console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
+// console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
+// console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
+// console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
+// console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
 
 function deadOrAlive(a, b) {
-  // const splitted = b.split("|");
   const complead = a + "|" + b;
   const makeLow = complead.toLowerCase();
 
@@ -215,6 +239,7 @@ function deadOrAlive(a, b) {
     return "Alive";
   }
 }
+
 // ----------------------------------------------------------------------------------
 const setNewAttributeInDataset = (dataset, attr, value) =>
   (dataset[attr] = value);
