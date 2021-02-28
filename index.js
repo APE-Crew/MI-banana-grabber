@@ -63,7 +63,7 @@ const gameNames = {
 
 const changeData = (data) => {
   data = data.ObjectToArray();
-  data = changeKeyNames(data, {fullurl: "url", tagsource: "source"});
+  data = changeKeyNames(data, { fullurl: "url", tagsource: "source" });
   data = splitCats(data);
   data = deleteByKeyNames(data, ["childs", "inner", "kind", "source"]);
   return data;
@@ -78,48 +78,54 @@ fs.readFile(filePathes["source"], "utf-8", (err, jsonString) => {
   const data = changeData(JSON.parse(jsonString));
   consoleLogStatistics(data);
   writeFile(JSON.stringify(data, null, 2), filePathes["master"]);
-  writeFile(JSON.stringify(filterDatas("characters", data), null, 2), filePathes["characters"]);
-  writeFile(JSON.stringify(filterDatas("items", data), null, 2), filePathes["items"]);
-  writeFile(JSON.stringify(filterDatas("ships", data), null, 2), filePathes["ships"]);
-  writeFile(JSON.stringify(filterDatas("animals", data), null, 2), filePathes["animals"]);
-  writeFile(JSON.stringify(filterDatas("unknown", data), null, 2), filePathes["unknown"]);
-  writeFile(JSON.stringify(filterDatas("locations", data), null, 2), filePathes["locations"]);
+  writeFile(
+    JSON.stringify(filterDatas("characters", data), null, 2),
+    filePathes["characters"]
+  );
+  writeFile(
+    JSON.stringify(filterDatas("items", data), null, 2),
+    filePathes["items"]
+  );
+  writeFile(
+    JSON.stringify(filterDatas("Ships", data), null, 2),
+    filePathes["ships"]
+  );
+  writeFile(
+    JSON.stringify(filterDatas("animals", data), null, 2),
+    filePathes["animals"]
+  );
+  writeFile(
+    JSON.stringify(filterDatas("unknown", data), null, 2),
+    filePathes["unknown"]
+  );
+  writeFile(
+    JSON.stringify(filterDatas("locations", data), null, 2),
+    filePathes["locations"]
+  );
   // writeFile(JSON.stringify(result), data.stringify());
 });
 
 // ----------------------------------------------------------------------------------
 function consoleLogStatistics(data) {
-  console.log("-----------------------------------------------------------------");
+  console.log(
+    "-----------------------------------------------------------------"
+  );
   console.log(`Anzahl Datensätze: ${data.length}`);
-  console.log(`Kategorien: ${Object.keys(data[0]).length} (${Object.keys(data[0]).join(",")})`);
-  console.log("-----------------------------------------------------------------");
+  console.log(
+    `Kategorien: ${Object.keys(data[0]).length} (${Object.keys(data[0]).join(
+      ","
+    )})`
+  );
+  console.log(
+    "-----------------------------------------------------------------"
+  );
 }
-// ----------------------------------------------------------------------------------
-// TEST:
-const testdata = [
-  {dataset: ["animals"]},
-  {dataset: ["characters"]},
-  {dataset: ["animals", "characters"]},
-  {dataset: ["items"]},
-];
-const onlyitems = filterDatas("items", testdata);
-/* [
-  {dataset: ["items"]},
-]
-*/
-console.log(onlyitems);
-const onlyanimals = filterDatas("animals", testdata);
-/* [
-    {dataset: ["animals"]},
-  {dataset: ["animals", "characters"]},
-]
-*/
-console.log(onlyanimals);
+
 // -------------------------------------------------------------
 function filterDatas(filterfor, fulldata) {
-  //filter nach filterfor
-  return fulldata;
+  return fulldata.filter((i) => i.dataset.includes(filterfor));
 }
+
 // ----------------------------------------------------------------------------------
 // const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
 // ----------------------------------------------------------------------------------
@@ -129,9 +135,18 @@ function splitCats(data) {
 
     categoryStrings.map((cstr) => {
       dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
-      dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
-      dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
-      dataObject.aperance = getAperance(dataObject.aperance, cstr).uniqueValues();
+      dataObject.professions = getProfessions(
+        dataObject.professions,
+        cstr
+      ).uniqueValues();
+      dataObject.nationalities = getNationalities(
+        dataObject.nationalities,
+        cstr
+      ).uniqueValues();
+      dataObject.aperance = getAperance(
+        dataObject.aperance,
+        cstr
+      ).uniqueValues();
       dataObject.crew = getCrew(dataObject.crew, cstr);
       dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
       dataObject.gender = gender(dataObject.gender, cstr);
@@ -214,7 +229,11 @@ function fileKind(fileArray, string) {
 // ----------------------------------------------------------------------------------
 function gender(a, b) {
   const e = b.split("|");
-  const strResult = e.includes("Males") ? "male" : e.includes("Females") ? "female" : "unknown";
+  const strResult = e.includes("Males")
+    ? "male"
+    : e.includes("Females")
+    ? "female"
+    : "unknown";
 
   switch (a) {
     case "male":
@@ -245,7 +264,8 @@ function deadOrAlive(a, b) {
 }
 
 // ----------------------------------------------------------------------------------
-const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
+const setNewAttributeInDataset = (dataset, attr, value) =>
+  (dataset[attr] = value);
 
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
@@ -358,7 +378,9 @@ function dataRequested(data) {
   const objectCount = Object.keys(newObject).length;
 
   console.log(
-    `${objectCount} Datensätze insgesamt, ${dataCount - objectCount} doppelte Datensätze entfernt`
+    `${objectCount} Datensätze insgesamt, ${
+      dataCount - objectCount
+    } doppelte Datensätze entfernt`
   );
 
   writeFile(JSON.stringify(newObject), destinationFile);
