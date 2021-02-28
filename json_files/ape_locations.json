@@ -12,7 +12,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -30,7 +30,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -46,7 +46,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -73,7 +73,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -94,7 +94,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -118,7 +118,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -141,7 +141,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -164,7 +164,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -190,7 +190,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -214,7 +214,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -235,7 +235,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -261,7 +261,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -285,7 +285,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -301,7 +301,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -331,7 +331,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -353,7 +353,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -371,7 +371,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -391,7 +391,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -408,7 +408,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -424,7 +424,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -453,7 +453,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -476,7 +476,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -499,7 +499,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -521,7 +521,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -551,7 +551,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -571,7 +571,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -593,7 +593,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -616,7 +616,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -645,7 +645,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -670,7 +670,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -693,7 +693,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -709,7 +709,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -732,7 +732,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -750,7 +750,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -766,7 +766,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -791,7 +791,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -817,7 +817,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -847,7 +847,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -867,7 +867,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -893,7 +893,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -916,7 +916,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -946,7 +946,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -975,7 +975,7 @@
       "CoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1007,7 +1007,7 @@
       "CoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1030,7 +1030,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1079,7 +1079,7 @@
       "ToMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -1098,7 +1098,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1122,7 +1122,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -1141,7 +1141,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1170,7 +1170,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1215,7 +1215,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "male"
   },
   {
@@ -1246,7 +1246,7 @@
       "CoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1266,7 +1266,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1292,7 +1292,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1322,7 +1322,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1366,7 +1366,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "male"
   },
   {
@@ -1393,7 +1393,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1415,7 +1415,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -1433,7 +1433,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1457,7 +1457,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1482,7 +1482,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "female"
   },
   {
@@ -1510,7 +1510,7 @@
       "CoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1536,7 +1536,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1565,7 +1565,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1587,7 +1587,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1610,7 +1610,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -1633,7 +1633,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -1667,7 +1667,7 @@
       "ToMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "male"
   },
   {
@@ -1689,7 +1689,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1714,7 +1714,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1733,7 +1733,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1769,7 +1769,7 @@
       "MI2"
     ],
     "crew": "Marley",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "unknown"
   },
   {
@@ -1805,7 +1805,7 @@
       "MI2"
     ],
     "crew": "Marley",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -1825,7 +1825,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1848,7 +1848,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1872,7 +1872,7 @@
       "CoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "male"
   },
   {
@@ -1899,7 +1899,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -1939,7 +1939,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1968,7 +1968,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -1998,7 +1998,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2025,7 +2025,7 @@
       "CoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "male"
   },
   {
@@ -2048,7 +2048,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -2070,7 +2070,7 @@
       "CoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -2110,7 +2110,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2133,7 +2133,7 @@
       "CoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2160,7 +2160,7 @@
       "EfMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "male"
   },
   {
@@ -2186,7 +2186,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2212,7 +2212,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2238,7 +2238,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2269,7 +2269,7 @@
       "SoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2291,7 +2291,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2316,7 +2316,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -2343,7 +2343,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2370,7 +2370,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -2396,7 +2396,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2425,7 +2425,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2470,7 +2470,7 @@
       "SoMI"
     ],
     "crew": "Marley",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2496,7 +2496,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2531,7 +2531,7 @@
       "EfMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2557,7 +2557,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2585,7 +2585,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2607,7 +2607,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2647,7 +2647,7 @@
       "SoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2666,7 +2666,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2688,7 +2688,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2712,7 +2712,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2743,7 +2743,7 @@
       "SoMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2767,7 +2767,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -2795,7 +2795,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2820,7 +2820,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2847,7 +2847,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2876,7 +2876,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2898,7 +2898,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2921,7 +2921,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2944,7 +2944,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -2968,7 +2968,7 @@
       "EfMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -2994,7 +2994,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3023,7 +3023,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3049,7 +3049,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3078,7 +3078,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3104,7 +3104,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3130,7 +3130,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -3152,7 +3152,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3172,7 +3172,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -3191,7 +3191,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3212,7 +3212,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3234,7 +3234,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3265,7 +3265,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3291,7 +3291,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3328,7 +3328,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3358,7 +3358,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3396,7 +3396,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3427,7 +3427,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3453,7 +3453,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -3477,7 +3477,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3497,7 +3497,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "unknown"
   },
   {
@@ -3524,7 +3524,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3557,7 +3557,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -3587,7 +3587,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3613,7 +3613,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -3641,7 +3641,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3669,7 +3669,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "unknown"
   },
   {
@@ -3706,7 +3706,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3726,7 +3726,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -3744,7 +3744,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -3770,7 +3770,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3800,7 +3800,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3822,7 +3822,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3847,7 +3847,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3875,7 +3875,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3897,7 +3897,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3919,7 +3919,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3944,7 +3944,7 @@
       "MI2"
     ],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3970,7 +3970,7 @@
       "MI2"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -3996,7 +3996,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4022,7 +4022,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4060,7 +4060,7 @@
       "SoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "male"
   },
   {
@@ -4087,7 +4087,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -4109,7 +4109,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4136,7 +4136,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4164,7 +4164,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4194,7 +4194,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4217,7 +4217,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4243,7 +4243,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4264,7 +4264,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -4295,7 +4295,7 @@
       "SoMI"
     ],
     "crew": "LeChuck",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "unknown"
   },
   {
@@ -4328,7 +4328,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "male"
   },
   {
@@ -4355,7 +4355,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -4384,7 +4384,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4411,7 +4411,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4438,7 +4438,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4467,7 +4467,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4490,7 +4490,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4518,7 +4518,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4541,7 +4541,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4570,7 +4570,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4597,7 +4597,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4617,7 +4617,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -4639,7 +4639,7 @@
       "SoMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4657,7 +4657,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -4684,7 +4684,7 @@
       "ToMI"
     ],
     "crew": "McGillicutty&#039;",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -4712,7 +4712,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "female"
   },
   {
@@ -4734,7 +4734,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4753,7 +4753,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4775,7 +4775,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4800,7 +4800,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4827,7 +4827,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -4855,7 +4855,7 @@
       "ToMI"
     ],
     "crew": "McGillicutty&#039;",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4881,7 +4881,7 @@
       "ToMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4904,7 +4904,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -4932,7 +4932,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -4957,7 +4957,7 @@
       "ToMI"
     ],
     "crew": "Threepwood",
-    "livestatus": "ghost",
+    "livestatus": "Ghost",
     "gender": "female"
   },
   {
@@ -4983,7 +4983,7 @@
       "ToMI"
     ],
     "crew": "McGillicutty&#039;",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -5013,7 +5013,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -5038,7 +5038,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -5057,7 +5057,7 @@
       "ToMI"
     ],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5083,7 +5083,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "male"
   },
   {
@@ -5102,7 +5102,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "female"
   },
   {
@@ -5121,7 +5121,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -5139,7 +5139,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "unknown"
   },
   {
@@ -5158,7 +5158,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "female"
   },
   {
@@ -5181,7 +5181,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "LeChuck",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "unknown"
   },
   {
@@ -5199,7 +5199,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "undead",
+    "livestatus": "Undead",
     "gender": "unknown"
   },
   {
@@ -5226,7 +5226,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "Marley",
-    "livestatus": "dead",
+    "livestatus": "Dead",
     "gender": "male"
   },
   {
@@ -5246,7 +5246,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5264,7 +5264,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5281,7 +5281,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5305,7 +5305,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5321,7 +5321,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5345,7 +5345,7 @@
     ],
     "aperance": [],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5366,7 +5366,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5386,7 +5386,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5407,7 +5407,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5436,7 +5436,7 @@
     ],
     "aperance": [],
     "crew": "LeChuck",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5453,7 +5453,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5474,7 +5474,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5497,7 +5497,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5523,7 +5523,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5541,7 +5541,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5559,7 +5559,7 @@
     ],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5575,7 +5575,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5594,7 +5594,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5612,7 +5612,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5628,7 +5628,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5644,7 +5644,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5660,7 +5660,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5676,7 +5676,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5694,7 +5694,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5710,7 +5710,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5729,7 +5729,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5745,7 +5745,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5765,7 +5765,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5781,7 +5781,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5800,7 +5800,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5820,7 +5820,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5836,7 +5836,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5855,7 +5855,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5871,7 +5871,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5887,7 +5887,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5905,7 +5905,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5925,7 +5925,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5941,7 +5941,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5957,7 +5957,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5973,7 +5973,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -5991,7 +5991,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6007,7 +6007,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6023,7 +6023,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6039,7 +6039,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6055,7 +6055,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6071,7 +6071,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6087,7 +6087,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6103,7 +6103,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6120,7 +6120,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6136,7 +6136,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6152,7 +6152,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6169,7 +6169,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6186,7 +6186,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6206,7 +6206,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6222,7 +6222,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6239,7 +6239,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6256,7 +6256,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6273,7 +6273,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6290,7 +6290,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6306,7 +6306,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6323,7 +6323,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6340,7 +6340,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6356,7 +6356,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6373,7 +6373,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6389,7 +6389,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6405,7 +6405,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6422,7 +6422,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6439,7 +6439,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6456,7 +6456,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6472,7 +6472,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6488,7 +6488,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6504,7 +6504,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6520,7 +6520,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6537,7 +6537,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6554,7 +6554,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6571,7 +6571,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6588,7 +6588,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6605,7 +6605,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6622,7 +6622,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6639,7 +6639,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6657,7 +6657,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6673,7 +6673,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6690,7 +6690,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6707,7 +6707,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6725,7 +6725,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6741,7 +6741,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6757,7 +6757,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6773,7 +6773,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6789,7 +6789,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6806,7 +6806,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6822,7 +6822,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6838,7 +6838,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6854,7 +6854,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6870,7 +6870,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6887,7 +6887,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6904,7 +6904,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6922,7 +6922,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6939,7 +6939,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6956,7 +6956,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6972,7 +6972,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -6988,7 +6988,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7005,7 +7005,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7022,7 +7022,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7038,7 +7038,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7054,7 +7054,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7071,7 +7071,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7087,7 +7087,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7104,7 +7104,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7120,7 +7120,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7136,7 +7136,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7152,7 +7152,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7168,7 +7168,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7185,7 +7185,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7202,7 +7202,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7219,7 +7219,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7235,7 +7235,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7253,7 +7253,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7269,7 +7269,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7290,7 +7290,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7306,7 +7306,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7323,7 +7323,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7339,7 +7339,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7355,7 +7355,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7371,7 +7371,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7387,7 +7387,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7403,7 +7403,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7419,7 +7419,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7436,7 +7436,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7455,7 +7455,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7475,7 +7475,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7492,7 +7492,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7508,7 +7508,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7524,7 +7524,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7540,7 +7540,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7556,7 +7556,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7572,7 +7572,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7588,7 +7588,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7604,7 +7604,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7622,7 +7622,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7639,7 +7639,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7655,7 +7655,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7671,7 +7671,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7687,7 +7687,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7703,7 +7703,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7721,7 +7721,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7737,7 +7737,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7754,7 +7754,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7770,7 +7770,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7786,7 +7786,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7804,7 +7804,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7820,7 +7820,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7837,7 +7837,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7854,7 +7854,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7870,7 +7870,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7887,7 +7887,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7904,7 +7904,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7921,7 +7921,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7938,7 +7938,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7955,7 +7955,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7972,7 +7972,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -7988,7 +7988,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8004,7 +8004,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8020,7 +8020,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8036,7 +8036,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8055,7 +8055,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8073,7 +8073,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8090,7 +8090,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8106,7 +8106,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8123,7 +8123,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8139,7 +8139,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8155,7 +8155,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8171,7 +8171,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8187,7 +8187,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8203,7 +8203,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8219,7 +8219,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8237,7 +8237,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8253,7 +8253,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8269,7 +8269,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8286,7 +8286,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8302,7 +8302,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8319,7 +8319,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8335,7 +8335,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8351,7 +8351,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8367,7 +8367,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8383,7 +8383,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8399,7 +8399,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8415,7 +8415,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8431,7 +8431,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8447,7 +8447,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8463,7 +8463,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8479,7 +8479,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8495,7 +8495,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8512,7 +8512,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8528,7 +8528,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8544,7 +8544,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8560,7 +8560,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8576,7 +8576,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8592,7 +8592,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8608,7 +8608,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8624,7 +8624,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8640,7 +8640,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8656,7 +8656,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8672,7 +8672,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8688,7 +8688,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8706,7 +8706,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8722,7 +8722,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8739,7 +8739,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8757,7 +8757,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8773,7 +8773,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8789,7 +8789,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8805,7 +8805,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8822,7 +8822,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8839,7 +8839,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8855,7 +8855,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8871,7 +8871,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8887,7 +8887,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8903,7 +8903,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8919,7 +8919,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8935,7 +8935,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8951,7 +8951,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8968,7 +8968,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -8984,7 +8984,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9000,7 +9000,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9016,7 +9016,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9032,7 +9032,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9050,7 +9050,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9067,7 +9067,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9083,7 +9083,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9100,7 +9100,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9116,7 +9116,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9133,7 +9133,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9149,7 +9149,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9165,7 +9165,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9181,7 +9181,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9197,7 +9197,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9214,7 +9214,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9230,7 +9230,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9246,7 +9246,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9262,7 +9262,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9278,7 +9278,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9294,7 +9294,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9310,7 +9310,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9326,7 +9326,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9342,7 +9342,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9358,7 +9358,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9374,7 +9374,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9390,7 +9390,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9406,7 +9406,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9423,7 +9423,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9439,7 +9439,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9455,7 +9455,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9471,7 +9471,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9488,7 +9488,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9504,7 +9504,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9520,7 +9520,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9536,7 +9536,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9552,7 +9552,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9568,7 +9568,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9584,7 +9584,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9600,7 +9600,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9616,7 +9616,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9632,7 +9632,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9650,7 +9650,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9666,7 +9666,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9686,7 +9686,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9705,7 +9705,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9721,7 +9721,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9737,7 +9737,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9753,7 +9753,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9769,7 +9769,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9785,7 +9785,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9801,7 +9801,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9817,7 +9817,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9833,7 +9833,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9849,7 +9849,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9869,7 +9869,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9890,7 +9890,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9910,7 +9910,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "Marley",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9929,7 +9929,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9945,7 +9945,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9968,7 +9968,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -9986,7 +9986,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10002,7 +10002,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10020,7 +10020,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10038,7 +10038,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10056,7 +10056,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10074,7 +10074,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10092,7 +10092,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10111,7 +10111,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10129,7 +10129,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10147,7 +10147,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10165,7 +10165,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10184,7 +10184,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10202,7 +10202,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10221,7 +10221,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10239,7 +10239,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10257,7 +10257,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10275,7 +10275,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10293,7 +10293,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10312,7 +10312,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10331,7 +10331,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10349,7 +10349,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10367,7 +10367,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10385,7 +10385,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10404,7 +10404,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10423,7 +10423,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10442,7 +10442,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10460,7 +10460,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10478,7 +10478,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10497,7 +10497,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10515,7 +10515,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10533,7 +10533,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10551,7 +10551,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10569,7 +10569,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10587,7 +10587,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10605,7 +10605,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10625,7 +10625,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10643,7 +10643,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10661,7 +10661,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10679,7 +10679,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10698,7 +10698,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10716,7 +10716,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10734,7 +10734,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10752,7 +10752,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10770,7 +10770,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10786,7 +10786,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10804,7 +10804,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10822,7 +10822,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10840,7 +10840,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10860,7 +10860,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10877,7 +10877,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10894,7 +10894,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10912,7 +10912,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10929,7 +10929,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10946,7 +10946,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10963,7 +10963,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10980,7 +10980,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -10997,7 +10997,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11014,7 +11014,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11032,7 +11032,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11049,7 +11049,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11066,7 +11066,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11083,7 +11083,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11101,7 +11101,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11119,7 +11119,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11137,7 +11137,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11155,7 +11155,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11174,7 +11174,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11192,7 +11192,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11211,7 +11211,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11229,7 +11229,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11246,7 +11246,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11263,7 +11263,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11281,7 +11281,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11298,7 +11298,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11315,7 +11315,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11332,7 +11332,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11349,7 +11349,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11366,7 +11366,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11383,7 +11383,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11400,7 +11400,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11417,7 +11417,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11434,7 +11434,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11452,7 +11452,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11469,7 +11469,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11487,7 +11487,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11505,7 +11505,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11523,7 +11523,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11540,7 +11540,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11557,7 +11557,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11574,7 +11574,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11591,7 +11591,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11608,7 +11608,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11625,7 +11625,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11643,7 +11643,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11662,7 +11662,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11680,7 +11680,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11697,7 +11697,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11714,7 +11714,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11731,7 +11731,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11748,7 +11748,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11766,7 +11766,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11783,7 +11783,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11802,7 +11802,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11819,7 +11819,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11838,7 +11838,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11854,7 +11854,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11870,7 +11870,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11886,7 +11886,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11902,7 +11902,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11919,7 +11919,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11935,7 +11935,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11953,7 +11953,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11971,7 +11971,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -11989,7 +11989,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12007,7 +12007,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12025,7 +12025,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12041,7 +12041,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12057,7 +12057,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12073,7 +12073,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12089,7 +12089,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12105,7 +12105,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12121,7 +12121,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12137,7 +12137,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12153,7 +12153,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12169,7 +12169,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12185,7 +12185,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12201,7 +12201,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12217,7 +12217,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12233,7 +12233,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12249,7 +12249,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12265,7 +12265,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12281,7 +12281,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12297,7 +12297,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12313,7 +12313,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12329,7 +12329,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12345,7 +12345,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12361,7 +12361,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12377,7 +12377,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12393,7 +12393,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12409,7 +12409,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12425,7 +12425,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12441,7 +12441,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12457,7 +12457,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12473,7 +12473,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12489,7 +12489,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12505,7 +12505,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12521,7 +12521,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12537,7 +12537,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12553,7 +12553,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12569,7 +12569,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12585,7 +12585,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12601,7 +12601,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   },
   {
@@ -12617,7 +12617,7 @@
     "nationalities": [],
     "aperance": [],
     "crew": "",
-    "livestatus": "alive",
+    "livestatus": "Alive",
     "gender": "unknown"
   }
 ]

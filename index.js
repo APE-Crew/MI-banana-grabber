@@ -8,8 +8,6 @@ it's an APE not an API, sry little pirate.
 ------------------------------------------------------------------------------------
 */
 
-const fs = require("fs");
-
 // ----------------------------------------------------------------------------------
 // ------------------------------ Monkey Patches ------------------------------------
 if (!Object.prototype.ObjectToArray) {
@@ -42,7 +40,7 @@ if (!Array.prototype.intersect) {
 // ----------------------------------------------------------------------------------
 
 const fs = require("fs");
-const { stringify } = require("querystring");
+// const {stringify} = require("querystring");
 
 const filePathes = {
   source: "./sources/allWikipages.json",
@@ -54,7 +52,6 @@ const filePathes = {
   locations: "json_files/ape_locations.json",
   unknown: "json_files/ape_unknown.json",
 };
-
 
 const gameNames = {
   SoMI: "The Secret of Monkey Island",
@@ -124,14 +121,13 @@ function filterDatas(filterfor, fulldata) {
   return fulldata;
 }
 // ----------------------------------------------------------------------------------
-const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
+// const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
 // ----------------------------------------------------------------------------------
 function splitCats(data) {
   const dn = data.map((dataObject) => {
     const categoryStrings = dataObject.categories;
 
     categoryStrings.map((cstr) => {
-
       dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
       dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
       dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
@@ -139,7 +135,6 @@ function splitCats(data) {
       dataObject.crew = getCrew(dataObject.crew, cstr);
       dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
       dataObject.gender = gender(dataObject.gender, cstr);
-
     });
     return dataObject;
   });
@@ -234,8 +229,6 @@ function gender(a, b) {
 }
 // ----------------------------------------------------------------------------------
 
-
-
 function deadOrAlive(a, b) {
   const complead = a + "|" + b;
   const makeLow = complead.toLowerCase();
@@ -252,8 +245,7 @@ function deadOrAlive(a, b) {
 }
 
 // ----------------------------------------------------------------------------------
-const setNewAttributeInDataset = (dataset, attr, value) =>
-  (dataset[attr] = value);
+const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
 
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
