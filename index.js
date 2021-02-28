@@ -208,20 +208,20 @@ function gender(a, b) {
 }
 // ----------------------------------------------------------------------------------
 // zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
-// console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-// console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-// console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
-// console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
-// console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
-// console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
-// console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
-// console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
-// console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
-// console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
-// console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
-// console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
-// console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
-// console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
+console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
+console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
+console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
+console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
+console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
+console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
+console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
 
 function deadOrAlive(a, b) {
   const complead = a + "|" + b;
@@ -231,9 +231,7 @@ function deadOrAlive(a, b) {
     return "Ghost";
   } else if (makeLow.match("undead")) {
     return "Undead";
-  } else if (makeLow.match("dead")) {
-    return "Dead";
-  } else if (makeLow.match("deceased")) {
+  } else if (makeLow.match("dead") || makeLow.match("deceased")) {
     return "Dead";
   } else if (makeLow.match("alive") || !makeLow.match("deceased")) {
     return "Alive";
