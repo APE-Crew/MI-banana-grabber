@@ -39,6 +39,7 @@ if (!Array.prototype.intersect) {
 // ----------------------------------------------------------------------------------
 
 const fs = require("fs");
+const { stringify } = require("querystring");
 
 /* allWikipages.json contain all category infomations  */
 const sourceFilePath = "./sources/allWikipages.json";
@@ -84,10 +85,19 @@ function splitCats(data) {
       const e = cstr.split("|");
 
       dataObject.filekind = fileKind(dataObject.filekind, cstr).uniqueValues();
-      dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
-      dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
+      dataObject.professions = getProfessions(
+        dataObject.professions,
+        cstr
+      ).uniqueValues();
+      dataObject.nationalities = getNationalities(
+        dataObject.nationalities,
+        cstr
+      ).uniqueValues();
       // if (dataObject.nationalities.length > 1) console.log(dataObject.nationalities);
-      dataObject.aperance = getAperance(dataObject.aperance, cstr).uniqueValues();
+      dataObject.aperance = getAperance(
+        dataObject.aperance,
+        cstr
+      ).uniqueValues();
       dataObject.crew = getCrew(dataObject.crew, cstr).uniqueValues();
       // if (dataObject.crew.length > 1) console.log(dataObject.crew);
 
@@ -207,22 +217,27 @@ console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return �
 console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
 console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
 console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
+console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
+console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
 
 function deadOrAlive(a, b) {
-  // const splitted = b.split("|");
   const complead = a + "|" + b;
-  const lowes = complead.toLowerCase();
-  const renamed = lowes.replace("undead", "nichtamleben");
-  const ghost =
-    renamed.includes("Ghosts") || renamed.includes("ghost") ? "Ghost" : renamed;
-  const dead = ghost.includes("dead") ? "Dead" : ghost;
-  const undead = dead.includes("nichtamleben") ? "Undead" : dead;
-  const reallydead = undead.includes("deceased") ? "Dead" : undead;
-  const alive = reallydead.includes("alive") ? "Alive" : reallydead;
-  const reallyAlive = a === "" ? "Alive" : alive;
+  const makeLow = complead.toLowerCase();
 
-  return reallyAlive;
+  if (makeLow.match("ghost")) {
+    return "Ghost";
+  } else if (makeLow.match("undead")) {
+    return "Undead";
+  } else if (makeLow.match("dead") || makeLow.match("deceased")) {
+    return "Dead";
+  } else if (makeLow.match("alive") || !makeLow.match("deceased")) {
+    return "Alive";
+  }
 }
+
 // ----------------------------------------------------------------------------------
 const setNewAttributeInDataset = (dataset, attr, value) =>
   (dataset[attr] = value);
