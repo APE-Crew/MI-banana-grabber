@@ -7,6 +7,9 @@ So in this project ... if you  don't use Monkey Patching its _bad_ coding practi
 it's an APE not an API, sry little pirate.
 ------------------------------------------------------------------------------------
 */
+
+const fs = require("fs");
+
 // ----------------------------------------------------------------------------------
 // ------------------------------ Monkey Patches ------------------------------------
 if (!Object.prototype.ObjectToArray) {
@@ -41,10 +44,17 @@ if (!Array.prototype.intersect) {
 const fs = require("fs");
 const { stringify } = require("querystring");
 
-/* allWikipages.json contain all category infomations  */
-const sourceFilePath = "./sources/allWikipages.json";
-/* The Result json */
-const destinationFile = "json_files/ape_MASTERFILE.json";
+const filePathes = {
+  source: "./sources/allWikipages.json",
+  master: "json_files/ape_MASTERFILE.json",
+  items: "json_files/ape_items.json",
+  characters: "json_files/ape_characters.json",
+  ships: "json_files/ape_ships.json",
+  animals: "json_files/ape_animals.json",
+  locations: "json_files/ape_locations.json",
+  unknown: "json_files/ape_unknown.json",
+};
+
 
 const gameNames = {
   SoMI: "The Secret of Monkey Island",
@@ -56,77 +66,94 @@ const gameNames = {
 
 const changeData = (data) => {
   data = data.ObjectToArray();
-  // data = setNewAttributeInAllData(data);
-  data = deleteByKeyNames(data, ["childs", "inner", "kind"]);
-  data = changeKeyNames(data, { fullurl: "url", tagsource: "source" });
+  data = changeKeyNames(data, {fullurl: "url", tagsource: "source"});
   data = splitCats(data);
-  // console.log(data);
+  data = deleteByKeyNames(data, ["childs", "inner", "kind", "source"]);
   return data;
 };
 
-// if (!Object.prototype.functionfy) {
-//   Object.prototype.functionfy = function () {
-//     return () => JSON.stringify(this);
-//   };
-// }
-// const a = {};
-// console.log(typeof a); // object
-// const b = a.functionfy();
-// console.log(typeof b); // function
+// ----------------------------------------------------------------------------------
+fs.readFile(filePathes["source"], "utf-8", (err, jsonString) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
+  const data = changeData(JSON.parse(jsonString));
+  consoleLogStatistics(data);
+  writeFile(JSON.stringify(data, null, 2), filePathes["master"]);
+  writeFile(JSON.stringify(filterDatas("characters", data), null, 2), filePathes["characters"]);
+  writeFile(JSON.stringify(filterDatas("items", data), null, 2), filePathes["items"]);
+  writeFile(JSON.stringify(filterDatas("ships", data), null, 2), filePathes["ships"]);
+  writeFile(JSON.stringify(filterDatas("animals", data), null, 2), filePathes["animals"]);
+  writeFile(JSON.stringify(filterDatas("unknown", data), null, 2), filePathes["unknown"]);
+  writeFile(JSON.stringify(filterDatas("locations", data), null, 2), filePathes["locations"]);
+  // writeFile(JSON.stringify(result), data.stringify());
+});
 
-// delete thisIsObject["Cow"];
+// ----------------------------------------------------------------------------------
+function consoleLogStatistics(data) {
+  console.log("-----------------------------------------------------------------");
+  console.log(`Anzahl Datensätze: ${data.length}`);
+  console.log(`Kategorien: ${Object.keys(data[0]).length} (${Object.keys(data[0]).join(",")})`);
+  console.log("-----------------------------------------------------------------");
+}
+// ----------------------------------------------------------------------------------
+// TEST:
+const testdata = [
+  {dataset: ["animals"]},
+  {dataset: ["characters"]},
+  {dataset: ["animals", "characters"]},
+  {dataset: ["items"]},
+];
+const onlyitems = filterDatas("items", testdata);
+/* [
+  {dataset: ["items"]},
+]
+*/
+console.log(onlyitems);
+const onlyanimals = filterDatas("animals", testdata);
+/* [
+    {dataset: ["animals"]},
+  {dataset: ["animals", "characters"]},
+]
+*/
+console.log(onlyanimals);
+// -------------------------------------------------------------
+function filterDatas(filterfor, fulldata) {
+  //filter nach filterfor
+  return fulldata;
+}
+// ----------------------------------------------------------------------------------
+const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
 // ----------------------------------------------------------------------------------
 function splitCats(data) {
   const dn = data.map((dataObject) => {
     const categoryStrings = dataObject.categories;
 
     categoryStrings.map((cstr) => {
-      // console.log(cstr);
-      const e = cstr.split("|");
 
-      dataObject.filekind = fileKind(dataObject.filekind, cstr).uniqueValues();
-      dataObject.professions = getProfessions(
-        dataObject.professions,
-        cstr
-      ).uniqueValues();
-      dataObject.nationalities = getNationalities(
-        dataObject.nationalities,
-        cstr
-      ).uniqueValues();
-      // if (dataObject.nationalities.length > 1) console.log(dataObject.nationalities);
-      dataObject.aperance = getAperance(
-        dataObject.aperance,
-        cstr
-      ).uniqueValues();
-      dataObject.crew = getCrew(dataObject.crew, cstr).uniqueValues();
-      // if (dataObject.crew.length > 1) console.log(dataObject.crew);
+      dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
+      dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
+      dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
+      dataObject.aperance = getAperance(dataObject.aperance, cstr).uniqueValues();
+      dataObject.crew = getCrew(dataObject.crew, cstr);
+      dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
+      dataObject.gender = gender(dataObject.gender, cstr);
 
-      if (e[0] === "Characters" || e[0] === "Animals") {
-        dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
-        dataObject.gender = gender(dataObject.gender, cstr);
-      }
-
-      // dataObject.individual = getIndividual(dataObject.individual,cstr);
-
-      if (e[0] === "Animals") {
-        dataObject.individual = "animal";
-      }
     });
-    // Lifestatus: alive | dead | undead | ghost
-
     return dataObject;
   });
   return dn;
 }
 
 // ----------------------------------------------------------------------------------
-function getCrew(arr, string) {
-  if (typeof arr === "undefined") arr = [];
+function getCrew(value, string) {
+  if (typeof value === "undefined") value = "";
   const e = string.split("|");
   if (e[1] === "Crews") {
-    if (typeof e[2] !== "undefined") arr.push(e[2]);
+    if (typeof e[2] !== "undefined") value = e[2].replace("s Crew", "");
   }
-  return arr;
+  return value;
 }
 // ----------------------------------------------------------------------------------
 function getAperance(arr, string) {
@@ -176,7 +203,10 @@ function fileKind(fileArray, string) {
     case "Items":
       fileArray.push("items");
       break;
-    case "Transportations":
+    case "Locations":
+      fileArray.push("locations");
+      break;
+    case "Transportation":
       fileArray.push(e[1]);
       break;
     default:
@@ -189,11 +219,7 @@ function fileKind(fileArray, string) {
 // ----------------------------------------------------------------------------------
 function gender(a, b) {
   const e = b.split("|");
-  const strResult = e.includes("Males")
-    ? "male"
-    : e.includes("Females")
-    ? "female"
-    : "unknown";
+  const strResult = e.includes("Males") ? "male" : e.includes("Females") ? "female" : "unknown";
 
   switch (a) {
     case "male":
@@ -207,21 +233,8 @@ function gender(a, b) {
   }
 }
 // ----------------------------------------------------------------------------------
-// zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
-console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
-console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
-console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
-console.log(deadOrAlive("", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Dead", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Undead", "Characters|Deceased|Undead")); // return ‘undead’
-console.log(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts")); // return ‘ghost’
+
+
 
 function deadOrAlive(a, b) {
   const complead = a + "|" + b;
@@ -241,6 +254,7 @@ function deadOrAlive(a, b) {
 // ----------------------------------------------------------------------------------
 const setNewAttributeInDataset = (dataset, attr, value) =>
   (dataset[attr] = value);
+
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
   return data.map((item) => {
@@ -276,68 +290,8 @@ function setNewAttributeInAllData(data) {
     // dataNew.push(data[key]);
   });
 }
+
 // ----------------------------------------------------------------------------------
-fs.readFile(sourceFilePath, "utf-8", (err, jsonString) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  const data = changeData(JSON.parse(jsonString));
-  writeFile(JSON.stringify(data, null, 2), destinationFile);
-  // writeFile(JSON.stringify(result), data.stringify());
-});
-// ----------------------------------------------------------------------------------
-
-// MEMO
-// fs.readFile("./allWikipages.json", "utf-8", (err, jsonString) => {
-//   const data = JSON.parse(jsonString);
-//   console.log(data);
-// });
-// fs.readFile(sourceFilePath, "utf8", (err, data) => {
-//   if (err) {
-//     console.error(err);
-//     return;
-//   }
-//   // console.log(data);
-//   // const result = getCategoryTree(JSON.parse(data));
-//   // console.log(result);
-//   // const x = getTrackInfo(data);
-//   // console.log(JSON.stringify(x));
-//   writeFile(JSON.stringify(result), destinationFile);
-// });
-
-// ----------------------------------------------------
-// split & analyse cats
-// fs.readFile("./allCategories.txt", "utf-8", (err, data) => {
-//   fs.readFile("./allWikipages.json", "utf-8", (err, json) => {
-//     let entity = JSON.parse(json);
-//     // let entityKeys = Object.keys(entity);
-
-//     const lines = data.split("\n");
-
-//     lines.forEach((line) => {
-//       const segement = line.split("|");
-//       const last = segement.pop();
-//       const cats = segement.join("|");
-//       // const last = segement[segement.length - 1];
-
-//       if (entity.hasOwnProperty(last)) {
-//         if (typeof entity[last]["categories"] == "undefined") {
-//           entity[last]["categories"] = [];
-//         }
-//         entity[last]["categories"].push(cats);
-//       } else {
-//         // console.log("KEINE ZUORDNUNG:", last);
-//       }
-//     });
-
-//     // console.log(entity);
-//     // writeFile(JSON.stringify(entity), "allWikipagesNEW.json");
-//     // console.log(lines);
-//   });
-// });
-
-// ---------------------------------------------
 function getCategoryTree(dataItem, path = "") {
   // console.log(path);
 
@@ -412,9 +366,7 @@ function dataRequested(data) {
   const objectCount = Object.keys(newObject).length;
 
   console.log(
-    `${objectCount} Datensätze insgesamt, ${
-      dataCount - objectCount
-    } doppelte Datensätze entfernt`
+    `${objectCount} Datensätze insgesamt, ${dataCount - objectCount} doppelte Datensätze entfernt`
   );
 
   writeFile(JSON.stringify(newObject), destinationFile);
