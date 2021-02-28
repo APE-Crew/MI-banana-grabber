@@ -41,6 +41,9 @@ if (!Array.prototype.intersect) {
 // const filteredArray = array1.filter(value => array2.includes(value));
 // ----------------------------------------------------------------------------------
 
+const fs = require("fs");
+const { stringify } = require("querystring");
+
 const filePathes = {
   source: "./sources/allWikipages.json",
   master: "json_files/ape_MASTERFILE.json",
@@ -51,6 +54,7 @@ const filePathes = {
   locations: "json_files/ape_locations.json",
   unknown: "json_files/ape_unknown.json",
 };
+
 
 const gameNames = {
   SoMI: "The Secret of Monkey Island",
@@ -127,6 +131,7 @@ function splitCats(data) {
     const categoryStrings = dataObject.categories;
 
     categoryStrings.map((cstr) => {
+
       dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
       dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
       dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
@@ -134,6 +139,7 @@ function splitCats(data) {
       dataObject.crew = getCrew(dataObject.crew, cstr);
       dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
       dataObject.gender = gender(dataObject.gender, cstr);
+
     });
     return dataObject;
   });
@@ -227,23 +233,27 @@ function gender(a, b) {
   }
 }
 // ----------------------------------------------------------------------------------
-function consoleCheck(funccase, gewuenscht) {
-  console.log(
-    `${funccase === gewuenscht ? "TRUE " : "FALSE"} - "${funccase}" ${
-      funccase === gewuenscht ? "===" : "!=="
-    } "${gewuenscht}" `
-  );
-}
-// ----------------------------------------------------------------------------------
+
+
 
 function deadOrAlive(a, b) {
-  const wert = {alive: 0, dead: 1, undead: 2, ghost: 3};
-  a = a === "" || typeof a === "undefined" ? "alive" : a.toLowerCase();
-  c = b.indexOf("Deceased") > 10 ? "dead" : "alive";
-  c = b.indexOf("Undead") > 18 ? "undead" : c;
-  c = b.indexOf("Ghosts") > 24 ? "ghost" : c;
-  return wert[a] >= wert[c] ? a : c;
+  const complead = a + "|" + b;
+  const makeLow = complead.toLowerCase();
+
+  if (makeLow.match("ghost")) {
+    return "Ghost";
+  } else if (makeLow.match("undead")) {
+    return "Undead";
+  } else if (makeLow.match("dead") || makeLow.match("deceased")) {
+    return "Dead";
+  } else if (makeLow.match("alive") || !makeLow.match("deceased")) {
+    return "Alive";
+  }
 }
+
+// ----------------------------------------------------------------------------------
+const setNewAttributeInDataset = (dataset, attr, value) =>
+  (dataset[attr] = value);
 
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
