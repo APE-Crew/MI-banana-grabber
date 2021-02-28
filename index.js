@@ -40,10 +40,19 @@ if (!Array.prototype.intersect) {
 
 const fs = require("fs");
 
+const filePathes = {
+  master: "json_files/ape_MASTERFILE.json",
+  items: "json_files/ape_items.json",
+  characters: "json_files/ape_characters.json",
+  ships: "json_files/ape_ships.json",
+  animals: "json_files/ape_animals.json",
+  unknown: "json_files/ape_unknown.json",
+};
+
 /* allWikipages.json contain all category infomations  */
 const sourceFilePath = "./sources/allWikipages.json";
 /* The Result json */
-const destinationFile = "json_files/ape_MASTERFILE.json";
+// const destinationFile = filePathes["master"];
 
 const gameNames = {
   SoMI: "The Secret of Monkey Island",
@@ -57,11 +66,27 @@ const changeData = (data) => {
   data = data.ObjectToArray();
   // data = setNewAttributeInAllData(data);
   data = deleteByKeyNames(data, ["childs", "inner", "kind"]);
-  data = changeKeyNames(data, { fullurl: "url", tagsource: "source" });
+  data = changeKeyNames(data, {fullurl: "url", tagsource: "source"});
   data = splitCats(data);
   // console.log(data);
   return data;
 };
+
+// ----------------------------------------------------------------------------------
+fs.readFile(sourceFilePath, "utf-8", (err, jsonString) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
+  const data = changeData(JSON.parse(jsonString));
+  writeFile(JSON.stringify(data, null, 2), filePathes["master"]);
+  writeFile(JSON.stringify(filterDatas("characters", data), null, 2), filePathes["characters"]);
+  writeFile(JSON.stringify(filterDatas("items", data), null, 2), filePathes["items"]);
+  writeFile(JSON.stringify(filterDatas("ships", data), null, 2), filePathes["ships"]);
+  writeFile(JSON.stringify(filterDatas("animals", data), null, 2), filePathes["animals"]);
+  writeFile(JSON.stringify(filterDatas("unknown", data), null, 2), filePathes["unknown"]);
+  // writeFile(JSON.stringify(result), data.stringify());
+});
 
 // if (!Object.prototype.functionfy) {
 //   Object.prototype.functionfy = function () {
@@ -75,6 +100,24 @@ const changeData = (data) => {
 
 // delete thisIsObject["Cow"];
 // ----------------------------------------------------------------------------------
+// TEST:
+const testdata = [
+  {dataset: ["animals"]},
+  {dataset: ["characters"]},
+  {dataset: ["animals", "characters"]},
+  {dataset: ["items"]},
+];
+const onlyitems = filterDatas("items", testdata);
+console.log(onlyitems);
+const onlyanimals = filterDatas("animals", testdata);
+console.log(onlyanimals);
+// -------------
+function filterDatas(filterfor, fulldata) {
+  return fulldata;
+}
+// ----------------------------------------------------------------------------------
+const setNewAttributeInDataset = (dataset, attr, value) => (dataset[attr] = value);
+// ----------------------------------------------------------------------------------
 function splitCats(data) {
   const dn = data.map((dataObject) => {
     const categoryStrings = dataObject.categories;
@@ -83,12 +126,12 @@ function splitCats(data) {
       // console.log(cstr);
       const e = cstr.split("|");
 
-      dataObject.filekind = fileKind(dataObject.filekind, cstr).uniqueValues();
+      dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
       dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
       dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
       // if (dataObject.nationalities.length > 1) console.log(dataObject.nationalities);
       dataObject.aperance = getAperance(dataObject.aperance, cstr).uniqueValues();
-      dataObject.crew = getCrew(dataObject.crew, cstr).uniqueValues();
+      dataObject.crew = getCrew(dataObject.crew, cstr);
       // if (dataObject.crew.length > 1) console.log(dataObject.crew);
 
       if (e[0] === "Characters" || e[0] === "Animals") {
@@ -98,9 +141,9 @@ function splitCats(data) {
 
       // dataObject.individual = getIndividual(dataObject.individual,cstr);
 
-      if (e[0] === "Animals") {
-        dataObject.individual = "animal";
-      }
+      // if (e[0] === "Animals") {
+      //   dataObject.individual = "animal";
+      // }
     });
     // Lifestatus: alive | dead | undead | ghost
 
@@ -110,13 +153,13 @@ function splitCats(data) {
 }
 
 // ----------------------------------------------------------------------------------
-function getCrew(arr, string) {
-  if (typeof arr === "undefined") arr = [];
+function getCrew(value, string) {
+  if (typeof value === "undefined") value = "";
   const e = string.split("|");
   if (e[1] === "Crews") {
-    if (typeof e[2] !== "undefined") arr.push(e[2]);
+    if (typeof e[2] !== "undefined") value = e[2].replace("s Crew", "");
   }
-  return arr;
+  return value;
 }
 // ----------------------------------------------------------------------------------
 function getAperance(arr, string) {
@@ -166,7 +209,10 @@ function fileKind(fileArray, string) {
     case "Items":
       fileArray.push("items");
       break;
-    case "Transportations":
+    case "Locations":
+      fileArray.push("locations");
+      break;
+    case "Transportation":
       fileArray.push(e[1]);
       break;
     default:
@@ -179,11 +225,7 @@ function fileKind(fileArray, string) {
 // ----------------------------------------------------------------------------------
 function gender(a, b) {
   const e = b.split("|");
-  const strResult = e.includes("Males")
-    ? "male"
-    : e.includes("Females")
-    ? "female"
-    : "unknown";
+  const strResult = e.includes("Males") ? "male" : e.includes("Females") ? "female" : "unknown";
 
   switch (a) {
     case "male":
@@ -197,35 +239,62 @@ function gender(a, b) {
   }
 }
 // ----------------------------------------------------------------------------------
-// zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
-console.log(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill")); // return ‘alive’
-console.log(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill")); // return ‘dead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Murray")); // return ‘undead’
-console.log(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck")); // return ‘ghost’
-console.log(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla")); // return ‘ghost’
-console.log(deadOrAlive("dead", "Characters|Deceased|Bla")); // return ‘dead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Bla")); // return ‘undead’
-console.log(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla")); // return ‘ghost’
-
-function deadOrAlive(a, b) {
-  // const splitted = b.split("|");
-  const complead = a + "|" + b;
-  const lowes = complead.toLowerCase();
-  const renamed = lowes.replace("undead", "nichtamleben");
-  const ghost =
-    renamed.includes("Ghosts") || renamed.includes("ghost") ? "Ghost" : renamed;
-  const dead = ghost.includes("dead") ? "Dead" : ghost;
-  const undead = dead.includes("nichtamleben") ? "Undead" : dead;
-  const reallydead = undead.includes("deceased") ? "Dead" : undead;
-  const alive = reallydead.includes("alive") ? "Alive" : reallydead;
-  const reallyAlive = a === "" ? "Alive" : alive;
-
-  return reallyAlive;
+function consoleCheck(funccase, gewuenscht) {
+  console.log(
+    `${funccase === gewuenscht ? "TRUE " : "FALSE"} - "${funccase}" ${
+      funccase === gewuenscht ? "===" : "!=="
+    } "${gewuenscht}" `
+  );
 }
 // ----------------------------------------------------------------------------------
-const setNewAttributeInDataset = (dataset, attr, value) =>
-  (dataset[attr] = value);
+// zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
+// consoleCheck(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill"), "alive");
+// consoleCheck(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill"), "alive");
+// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill"), "dead");
+// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead|Murray"), "undead");
+// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck"), "ghost");
+// consoleCheck(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla"), "ghost");
+// consoleCheck(deadOrAlive("dead", "Characters|Deceased|Bla"), "dead");
+// consoleCheck(deadOrAlive("undead", "Characters|Deceased|Bla"), "undead");
+// consoleCheck(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla"), "ghost");
+
+// consoleCheck(deadOrAlive("", "Characters|Deceased|Undead"), "undead");
+// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead"), "undead");
+// consoleCheck(deadOrAlive("Dead", "Characters|Deceased|Undead"), "undead");
+
+// consoleCheck(deadOrAlive("Undead", "Characters|Deceased|Undead"), "undead");
+// consoleCheck(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts"), "ghost");
+// ----------------------------------------------------------------------------------
+function deadOrAlive(a, b) {
+  const wert = {alive: 0, dead: 1, undead: 2, ghost: 3};
+  a = a === "" || typeof a === "undefined" ? "alive" : a.toLowerCase();
+  c = b.indexOf("Deceased") > 10 ? "dead" : "alive";
+  c = b.indexOf("Undead") > 18 ? "undead" : c;
+  c = b.indexOf("Ghosts") > 24 ? "ghost" : c;
+  return wert[a] >= wert[c] ? a : c;
+
+  // return b.search(/dead/g);
+  // return b.search(/dead\|undead\|/);
+  // return b.search(/dead\|undead\|ghost/);
+
+  // return b;
+  //   const splitted = b.split("|");
+  //   const c = splitted[splitted.length - 1];
+  // wertigkeit['alive'] > wertigkeit[c]
+
+  // const complead = a + "|" + b;
+  // const lowes = complead.toLowerCase();
+  // const renamed = lowes.replace("undead", "nichtamleben");
+  // const ghost = renamed.includes("Ghosts") || renamed.includes("ghost") ? "Ghost" : renamed;
+  // const dead = ghost.includes("dead") ? "Dead" : ghost;
+  // const undead = dead.includes("nichtamleben") ? "Undead" : dead;
+  // const reallydead = undead.includes("deceased") ? "Dead" : undead;
+  // const alive = reallydead.includes("alive") ? "Alive" : reallydead;
+  // const reallyAlive = a === "" ? "Alive" : alive;
+
+  // return reallyAlive;
+}
+
 // ----------------------------------------------------------------------------------
 function deleteByKeyNames(data, array) {
   return data.map((item) => {
@@ -261,16 +330,7 @@ function setNewAttributeInAllData(data) {
     // dataNew.push(data[key]);
   });
 }
-// ----------------------------------------------------------------------------------
-fs.readFile(sourceFilePath, "utf-8", (err, jsonString) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
-  const data = changeData(JSON.parse(jsonString));
-  writeFile(JSON.stringify(data, null, 2), destinationFile);
-  // writeFile(JSON.stringify(result), data.stringify());
-});
+
 // ----------------------------------------------------------------------------------
 
 // MEMO
@@ -397,9 +457,7 @@ function dataRequested(data) {
   const objectCount = Object.keys(newObject).length;
 
   console.log(
-    `${objectCount} Datensätze insgesamt, ${
-      dataCount - objectCount
-    } doppelte Datensätze entfernt`
+    `${objectCount} Datensätze insgesamt, ${dataCount - objectCount} doppelte Datensätze entfernt`
   );
 
   writeFile(JSON.stringify(newObject), destinationFile);
