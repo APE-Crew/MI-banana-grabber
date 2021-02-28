@@ -7,6 +7,9 @@ So in this project ... if you  don't use Monkey Patching its _bad_ coding practi
 it's an APE not an API, sry little pirate.
 ------------------------------------------------------------------------------------
 */
+
+const fs = require("fs");
+
 // ----------------------------------------------------------------------------------
 // ------------------------------ Monkey Patches ------------------------------------
 if (!Object.prototype.ObjectToArray) {
@@ -38,21 +41,16 @@ if (!Array.prototype.intersect) {
 // const filteredArray = array1.filter(value => array2.includes(value));
 // ----------------------------------------------------------------------------------
 
-const fs = require("fs");
-
 const filePathes = {
+  source: "./sources/allWikipages.json",
   master: "json_files/ape_MASTERFILE.json",
   items: "json_files/ape_items.json",
   characters: "json_files/ape_characters.json",
   ships: "json_files/ape_ships.json",
   animals: "json_files/ape_animals.json",
+  locations: "json_files/ape_locations.json",
   unknown: "json_files/ape_unknown.json",
 };
-
-/* allWikipages.json contain all category infomations  */
-const sourceFilePath = "./sources/allWikipages.json";
-/* The Result json */
-// const destinationFile = filePathes["master"];
 
 const gameNames = {
   SoMI: "The Secret of Monkey Island",
@@ -64,41 +62,37 @@ const gameNames = {
 
 const changeData = (data) => {
   data = data.ObjectToArray();
-  // data = setNewAttributeInAllData(data);
-  data = deleteByKeyNames(data, ["childs", "inner", "kind"]);
   data = changeKeyNames(data, {fullurl: "url", tagsource: "source"});
   data = splitCats(data);
-  // console.log(data);
+  data = deleteByKeyNames(data, ["childs", "inner", "kind", "source"]);
   return data;
 };
 
 // ----------------------------------------------------------------------------------
-fs.readFile(sourceFilePath, "utf-8", (err, jsonString) => {
+fs.readFile(filePathes["source"], "utf-8", (err, jsonString) => {
   if (err) {
     console.error(err);
     return;
   }
   const data = changeData(JSON.parse(jsonString));
+  consoleLogStatistics(data);
   writeFile(JSON.stringify(data, null, 2), filePathes["master"]);
   writeFile(JSON.stringify(filterDatas("characters", data), null, 2), filePathes["characters"]);
   writeFile(JSON.stringify(filterDatas("items", data), null, 2), filePathes["items"]);
   writeFile(JSON.stringify(filterDatas("ships", data), null, 2), filePathes["ships"]);
   writeFile(JSON.stringify(filterDatas("animals", data), null, 2), filePathes["animals"]);
   writeFile(JSON.stringify(filterDatas("unknown", data), null, 2), filePathes["unknown"]);
+  writeFile(JSON.stringify(filterDatas("locations", data), null, 2), filePathes["locations"]);
   // writeFile(JSON.stringify(result), data.stringify());
 });
 
-// if (!Object.prototype.functionfy) {
-//   Object.prototype.functionfy = function () {
-//     return () => JSON.stringify(this);
-//   };
-// }
-// const a = {};
-// console.log(typeof a); // object
-// const b = a.functionfy();
-// console.log(typeof b); // function
-
-// delete thisIsObject["Cow"];
+// ----------------------------------------------------------------------------------
+function consoleLogStatistics(data) {
+  console.log("-----------------------------------------------------------------");
+  console.log(`Anzahl Datensätze: ${data.length}`);
+  console.log(`Kategorien: ${Object.keys(data[0]).length} (${Object.keys(data[0]).join(",")})`);
+  console.log("-----------------------------------------------------------------");
+}
 // ----------------------------------------------------------------------------------
 // TEST:
 const testdata = [
@@ -108,11 +102,21 @@ const testdata = [
   {dataset: ["items"]},
 ];
 const onlyitems = filterDatas("items", testdata);
+/* [
+  {dataset: ["items"]},
+]
+*/
 console.log(onlyitems);
 const onlyanimals = filterDatas("animals", testdata);
+/* [
+    {dataset: ["animals"]},
+  {dataset: ["animals", "characters"]},
+]
+*/
 console.log(onlyanimals);
-// -------------
+// -------------------------------------------------------------
 function filterDatas(filterfor, fulldata) {
+  //filter nach filterfor
   return fulldata;
 }
 // ----------------------------------------------------------------------------------
@@ -123,30 +127,14 @@ function splitCats(data) {
     const categoryStrings = dataObject.categories;
 
     categoryStrings.map((cstr) => {
-      // console.log(cstr);
-      const e = cstr.split("|");
-
       dataObject.dataset = fileKind(dataObject.dataset, cstr).uniqueValues();
       dataObject.professions = getProfessions(dataObject.professions, cstr).uniqueValues();
       dataObject.nationalities = getNationalities(dataObject.nationalities, cstr).uniqueValues();
-      // if (dataObject.nationalities.length > 1) console.log(dataObject.nationalities);
       dataObject.aperance = getAperance(dataObject.aperance, cstr).uniqueValues();
       dataObject.crew = getCrew(dataObject.crew, cstr);
-      // if (dataObject.crew.length > 1) console.log(dataObject.crew);
-
-      if (e[0] === "Characters" || e[0] === "Animals") {
-        dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
-        dataObject.gender = gender(dataObject.gender, cstr);
-      }
-
-      // dataObject.individual = getIndividual(dataObject.individual,cstr);
-
-      // if (e[0] === "Animals") {
-      //   dataObject.individual = "animal";
-      // }
+      dataObject.livestatus = deadOrAlive(dataObject.livestatus, cstr);
+      dataObject.gender = gender(dataObject.gender, cstr);
     });
-    // Lifestatus: alive | dead | undead | ghost
-
     return dataObject;
   });
   return dn;
@@ -247,24 +235,7 @@ function consoleCheck(funccase, gewuenscht) {
   );
 }
 // ----------------------------------------------------------------------------------
-// zurückgegeben werden soll der höhere (alive < ghost) Lebensstatus: alive < dead < undead < ghost
-// consoleCheck(deadOrAlive("", "Characters|Sonstwas|Ozzie Mandrill"), "alive");
-// consoleCheck(deadOrAlive("alive", "Characters|Sonstwas|Ozzie Mandrill"), "alive");
-// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Ozzie Mandrill"), "dead");
-// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead|Murray"), "undead");
-// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead|Ghosts|LeChuck"), "ghost");
-// consoleCheck(deadOrAlive("ghost", "Characters|Deceased|Undead|Bla"), "ghost");
-// consoleCheck(deadOrAlive("dead", "Characters|Deceased|Bla"), "dead");
-// consoleCheck(deadOrAlive("undead", "Characters|Deceased|Bla"), "undead");
-// consoleCheck(deadOrAlive("undead", "Characters|Deceased|Undead|Ghosts|Bla"), "ghost");
 
-// consoleCheck(deadOrAlive("", "Characters|Deceased|Undead"), "undead");
-// consoleCheck(deadOrAlive("alive", "Characters|Deceased|Undead"), "undead");
-// consoleCheck(deadOrAlive("Dead", "Characters|Deceased|Undead"), "undead");
-
-// consoleCheck(deadOrAlive("Undead", "Characters|Deceased|Undead"), "undead");
-// consoleCheck(deadOrAlive("Undead", "Characters|Deceased|Undead|Ghosts"), "ghost");
-// ----------------------------------------------------------------------------------
 function deadOrAlive(a, b) {
   const wert = {alive: 0, dead: 1, undead: 2, ghost: 3};
   a = a === "" || typeof a === "undefined" ? "alive" : a.toLowerCase();
@@ -272,27 +243,6 @@ function deadOrAlive(a, b) {
   c = b.indexOf("Undead") > 18 ? "undead" : c;
   c = b.indexOf("Ghosts") > 24 ? "ghost" : c;
   return wert[a] >= wert[c] ? a : c;
-
-  // return b.search(/dead/g);
-  // return b.search(/dead\|undead\|/);
-  // return b.search(/dead\|undead\|ghost/);
-
-  // return b;
-  //   const splitted = b.split("|");
-  //   const c = splitted[splitted.length - 1];
-  // wertigkeit['alive'] > wertigkeit[c]
-
-  // const complead = a + "|" + b;
-  // const lowes = complead.toLowerCase();
-  // const renamed = lowes.replace("undead", "nichtamleben");
-  // const ghost = renamed.includes("Ghosts") || renamed.includes("ghost") ? "Ghost" : renamed;
-  // const dead = ghost.includes("dead") ? "Dead" : ghost;
-  // const undead = dead.includes("nichtamleben") ? "Undead" : dead;
-  // const reallydead = undead.includes("deceased") ? "Dead" : undead;
-  // const alive = reallydead.includes("alive") ? "Alive" : reallydead;
-  // const reallyAlive = a === "" ? "Alive" : alive;
-
-  // return reallyAlive;
 }
 
 // ----------------------------------------------------------------------------------
@@ -332,57 +282,6 @@ function setNewAttributeInAllData(data) {
 }
 
 // ----------------------------------------------------------------------------------
-
-// MEMO
-// fs.readFile("./allWikipages.json", "utf-8", (err, jsonString) => {
-//   const data = JSON.parse(jsonString);
-//   console.log(data);
-// });
-// fs.readFile(sourceFilePath, "utf8", (err, data) => {
-//   if (err) {
-//     console.error(err);
-//     return;
-//   }
-//   // console.log(data);
-//   // const result = getCategoryTree(JSON.parse(data));
-//   // console.log(result);
-//   // const x = getTrackInfo(data);
-//   // console.log(JSON.stringify(x));
-//   writeFile(JSON.stringify(result), destinationFile);
-// });
-
-// ----------------------------------------------------
-// split & analyse cats
-// fs.readFile("./allCategories.txt", "utf-8", (err, data) => {
-//   fs.readFile("./allWikipages.json", "utf-8", (err, json) => {
-//     let entity = JSON.parse(json);
-//     // let entityKeys = Object.keys(entity);
-
-//     const lines = data.split("\n");
-
-//     lines.forEach((line) => {
-//       const segement = line.split("|");
-//       const last = segement.pop();
-//       const cats = segement.join("|");
-//       // const last = segement[segement.length - 1];
-
-//       if (entity.hasOwnProperty(last)) {
-//         if (typeof entity[last]["categories"] == "undefined") {
-//           entity[last]["categories"] = [];
-//         }
-//         entity[last]["categories"].push(cats);
-//       } else {
-//         // console.log("KEINE ZUORDNUNG:", last);
-//       }
-//     });
-
-//     // console.log(entity);
-//     // writeFile(JSON.stringify(entity), "allWikipagesNEW.json");
-//     // console.log(lines);
-//   });
-// });
-
-// ---------------------------------------------
 function getCategoryTree(dataItem, path = "") {
   // console.log(path);
 
